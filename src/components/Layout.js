@@ -15,10 +15,10 @@ const Topstrip = styled.div`
 `
 
 const Container = styled.div`
-  padding: 40px;
+  padding: 60px 0 40px 0;
 `
 
-const RightSide = styled.div`
+const RightContainer = styled.div`
   padding-left: 336px;
   padding-right: 40px;
   max-width: 100%;
@@ -53,16 +53,20 @@ class Layout extends React.Component {
     return (
       <div>
         <Topstrip />
-        <Container>{header}</Container>
-        <SidebarNav location={location.pathname} />
-        <RightSide>
-          <MainContent>{children}</MainContent>
-        </RightSide>
-        <footer>
-          Built using <a href="https://www.gatsbyjs.org">Gatsby</a>, with
-          special thanks to Meng To, Wes Bos, and HackerYou{' '}
-          <a href="#">Read About this Site</a>
-        </footer>
+        <Container>
+          <SidebarNav location={location.pathname} />
+          <RightContainer>
+            <MainContent>
+              {header}
+              {children}
+            </MainContent>
+          </RightContainer>
+          <footer>
+            Built using <a href="https://www.gatsbyjs.org">Gatsby</a>, with
+            special thanks to Meng To, Wes Bos, and HackerYou{' '}
+            <a href="#">Read About this Site</a>
+          </footer>
+        </Container>
       </div>
     )
   }

@@ -11,10 +11,30 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: 'gatsby-plugin-emoji-favicon',
+      options: {
+        emoji: ':v:',
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/work-projects`,
+        name: `work`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/personal-projects`,
+        name: `personal`,
       },
     },
     {
@@ -58,13 +78,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Tyler Benning Portfolio`,
+        short_name: `tylerbenning.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        //icon: `content/assets/gatsby-icon.png`,
       },
     },
     `gatsby-plugin-offline`,

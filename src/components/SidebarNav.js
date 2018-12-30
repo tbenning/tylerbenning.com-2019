@@ -2,16 +2,20 @@ import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import styled from 'styled-components'
 import { colors } from '../utils/globalStyles'
+//import LogoSvg from './LogoSvg'
+import logo from '../assets/logo.svg'
 
 const SideBar = styled.div`
   position: fixed;
   top: 0;
   background: #fff;
-  height: calc (100vh);
+  height: calc(100vh);
   width: 296px;
   z-index: 10;
-  padding-top: 60px;
-  border: 2px solid ul {
+  padding-top: 20px;
+  border-right: 2px solid ${colors.ink20};
+
+  ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -21,7 +25,16 @@ const SideBar = styled.div`
     margin: 0;
   }
   img {
-    padding-left: 40px;
+    margin: 40px;
+  }
+`
+
+const NavLink = styled(Link)`
+  text-decoration: none;
+  color: ${colors.ink80};
+
+  &:hover {
+    text-decoration: underline;
   }
 `
 
@@ -39,17 +52,15 @@ class SidebarNav extends Component {
 
         {/* get some data, or get some props that are passed in for data on work projects*/}
         <Link to={`/`}>
-          <img
-            src="https://source.unsplash.com/random/164x60"
-            alt="Tyler Benning logo"
-          />
+          <img src={logo} alt="tyler benning logo" />
+          {/* <LogoSvg style={{ margin: '40px' }} /> */}
         </Link>
         <ul>
           <li>
-            <Link to="/">About</Link>
+            <NavLink to="/">About</NavLink>
           </li>
           <li>
-            <Link to="/work-projects/">Work Projects</Link>
+            <NavLink to="/work-projects/">Work Projects</NavLink>
 
             {/* get some data, or get some props that are passed in for data on work and spit it out into list items here*/}
             {/* If the location of the page is work-projects, then show the bar below and expand it open with css animation */}
@@ -67,7 +78,7 @@ class SidebarNav extends Component {
             </SubNav>
           </li>
           <li>
-            <Link to="/personal-projects/">Personal Projects</Link>
+            <NavLink to="/personal-projects/">Personal Projects</NavLink>
           </li>
           <li>Resume</li>
         </ul>

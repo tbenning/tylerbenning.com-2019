@@ -39,4 +39,22 @@ body {
 p {
   font-family: 'PT Serif', 'georgia', serif;
   line-height: 1.65;
+  margin-bottom: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 8px;
+}
+
+li {
+  line-height: 1.65;
+}
+
+ul {
+  margin-bottom: 8px;
 }
