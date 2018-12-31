@@ -4,6 +4,7 @@ import '../utils/theme.css'
 import Hero from './Hero'
 import styled from 'styled-components'
 import SidebarNav from './SidebarNav'
+import { colors } from '../utils/globalStyles'
 
 const Topstrip = styled.div`
   height: 20px;
@@ -15,7 +16,7 @@ const Topstrip = styled.div`
 `
 
 const Container = styled.div`
-  padding: 60px 0 40px 0;
+  padding: 60px 0 0 0;
 `
 
 const RightContainer = styled.div`
@@ -25,8 +26,15 @@ const RightContainer = styled.div`
 `
 
 const MainContent = styled.div`
-  margin: 0 auto;
-  max-width: 768px;
+  max-width: 728px;
+`
+
+const Footer = styled.footer`
+  background: ${colors.ink20};
+  padding: 80px 40px 80px 40px;
+  width: 100%;
+  margin-left: 298px;
+  font-size: 14px;
 `
 
 class Layout extends React.Component {
@@ -56,16 +64,14 @@ class Layout extends React.Component {
         <Container>
           <SidebarNav location={location.pathname} />
           <RightContainer>
-            <MainContent>
-              {header}
-              {children}
-            </MainContent>
+            {header}
+            <MainContent>{children}</MainContent>
           </RightContainer>
-          <footer>
+          <Footer>
             Built using <a href="https://www.gatsbyjs.org">Gatsby</a>, with
             special thanks to Meng To, Wes Bos, and HackerYou{' '}
             <a href="#">Read About this Site</a>
-          </footer>
+          </Footer>
         </Container>
       </div>
     )

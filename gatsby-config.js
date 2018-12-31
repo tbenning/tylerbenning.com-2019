@@ -10,12 +10,12 @@ module.exports = {
     },
   },
   plugins: [
-    {
-      resolve: 'gatsby-plugin-emoji-favicon',
-      options: {
-        emoji: ':v:',
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-emoji-favicon',
+    //   options: {
+    //     emoji: ':v:',
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

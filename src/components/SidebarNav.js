@@ -14,7 +14,7 @@ const SideBar = styled.div`
   z-index: 10;
   padding-top: 20px;
   border-right: 2px solid ${colors.ink20};
-
+  overflow: scroll;
   ul {
     list-style: none;
     margin: 0;
@@ -25,7 +25,7 @@ const SideBar = styled.div`
     margin: 0;
   }
   img {
-    margin: 40px;
+    margin: 40px 40px 20px 40px;
   }
 `
 

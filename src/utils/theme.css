@@ -9,6 +9,7 @@ html {
 }
 body {
   margin: 0;
+  font-smoothing: antialiased;
 }
 article,
 aside,
@@ -40,6 +41,7 @@ p {
   font-family: 'PT Serif', 'georgia', serif;
   line-height: 1.65;
   margin-bottom: 16px;
+  font-size: 16px;
 }
 
 h1,

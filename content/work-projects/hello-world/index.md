@@ -24,6 +24,8 @@ A few things have happened from now since then (namely Myspace, bad haircuts, pu
 SUM Stuff goes here
 ```
 
+![Chinese Salty Egg](./salty_egg.jpg)
+
 🎨🖥✨
 
 ![User flow](http://unsplash.it/1024/760?random)

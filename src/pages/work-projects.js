@@ -9,7 +9,7 @@ class workProjects extends React.Component {
     const posts = data.allMarkdownRemark.edges
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <h1>Personal Projects</h1>
+        <h1>Work Projects</h1>
         <p>Such wow. Very React.</p>
       </Layout>
     )
