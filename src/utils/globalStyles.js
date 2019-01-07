@@ -13,7 +13,7 @@ const colors = {
   white: '#ffffff',
   black: '#000000',
 
-  brand: '#61dafb', // electric blue
+  brand: '#49f2e7', // electric blue
   brandLight: '#bbeffd',
 
   note: '#ffe564', // yellow

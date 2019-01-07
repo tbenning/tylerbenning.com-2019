@@ -1,9 +1,10 @@
 import styled from 'styled-components'
 import { Link } from 'gatsby'
+import { colors } from '../utils/globalStyles'
 
 export const HeroButton = styled(Link)`
   position: absolute;
-  background: #49f2e7;
+  background: ${colors.brand};
   color: #004a54;
   padding: 20px 44px;
   font-size: 18px;
@@ -29,5 +30,10 @@ export const HeroButton = styled(Link)`
 
   &:active {
     box-shadow: 0 1px 3px hsla(0, 0%, 0%, 0.2);
+  }
+
+  @media (max-width: 1028px) {
+    padding: 16px 32px;
+    font-size: 16px;
   }
 `

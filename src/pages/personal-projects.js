@@ -1,6 +1,7 @@
 import React from 'react'
 import Layout from '../components/Layout'
 import SidebarNav from '../components/SidebarNav'
+import { Link } from 'gatsby'
 
 class personalProjects extends React.Component {
   render() {
@@ -10,7 +11,25 @@ class personalProjects extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <h1>Personal Projects</h1>
-        <p>Such wow. Very React.</p>
+        <p>
+          These constraints change how we design products. On IBM OpenPages, we
+          spent a great deal of time learning and testing our designs with users
+          before release. Needless to say, I gained a newfound appreciation for
+          how software design has been done over the past few decades.{' '}
+        </p>
+        {/* this is the guts of the blog post items here, this should only show up on the projects page, but we should pass this data into sidebar */}
+        {posts.map(({ node }) => {
+          const title = node.frontmatter.title || node.fields.slug
+          return (
+            <div key={node.fields.slug}>
+              <h3>
+                <Link to={node.fields.slug}>{title}</Link>
+              </h3>
+              <small>{node.frontmatter.date}</small>
+              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+            </div>
+          )
+        })}
       </Layout>
     )
   }

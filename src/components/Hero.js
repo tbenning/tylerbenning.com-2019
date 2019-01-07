@@ -32,10 +32,16 @@ const Subheading = styled.p`
   line-height: 1.65;
   font-size: 24px;
   color: ${colors.ink80};
+  @media (max-width: 1028px) {
+    font-size: 18px;
+  }
 `
 
 const Heading = styled.h1`
   font-size: 52px;
+  @media (max-width: 1028px) {
+    font-size: 42px;
+  }
 `
 
 class Hero extends Component {
