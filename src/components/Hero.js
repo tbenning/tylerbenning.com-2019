@@ -39,6 +39,7 @@ const Subheading = styled.p`
 
 const Heading = styled.h1`
   font-size: 52px;
+  margin-bottom: 8px;
   @media (max-width: 1028px) {
     font-size: 42px;
   }
@@ -51,11 +52,14 @@ class Hero extends Component {
         <LeftDiv>
           <Heading>Hi, I'm Tyler</Heading>
           <Subheading>
-            I'm a product designer living and working in Toronto 🍁
+            I'm a recovering tab hoarder & product designer living in
+            Toronto&nbsp;🍁
           </Subheading>
           <HeroButton to="/work-projects/">See Work Projects</HeroButton>
         </LeftDiv>
+
         <RightDiv>
+          {/* Add a mouseover event to switch and animate the image here */}
           <img src={hero} alt="hero image" />
         </RightDiv>
       </HeroContainer>

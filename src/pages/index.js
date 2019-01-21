@@ -12,9 +12,10 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="Design Portfolio Tyler Benning"
+          title="Design Portfolio - Tyler Benning"
           keywords={[
             `ux design`,
+            `ui design`,
             `portfolio`,
             `product design`,
             `gatsby`,
@@ -23,21 +24,24 @@ class BlogIndex extends React.Component {
           ]}
         />
         {/* <Bio /> */}
-
         <h1>About Me</h1>
-        <p>Product design is what I do at work everyday. </p>
         <p>
-          Recently, I’ve become interested in Javascript and React, so I built
-          this site using Gatsby, a static site generator for React.{' '}
+          Product design is what I do at work everyday. Sometimes that means
+          fixing small things inside a big app. Other times it means starting
+          big ambitious projects from scratch.
         </p>
         <p>
-          I think stories are an important part of design, and are what help get
-          people on the same wavelength. This is a place to share some of my own
-          stories.
+          Recently, I got interested in Javascript, so I built this site using
+          Gatsby, a static site builder that uses React.{' '}
+        </p>
+        <p>
+          Stories are an important part of design, and are what help get people
+          on the same wavelength. This is where I write about and share some of
+          my own stories.
         </p>
 
         {/* this is the guts of the blog post items here, this should only show up on the projects page, but we should pass this data into sidebar */}
-        {posts.map(({ node }) => {
+        {/* {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <div key={node.fields.slug}>
@@ -48,7 +52,7 @@ class BlogIndex extends React.Component {
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
             </div>
           )
-        })}
+        })} */}
       </Layout>
     )
   }

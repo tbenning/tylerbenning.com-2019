@@ -30,25 +30,34 @@ const SideBar = styled.div`
     font-weight: 600;
     border: 1px solid rgba(0, 0, 0, 0);
   }
-  li:hover {
+  li a:hover{
+    color: ${colors.ink90};
+  }
+  ${'' /* li:hover {
     background: ${colors.ink10};
     cursor: pointer;
-  }
+  } */}
 
   img {
     margin: 40px 40px 20px 40px;
   }
 
   .active {
-    border-top: 1px solid ${colors.ink20};
-    border-bottom: 1px solid ${colors.ink20};
+    ${
+      '' /* border-top: 1px solid ${colors.ink20};
+    border-bottom: 1px solid ${colors.ink20}; */
+    }
     border-left: 6px solid ${colors.brand};
     padding-left: 35px;
-    background: ${colors.ink10};
+    ${'' /* background: ${colors.ink10}; */}
     font-weight: 600;
   }
   .active a {
     color: ${colors.ink90};
+  }
+  a {
+    color: ${colors.ink70};
+    text-decoration: none;
   }
 `
 
@@ -67,18 +76,22 @@ const SubNav = styled.ul`
 
 class SidebarNav extends Component {
   render() {
-    console.log(this.props.location)
     const currentPage = this.props.location
     let workitems
-
     if (currentPage == `/work-projects/`) {
       workitems = (
         <SubNav>
           <li>
-            Project Name <span>Company</span>
+            <Link to={`/`}>
+              Project Name
+              <span>Company</span>
+            </Link>
           </li>
           <li>
-            Project Name <span>Company</span>
+            <Link to={`/`}>
+              Project Name
+              <span>Company</span>
+            </Link>
           </li>
         </SubNav>
       )
@@ -112,7 +125,11 @@ class SidebarNav extends Component {
           <li className={currentPage == `/personal-projects/` ? `active` : ``}>
             <NavLink to="/personal-projects/">Personal Projects</NavLink>
           </li>
-          <li>Resume</li>
+          <li>
+            <a href="http://bit.ly/2FfKMmL" target="_blank" rel="noopener">
+              Resume
+            </a>
+          </li>
         </ul>
       </SideBar>
     )
