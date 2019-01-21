@@ -13,20 +13,20 @@ class workProjects extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <h1>Work Projects</h1>
         <p>
-          Case studies from the companies I’ve worked with over the past few
-          years
+          Case studies from companies I’ve worked with over the past few years
         </p>
         {/* this is the guts of the blog post items here, this should only show up on the projects page, but we should pass this data into sidebar */}
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <div key={node.fields.slug}>
-              <ProjectItem />
-              <h3>
-                <Link to={node.fields.slug}>{title}</Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <ProjectItem
+                title={title}
+                subtitle={node.frontmatter.tagline}
+                timeline={node.frontmatter.date}
+                readTime={node.timeToRead}
+                linkTo={node.fields.slug}
+              />
             </div>
           )
         })}
@@ -44,16 +44,17 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___company], order: DESC }) {
       edges {
         node {
-          excerpt
+          timeToRead
           fields {
             slug
           }
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            tagline
           }
         }
       }

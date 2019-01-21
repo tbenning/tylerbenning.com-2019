@@ -8,16 +8,24 @@ const Container = styled.div`
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 256px;
+  height: 252px;
   margin-bottom: 20px;
   img {
       margin-top: 4px;
+      margin-left: -2px;
   }
 }
 `
 const TextContainer = styled.div`
   padding: 20px;
   width: 100%;
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  a :hover {
+    text-decoration: underline;
+  }
 `
 
 const Heading = styled.h2`
@@ -37,22 +45,26 @@ const MetaData = styled.span`
 
 class ProjectItem extends Component {
   render() {
-    // const imgSrc = this.props
-    // const title = this.props
-    // const subTitle = this.props
-    // const timeline = this.props
+    const imgSrc = this.props.imgSrc
+    const title = this.props.title
+    const subtitle = this.props.subtitle
+    const timeline = this.props.timeline
+    const readTime = this.props.readTime
+    const linkTo = this.props.linkTo
     return (
       <Container>
-        <Link to="/">
+        <Link to={linkTo}>
           <img src="https://source.unsplash.com/256x256" />
         </Link>
 
         <TextContainer>
-          <Heading>UX Quick Wins</Heading>
-          <Subheading>
-            Improving the mobile user experience one ticket at a time
-          </Subheading>
-          <MetaData>2018 | 3M Read</MetaData>
+          <Link to={linkTo}>
+            <Heading>{title}</Heading>
+          </Link>
+          <Subheading>{subtitle}</Subheading>
+          <MetaData>
+            {timeline} | {readTime}M Read
+          </MetaData>
         </TextContainer>
       </Container>
     )

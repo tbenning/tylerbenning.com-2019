@@ -32,7 +32,7 @@ const MainContent = styled.div`
 const Footer = styled.footer`
   background: ${colors.ink20};
   padding: 80px 40px 80px 40px;
-  width: 100%;
+  max-width: 100%;
   margin-left: 298px;
   margin-top: 80px;
   font-size: 14px;
@@ -64,10 +64,11 @@ class Layout extends React.Component {
         <Topstrip />
         <Container>
           <SidebarNav location={location.pathname} />
+          <RightContainer>{header}</RightContainer>
           <RightContainer>
-            {header}
             <MainContent>{children}</MainContent>
           </RightContainer>
+
           <Footer>
             Built using <a href="https://www.gatsbyjs.org">Gatsby</a>, with
             special thanks to Meng To, Wes Bos, and HackerYou{' '}

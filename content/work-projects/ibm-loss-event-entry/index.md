@@ -2,6 +2,7 @@
 title: 'Loss Event Entry'
 date: '2016-01-01'
 company: 'IBM'
+tagline: 'Driving risk further into business departments'
 ---
 
 OpenPages: Loss Event Entry (LEE)

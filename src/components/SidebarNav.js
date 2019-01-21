@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import styled from 'styled-components'
 import { colors } from '../utils/globalStyles'
-
+import { StaticQuery, graphql } from 'gatsby'
 //import LogoSvg from './LogoSvg'
 import logo from '../assets/logo.svg'
 

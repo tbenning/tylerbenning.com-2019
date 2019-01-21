@@ -2,6 +2,7 @@
 title: 'UX Quickwins on Mobile'
 date: '2019-01-01'
 company: 'Top Hat'
+tagline: 'Improving the mobile user experience one ticket at a time'
 ---
 
 # UX Quick Wins
