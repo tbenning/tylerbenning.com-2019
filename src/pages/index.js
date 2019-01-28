@@ -27,17 +27,17 @@ class BlogIndex extends React.Component {
         <h1>About Me</h1>
         <p>
           Product design is what I do at work everyday. Sometimes that means
-          fixing small things inside a big app. Other times it means starting
-          big ambitious projects from scratch.
+          fixing lots of small things inside a big app. Other times it means
+          starting big ambitious projects from scratch.
         </p>
         <p>
           Recently, I got interested in Javascript, so I built this site using
-          Gatsby, a static site builder that uses React.{' '}
+          Gatsby, a static site builder that uses React and GraphQL.
         </p>
         <p>
-          Stories are an important part of design, and are what help get people
-          on the same wavelength. This is where I write about and share some of
-          my own stories.
+          Stories are at the heart of design, and are what help get people on
+          the same wavelength. This site is where I write about and share some
+          of my own stories.
         </p>
 
         {/* this is the guts of the blog post items here, this should only show up on the projects page, but we should pass this data into sidebar */}

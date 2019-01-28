@@ -16,6 +16,8 @@ const colors = {
   brand: '#49f2e7', // electric blue
   brandLight: '#bbeffd',
 
+  purple10: '#F2F2FF',
+
   note: '#ffe564', // yellow
   error: '#ff6464', // yellow
 }

@@ -5,6 +5,7 @@ import { Link } from 'gatsby'
 
 const Container = styled.div`
   border: 2px solid ${colors.ink20};
+  border-radius: 4px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -13,6 +14,7 @@ const Container = styled.div`
   img {
       margin-top: 4px;
       margin-left: -2px;
+      border-radius: 4px 0 0 4px;
   }
 }
 `

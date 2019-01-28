@@ -1,6 +1,5 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import SidebarNav from '../components/SidebarNav'
 import { Link } from 'gatsby'
 import ProjectItem from '../components/ProjectItem'
 
@@ -10,7 +9,11 @@ class workProjects extends React.Component {
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout
+        location={this.props.location}
+        title={siteTitle}
+        props={this.props}
+      >
         <h1>Work Projects</h1>
         <p>
           Case studies from companies I’ve worked with over the past few years

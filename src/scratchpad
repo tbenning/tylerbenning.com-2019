@@ -1,0 +1,7 @@
+If you're on a work project page, '/work-projects/'
+Then you should show the navigation for work projects
+
+Navigation should show all .md files 'title' string and 'company' string in the sidenav
+
+If you're on a personal projects page, '/personal-projects'
+Then you should show the nabigation for work projects 

@@ -5,94 +5,27 @@ import { colors } from '../utils/globalStyles'
 import { StaticQuery, graphql } from 'gatsby'
 //import LogoSvg from './LogoSvg'
 import logo from '../assets/logo.svg'
-
-const SideBar = styled.div`
-  position: fixed;
-  top: 0;
-  background: #fff;
-  height: calc(100vh);
-  width: 296px;
-  z-index: 10;
-  padding-top: 20px;
-  border-right: 2px solid ${colors.ink20};
-  overflow: scroll;
-
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  li {
-    padding: 8px 8px 8px 40px;
-    margin: 0;
-    font-size: 16px;
-    width: 100%;
-    font-weight: 600;
-    border: 1px solid rgba(0, 0, 0, 0);
-  }
-  li a:hover{
-    color: ${colors.ink90};
-  }
-  ${'' /* li:hover {
-    background: ${colors.ink10};
-    cursor: pointer;
-  } */}
-
-  img {
-    margin: 40px 40px 20px 40px;
-  }
-
-  .active {
-    ${
-      '' /* border-top: 1px solid ${colors.ink20};
-    border-bottom: 1px solid ${colors.ink20}; */
-    }
-    border-left: 6px solid ${colors.brand};
-    padding-left: 35px;
-    ${'' /* background: ${colors.ink10}; */}
-    font-weight: 600;
-  }
-  .active a {
-    color: ${colors.ink90};
-  }
-  a {
-    color: ${colors.ink70};
-    text-decoration: none;
-  }
-`
-
-const NavLink = styled(Link)`
-  text-decoration: none;
-  color: ${colors.ink70};
-  width: 100%;
-`
-
-const SubNav = styled.ul`
-  li {
-    padding-left: 10px;
-    font-size: 14px;
-  }
-`
+import { SideBar, NavLink, SubNav } from './SidebarNav.styles'
+import SubnavItems from './SubnavItems'
 
 class SidebarNav extends Component {
   render() {
+    const passedData = this.props
+    //console.log(passedData)
     const currentPage = this.props.location
+    const urlSplit = currentPage.split('/')
+    //console.log(urlSplit[2])
     let workitems
-    if (currentPage == `/work-projects/`) {
+    if (urlSplit[1] == `work-projects`) {
       workitems = (
         <SubNav>
-          <li>
-            <Link to={`/`}>
-              Project Name
-              <span>Company</span>
+          {/* <li>
+            <Link to={`/work-projects/top-hat-ux-quickwins/`}>
+              <h3>UX Quickwins on Mobile</h3>
+              <span>Top Hat</span>
             </Link>
-          </li>
-          <li>
-            <Link to={`/`}>
-              Project Name
-              <span>Company</span>
-            </Link>
-          </li>
+          </li> */}
+          <SubnavItems />
         </SubNav>
       )
     } else {
@@ -115,12 +48,6 @@ class SidebarNav extends Component {
           <li className={currentPage == `/work-projects/` ? `active` : ``}>
             <NavLink to="/work-projects/">Work Projects</NavLink>
             {workitems}
-            {/* get some data, or get some props that are passed in for data on work and spit it out into list items here*/}
-            {/* If the location of the page is work-projects, then show the bar below and expand it open with css animation */}
-            {/* {if (this.props.location === "/work-projects/"){
-
-              }
-            } */}
           </li>
           <li className={currentPage == `/personal-projects/` ? `active` : ``}>
             <NavLink to="/personal-projects/">Personal Projects</NavLink>

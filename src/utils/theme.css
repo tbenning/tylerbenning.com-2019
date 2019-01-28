@@ -62,3 +62,11 @@ li {
 ul {
   margin-bottom: 8px;
 }
+
+a {
+  color: #524ffc;
+}
+
+a:hover {
+  text-decoration: none;
+}

@@ -1,0 +1,83 @@
+import styled from 'styled-components'
+import { colors } from '../utils/globalStyles'
+import { Link } from 'gatsby'
+
+export const SideBar = styled.div`
+  position: fixed;
+  top: 0;
+  background: #fff;
+  height: calc(100vh);
+  width: 296px;
+  z-index: 10;
+  padding-top: 20px;
+  border-right: 2px solid ${colors.ink20};
+  overflow: scroll;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    padding: 8px 8px 8px 40px;
+    margin: 0;
+    font-size: 16px;
+    width: 100%;
+    font-weight: 600;
+    border: 1px solid rgba(0, 0, 0, 0);
+  }
+  li a:hover{
+    color: ${colors.ink90};
+  }
+  ${'' /* li:hover {
+    background: ${colors.ink10};
+    cursor: pointer;
+  } */}
+
+  img {
+    margin: 40px 40px 20px 40px;
+  }
+
+  .active {
+    ${
+      '' /* border-top: 1px solid ${colors.ink20};
+    border-bottom: 1px solid ${colors.ink20}; */
+    }
+    border-left: 6px solid ${colors.brand};
+    padding-left: 35px;
+    ${'' /* background: ${colors.ink10}; */}
+    font-weight: 600;
+  }
+  .active a {
+    color: ${colors.ink90};
+  }
+  a {
+    color: ${colors.ink70};
+    text-decoration: none;
+  }
+`
+
+export const NavLink = styled(Link)`
+  text-decoration: none;
+  color: ${colors.ink70};
+  width: 100%;
+`
+
+export const SubNav = styled.ul`
+  li {
+    padding-left: 10px;
+    font-size: 14px;
+  }
+  li h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 1;
+    color: ${colors.ink70};
+  }
+  li span {
+    font-size: 12px;
+    font-weight: 500;
+    color: ${colors.ink70};
+  }
+`

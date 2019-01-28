@@ -30,7 +30,7 @@ const MainContent = styled.div`
 `
 
 const Footer = styled.footer`
-  background: ${colors.ink20};
+  background: ${colors.purple10};
   padding: 80px 40px 80px 40px;
   max-width: 100%;
   margin-left: 298px;
@@ -43,7 +43,6 @@ class Layout extends React.Component {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
     let header
-
     if (location.pathname === rootPath) {
       header = (
         <div>
@@ -51,27 +50,23 @@ class Layout extends React.Component {
         </div>
       )
     }
-    // else {
-    //   header = (
-    //     <h3>
-    //       <Link to={`/`}>Logo</Link>
-    //     </h3>
-    //   )
-    // }
 
     return (
       <div>
         <Topstrip />
         <Container>
-          <SidebarNav location={location.pathname} />
+          <SidebarNav location={location.pathname} props={this.props} />
           <RightContainer>{header}</RightContainer>
           <RightContainer>
             <MainContent>{children}</MainContent>
           </RightContainer>
 
           <Footer>
-            Built using <a href="https://www.gatsbyjs.org">Gatsby</a>, with
-            special thanks to Meng To, Wes Bos, and HackerYou{' '}
+            Built using{' '}
+            <a href="https://www.gatsbyjs.org" target="_blank" rel="noopener">
+              Gatsby
+            </a>
+            , with special thanks to Meng To, Wes Bos, and HackerYou{' '}
             <a href="#">Read About this Site</a>
           </Footer>
         </Container>

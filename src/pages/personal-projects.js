@@ -12,10 +12,8 @@ class personalProjects extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <h1>Personal Projects</h1>
         <p>
-          These constraints change how we design products. On IBM OpenPages, we
-          spent a great deal of time learning and testing our designs with users
-          before release. Needless to say, I gained a newfound appreciation for
-          how software design has been done over the past few decades.{' '}
+          I'm starting to experiment with more personal projects outside of
+          work. Here's what I'm tinkering with lately.
         </p>
         {/* this is the guts of the blog post items here, this should only show up on the projects page, but we should pass this data into sidebar */}
         {posts.map(({ node }) => {

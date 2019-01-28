@@ -32,6 +32,7 @@ const Subheading = styled.p`
   line-height: 1.65;
   font-size: 24px;
   color: ${colors.ink80};
+  margin-bottom: 20px;
   @media (max-width: 1028px) {
     font-size: 18px;
   }
