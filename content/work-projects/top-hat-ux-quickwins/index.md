@@ -5,8 +5,6 @@ company: 'Top Hat'
 tagline: 'Improving the mobile user experience one ticket at a time'
 ---
 
-# UX Quick Wins
-
 As the lead designer for iOS and Android, I’d inherited UI that didn’t feel like it belonged to the same family as our web product. The typography, colours, and UI pattern were messy and did not follow a prescribed system. There were lots of small inconsistencies and interaction design issues.
 
 [IMG HERE]

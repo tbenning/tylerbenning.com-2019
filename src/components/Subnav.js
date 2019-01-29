@@ -1,0 +1,88 @@
+import React, { Component } from 'react'
+import { Link, StaticQuery, graphql } from 'gatsby'
+import styled from 'styled-components'
+import { colors } from '../utils/globalStyles'
+
+const NavList = styled.ul`
+  list-style: none;
+  margin-top: 16px;
+  border-left: 1px solid ${colors.ink20};
+  li {
+    padding-left: 12px;
+    margin-bottom: 8px;
+    font-size: 14px;
+  }
+  li h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 1;
+    color: ${colors.ink70};
+  }
+  li span {
+    font-size: 12px;
+    font-weight: 500;
+    color: ${colors.ink70};
+  }
+
+  li a:hover span,
+  li a:hover h3 {
+    color: ${colors.ink90};
+  }
+  .active {
+    ${'' /* border-left: 4px solid ${colors.purple40};
+    padding-left: 8px; */}
+  }
+  .active h3,
+  .active span {
+    color: ${colors.purple40} !important;
+  }
+`
+class Subnav extends Component {
+  render() {
+    const location = this.props.location
+    console.log(location)
+    return (
+      <StaticQuery
+        query={graphql`
+          query {
+            allMarkdownRemark(
+              sort: { fields: [frontmatter___company], order: DESC }
+            ) {
+              edges {
+                node {
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                    company
+                  }
+                }
+              }
+            }
+          }
+        `}
+        render={data => (
+          <NavList>
+            {data.allMarkdownRemark.edges.map(({ node }, index) => (
+              <li
+                key={index}
+                className={
+                  location && location == node.fields.slug ? `active` : ``
+                }
+              >
+                <Link to={node.fields.slug}>
+                  <h3>{node.frontmatter.title}</h3>
+                  <span>{node.frontmatter.company}</span>
+                </Link>
+              </li>
+            ))}
+          </NavList>
+        )}
+      />
+    )
+  }
+}
+
+export default Subnav

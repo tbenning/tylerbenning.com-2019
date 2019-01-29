@@ -10,12 +10,6 @@ module.exports = {
     },
   },
   plugins: [
-    // {
-    //   resolve: 'gatsby-plugin-emoji-favicon',
-    //   options: {
-    //     emoji: ':v:',
-    //   },
-    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -23,20 +17,6 @@ module.exports = {
         name: `content`,
       },
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     path: `${__dirname}/content/work-projects`,
-    //     name: `work`,
-    //   },
-    // },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     path: `${__dirname}/content/personal-projects`,
-    //     name: `personal`,
-    //   },
-    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -89,6 +69,15 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
+    //SVG plugin thats apparently not ready or well ddocumented
+    // {
+    //   resolve: 'gatsby-plugin-react-svg',
+    //   options: {
+    //     rule: {
+    //       include: /assets/,
+    //     },
+    //   },
+    // },
     // {
     //   resolve: `gatsby-plugin-typography`,
     //   options: {

@@ -13,71 +13,53 @@ export const SideBar = styled.div`
   border-right: 2px solid ${colors.ink20};
   overflow: scroll;
 
-  ul {
+  ul:first-child {
     list-style: none;
     margin: 0;
     padding: 0;
   }
-  li {
-    padding: 8px 8px 8px 40px;
-    margin: 0;
-    font-size: 16px;
-    width: 100%;
-    font-weight: 600;
-    border: 1px solid rgba(0, 0, 0, 0);
-  }
-  li a:hover{
-    color: ${colors.ink90};
-  }
-  ${'' /* li:hover {
-    background: ${colors.ink10};
-    cursor: pointer;
-  } */}
 
   img {
     margin: 40px 40px 20px 40px;
   }
+`
+export const SidebarItem = styled.li`
+  padding: 8px 8px 8px 40px;
+  margin: 0;
+  font-size: 16px;
+  width: 100%;
+  font-weight: 600;
+  border: 1px solid rgba(0, 0, 0, 0);
 
-  .active {
-    ${
-      '' /* border-top: 1px solid ${colors.ink20};
-    border-bottom: 1px solid ${colors.ink20}; */
-    }
+  a:hover {
+    color: ${colors.ink90};
+  }
+  &.active {
+    ${'' /* border-top: 1px solid ${colors.ink20};
+    border-bottom: 1px solid ${colors.ink20}; 
     border-left: 6px solid ${colors.brand};
     padding-left: 35px;
+    */}
+
     ${'' /* background: ${colors.ink10}; */}
     font-weight: 600;
   }
-  .active a {
-    color: ${colors.ink90};
+  &.active a {
+    color: ${colors.purple40};
   }
   a {
     color: ${colors.ink70};
     text-decoration: none;
   }
+
+  ${'' /* li:hover {
+    background: ${colors.ink10};
+    cursor: pointer;
+  } */}
 `
 
 export const NavLink = styled(Link)`
   text-decoration: none;
   color: ${colors.ink70};
   width: 100%;
-`
-
-export const SubNav = styled.ul`
-  li {
-    padding-left: 10px;
-    font-size: 14px;
-  }
-  li h3 {
-    margin: 0;
-    padding: 0;
-    font-size: 14px;
-    line-height: 1;
-    color: ${colors.ink70};
-  }
-  li span {
-    font-size: 12px;
-    font-weight: 500;
-    color: ${colors.ink70};
-  }
 `

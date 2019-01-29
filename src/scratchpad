@@ -5,3 +5,9 @@ Navigation should show all .md files 'title' string and 'company' string in the 
 
 If you're on a personal projects page, '/personal-projects'
 Then you should show the nabigation for work projects 
+
+
+https://github.com/gatsbyjs/gatsby/issues/10413
+
+
+ gatsby develop -H 0.0.0.0  

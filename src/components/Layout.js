@@ -5,6 +5,7 @@ import Hero from './Hero'
 import styled from 'styled-components'
 import SidebarNav from './SidebarNav'
 import { colors } from '../utils/globalStyles'
+import MobileNav from './MobileNav'
 
 const Topstrip = styled.div`
   height: 20px;
@@ -13,6 +14,10 @@ const Topstrip = styled.div`
   position: fixed;
   top: 0;
   z-index: 100;
+
+  @media only screen and (max-width: 750px) {
+    position: absolute;
+  }
 `
 
 const Container = styled.div`
@@ -23,6 +28,10 @@ const RightContainer = styled.div`
   padding-left: 336px;
   padding-right: 40px;
   max-width: 100%;
+
+  @media only screen and (max-width: 750px) {
+    padding-left: 40px;
+  }
 `
 
 const MainContent = styled.div`
@@ -33,7 +42,7 @@ const Footer = styled.footer`
   background: ${colors.purple10};
   padding: 80px 40px 80px 40px;
   max-width: 100%;
-  margin-left: 298px;
+  margin: 0 -40px;
   margin-top: 80px;
   font-size: 14px;
 `
@@ -56,19 +65,19 @@ class Layout extends React.Component {
         <Topstrip />
         <Container>
           <SidebarNav location={location.pathname} props={this.props} />
+          <MobileNav location={location.pathname} />
           <RightContainer>{header}</RightContainer>
           <RightContainer>
             <MainContent>{children}</MainContent>
+            <Footer>
+              Built using{' '}
+              <a href="https://www.gatsbyjs.org" target="_blank" rel="noopener">
+                Gatsby
+              </a>
+              , with special thanks to Meng To, Wes Bos, and HackerYou{' '}
+              <a href="#">Read About this Site</a>
+            </Footer>
           </RightContainer>
-
-          <Footer>
-            Built using{' '}
-            <a href="https://www.gatsbyjs.org" target="_blank" rel="noopener">
-              Gatsby
-            </a>
-            , with special thanks to Meng To, Wes Bos, and HackerYou{' '}
-            <a href="#">Read About this Site</a>
-          </Footer>
         </Container>
       </div>
     )
