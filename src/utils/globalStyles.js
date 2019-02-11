@@ -4,7 +4,7 @@ const colors = {
   ink90: '#07243E', //primary text
   ink80: '#3D4852', //secondary text
   ink70: '#606F7B',
-  ink60: '#07243E',
+  ink60: '#606F7B',
   ink50: '#8E9FAD',
   ink40: '#AFBCC7',
   ink20: '#E5EAEE',

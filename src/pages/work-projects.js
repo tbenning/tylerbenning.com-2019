@@ -2,6 +2,7 @@ import React from 'react'
 import Layout from '../components/Layout'
 import { Link } from 'gatsby'
 import ProjectItem from '../components/ProjectItem'
+import placeholder from '../assets/placeholder.png'
 
 class workProjects extends React.Component {
   render() {
@@ -25,6 +26,7 @@ class workProjects extends React.Component {
             <div key={node.fields.slug}>
               <ProjectItem
                 title={title}
+                imgSrc={placeholder}
                 subtitle={node.frontmatter.tagline}
                 timeline={node.frontmatter.date}
                 readTime={node.timeToRead}
@@ -47,7 +49,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___company], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___company], order: DESC }
+      filter: { fields: { slug: { regex: "/work-projects/" } } }
+    ) {
       edges {
         node {
           timeToRead

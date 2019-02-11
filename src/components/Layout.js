@@ -28,9 +28,30 @@ const RightContainer = styled.div`
   padding-left: 336px;
   padding-right: 40px;
   max-width: 100%;
+  opacity: 0.25;
+  animation: HeroAnimation 2.5s forwards cubic-bezier(0.165, 0.82, 0.165, 1);
+
+  @keyframes HeroAnimation {
+    0% {
+      opacity: 0.25;
+      transform: translateY(10px);
+    }
+    25% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
 
   @media only screen and (max-width: 750px) {
     padding-left: 40px;
+  }
+
+  @media only screen and (max-width: 500px) {
+    padding-left: 16px;
+    padding-right: 16px;
   }
 `
 
@@ -45,6 +66,13 @@ const Footer = styled.footer`
   margin: 0 -40px;
   margin-top: 80px;
   font-size: 14px;
+  @media only screen and (max-width: 750px) {
+    padding-bottom: 120px;
+  }
+
+  @media (max-width: 500px) {
+    margin: inherit -16px;
+  }
 `
 
 class Layout extends React.Component {

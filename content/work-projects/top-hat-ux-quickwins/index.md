@@ -5,13 +5,13 @@ company: 'Top Hat'
 tagline: 'Improving the mobile user experience one ticket at a time'
 ---
 
-As the lead designer for iOS and Android, I’d inherited UI that didn’t feel like it belonged to the same family as our web product. The typography, colours, and UI pattern were messy and did not follow a prescribed system. There were lots of small inconsistencies and interaction design issues.
+As the lead designer for iOS and Android, I’d inherited UI that didn’t feel like it belonged to the same family as our web product. The typography, colours, and UI was messy and didn't really follow a system. There were lots of small inconsistencies and interaction design issues.
 
 [IMG HERE]
 
-As a lean mobile team, we had other priorities to stabilize crash rates, keep up with new features being introduced to the product, and keep up with new OS releases. Sprint after sprint, design kept getting put on the back burner as “something we’ll do once we finish up this other important work”.
+Our mobile team was centralized and small. We had priorities to stabilize crash rates, keep up with new features being introduced to the product, and fix the app whenever there were new OS releases. Sprint after sprint, design kept getting put on the back burner as “something we’ll do once we finish up this other important work”.
 
-After a few frustrating months of trying to get buy in for a UI refresh, we settled on an alternative approach that we now call **UX Quick Wins.** Over the course of a year and a half, we slowly chipped away at design debt while continuing to do other important work.
+After a few frustrating months of trying to get buy in to prioritize a UI refresh, we agreed on an alternative approach that we now call **UX Quick Wins.** Over the course of a year and a half, we slowly chipped away at design debt while continuing to do other important work.
 
 ## The Process
 

@@ -1,30 +1,37 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import SidebarNav from '../components/SidebarNav'
 import { Link } from 'gatsby'
+import ProjectItem from '../components/ProjectItem'
+import placeholder from '../assets/placeholder.png'
 
-class personalProjects extends React.Component {
+class workProjects extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout
+        location={this.props.location}
+        title={siteTitle}
+        props={this.props}
+      >
         <h1>Personal Projects</h1>
         <p>
-          I'm starting to experiment with more personal projects outside of
-          work. Here's what I'm tinkering with lately.
+          Everything from open source, classes I've taken, to passion projects.
         </p>
         {/* this is the guts of the blog post items here, this should only show up on the projects page, but we should pass this data into sidebar */}
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <div key={node.fields.slug}>
-              <h3>
-                <Link to={node.fields.slug}>{title}</Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <ProjectItem
+                title={title}
+                imgSrc={placeholder}
+                subtitle={node.frontmatter.tagline}
+                timeline={node.frontmatter.date}
+                readTime={node.timeToRead}
+                linkTo={node.fields.slug}
+              />
             </div>
           )
         })}
@@ -33,7 +40,7 @@ class personalProjects extends React.Component {
   }
 }
 
-export default personalProjects
+export default workProjects
 
 export const pageQuery = graphql`
   query {
@@ -42,16 +49,20 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___company], order: DESC }
+      filter: { fields: { slug: { regex: "/personal-projects/" } } }
+    ) {
       edges {
         node {
-          excerpt
+          timeToRead
           fields {
             slug
           }
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            tagline
           }
         }
       }

@@ -47,7 +47,7 @@ const NavList = styled.ul`
     font-weight: 600;
   }
 `
-class Subnav extends Component {
+class SubnavPersonal extends Component {
   render() {
     const location = this.props.location
     const rootUrl = this.props.rootUrl
@@ -57,7 +57,7 @@ class Subnav extends Component {
           query {
             allMarkdownRemark(
               sort: { fields: [frontmatter___company], order: DESC }
-              filter: { fields: { slug: { regex: "/work-projects/" } } }
+              filter: { fields: { slug: { regex: "/personal-projects/" } } }
             ) {
               edges {
                 node {
@@ -95,4 +95,4 @@ class Subnav extends Component {
   }
 }
 
-export default Subnav
+export default SubnavPersonal

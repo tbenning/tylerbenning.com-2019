@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 import { colors } from '../utils/globalStyles'
-import hero from '../assets/hero.png'
+import hero from '../assets/hero-1.jpg'
+import hero2x from '../assets/hero-1@2x.jpg'
+import heroleft2x from '../assets/hero-2@2x.jpg'
 import { HeroButton } from './HeroButton.js'
 
 const HeroContainer = styled.div`
@@ -9,11 +11,19 @@ const HeroContainer = styled.div`
   padding: 60px 0 20px 0;
   display: flex;
   justify-content: flex-start;
+  @media (max-width: 500px) {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
 `
 const LeftDiv = styled.div`
   width: 45%;
-  max-width: 400px;
-  display: inline;
+  ${'' /* max-width: 400px; */}
+  z-index: 10;
+  @media (max-width: 500px) {
+    order: 1;
+    width: 100%;
+  }
 `
 
 const RightDiv = styled.div`
@@ -24,6 +34,12 @@ const RightDiv = styled.div`
     max-width: 600px;
     margin-left: -40px;
     margin-top: -50px;
+  }
+  @media (max-width: 500px) {
+    width: 100%;
+    img {
+      width: 100%;
+    }
   }
 `
 
@@ -48,6 +64,11 @@ const Heading = styled.h1`
 
 class Hero extends Component {
   render() {
+    let heroImg = heroleft2x
+    const animateHero = () => {
+      console.log('stuff')
+      //heroImg = hero2x
+    }
     return (
       <HeroContainer>
         <LeftDiv>
@@ -61,7 +82,7 @@ class Hero extends Component {
 
         <RightDiv>
           {/* Add a mouseover event to switch and animate the image here */}
-          <img src={hero} alt="hero image" />
+          <img src={heroImg} alt="hero image" onClick={() => animateHero()} />
         </RightDiv>
       </HeroContainer>
     )

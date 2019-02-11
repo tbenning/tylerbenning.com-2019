@@ -9,13 +9,22 @@ const Container = styled.div`
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 252px;
+  height: 200px;
   margin-bottom: 20px;
   img {
       margin-top: 4px;
       margin-left: -2px;
       border-radius: 4px 0 0 4px;
+      max-height: 200px;
   }
+
+  @media (max-width: 500px) {
+    height:125px;
+    img {
+      max-height: 125px;
+    }
+  }
+  
 }
 `
 const TextContainer = styled.div`
@@ -33,12 +42,23 @@ const TextContainer = styled.div`
 const Heading = styled.h2`
   font-size: 24px;
   margin-bottom: 4px;
+  @media (max-width: 650px) {
+    font-size: 20px;
+  }
 `
+
 const Subheading = styled.h3`
   font-size: 16px;
   font-weight: 500;
   color: ${colors.ink80};
   margin-bottom: 4px;
+
+  @media (max-width: 650px) {
+    font-size: 14px;
+  }
+  @media (max-width: 500px) {
+    display: none;
+  }
 `
 const MetaData = styled.span`
   font-size: 12px;
@@ -56,7 +76,7 @@ class ProjectItem extends Component {
     return (
       <Container>
         <Link to={linkTo}>
-          <img src="https://source.unsplash.com/256x256" />
+          <img src={imgSrc} />
         </Link>
 
         <TextContainer>

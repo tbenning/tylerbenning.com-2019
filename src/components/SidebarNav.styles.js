@@ -28,37 +28,54 @@ export const SidebarItem = styled.li`
   margin: 0;
   font-size: 16px;
   width: 100%;
-  font-weight: 600;
+  font-weight: 500;
   border: 1px solid rgba(0, 0, 0, 0);
+
+  ${'' /* a:first-child {
+    display: flex;
+    align-items: center;
+  } */}
 
   a:hover {
     color: ${colors.ink90};
+    text-decoration: underline;
   }
+
+  a {
+    display: flex;
+    align-items: center;
+  }
+  svg {
+    margin-right: 12px;
+  }
+
+  svg path {
+    fill: ${colors.ink50};
+  }
+
   &.active {
     ${'' /* border-top: 1px solid ${colors.ink20};
-    border-bottom: 1px solid ${colors.ink20}; 
+    border-bottom: 1px solid ${colors.ink20};
     border-left: 6px solid ${colors.brand};
-    padding-left: 35px;
-    */}
+    padding-left: 35px; */}
 
     ${'' /* background: ${colors.ink10}; */}
     font-weight: 600;
   }
   &.active a {
-    color: ${colors.purple40};
+    color: ${colors.ink90};
+  }
+  &.active svg path {
+    fill: ${colors.ink90};
   }
   a {
     color: ${colors.ink70};
     text-decoration: none;
   }
-
-  ${'' /* li:hover {
-    background: ${colors.ink10};
-    cursor: pointer;
-  } */}
 `
 
 export const NavLink = styled(Link)`
+  display: inline-block;
   text-decoration: none;
   color: ${colors.ink70};
   width: 100%;

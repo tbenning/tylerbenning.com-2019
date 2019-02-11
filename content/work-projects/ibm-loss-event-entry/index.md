@@ -9,11 +9,9 @@ OpenPages: Loss Event Entry (LEE)
 
 ## Problem
 
-![Chinese Salty Egg](./images/salty_egg.jpg)
+Picture this. You manage a team of currency traders at a large bank and you find that one of your team members made a mistake while trading currencies that cost your department \$50,000. At this point, it’s your team’s responsibility to report a loss event to the risk management team. What do you do next?
 
-Picture this. You manage a team of currency traders at a large bank and you find that one of your team members accidentally converted $100k USD into Chilean pesos instead of Mexican pesos.  By the time they figured out the error and traded it back, the market shifted and a $5000 loss occurred. At this point, it’s your team’s responsibility to report a loss event to the risk management team. What do you do next?
-
-Reporting loss events at banks is tough. In an ideal world, everyone in a company would work together to report loss events. There are communications problems, team silos, and difficult pieces of legacy software that prevent employees from working together and submitting these events.
+Reporting loss events at banks can be scary. You’re stressed about the mistake that was made, and now you have to figure out the rigorous process to report it to the risk team. In an ideal world, everyone in a company would work together to report loss events. There are communications problems, team silos, and difficult pieces of legacy software that prevent employees from working together and submitting these events.
 
 Our customers needed an elegant solution for infrequent and non-users of OpenPages to submit loss events quickly and easily, so that they could improve risk management practices across the business.
 
@@ -21,7 +19,7 @@ Our customers needed an elegant solution for infrequent and non-users of OpenPag
 
 I was the team lead and user experience designer.
 
-Located in Toronto, our team worked remotely with the OpenPages product management and development teams (located in Massachusetts). I collaborated on research, lead workshops for problem discovery, user journey mapping, sketching sessions, usability testing, and project management through ’til the final stages of development. As a team we were usually juggling multiple projects at once. Loss Event Entry is 1 of about 8 projects I worked on with the IBM OpenPages team. We worked on this project over 2-3 months from initial scope to completion.
+Located in Toronto, our team of 4 worked remotely with the OpenPages product management and development teams (located in Massachusetts). I collaborated on research, lead workshops for problem discovery, user journey mapping, sketching sessions, usability testing, and project management through ’til the final stages of development. As a team we were usually juggling multiple projects at once. Loss Event Entry is one of about eight projects I worked on with the IBM OpenPages team. We worked on this project over 2-3 months from initial scope to completion.
 
 ## Research
 
@@ -44,8 +42,7 @@ We learned what our users needed, but we also needed to decide what was the esse
 
 I put together a user journey and low fidelity mocks of the ideal solution. We worked with our Product Manager Bob, and our technical leads to undergo various rounds of iteration and feedback to come to a good solution.
 
-## Working Within Constraints
-
+**Working Within Constraints**
 We stripped down the collaborative features, and built a form that users could work through incrementally. We made only absolutely necessary fields required, and added an area for helpful tool tips. We used progressive disclosure, so that users could work through bitesized chunks of data input, and skip areas that didn’t apply to their type of loss event.
 
 Our UI designer Jasmine picked a colour scheme, type scale, and spacing that would work well to balance that information architecture but also adhere to the IBM Design Guide. She worked closely with our front end developer Susan to build a simple front end prototype in Angular, which we brought back to customers to perform user testing. We found usability improvements and workflow improvements that we were able to get into the production build of the application.
