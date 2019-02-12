@@ -17,6 +17,7 @@ const NavList = styled.ul`
   justify-content: space-between;
   max-width: 100%;
   margin: 0 20px;
+  padding: 0;
 `
 
 const NavItem = styled.li`

@@ -3,10 +3,10 @@ import { Link, StaticQuery, graphql } from 'gatsby'
 import styled from 'styled-components'
 import { colors } from '../utils/globalStyles'
 
-const NavList = styled.ul`
+export const NavList = styled.ul`
   list-style: none;
-  margin-top: 16px;
-  ${'' /* border-left: 1px solid ${colors.ink20}; */}
+  margin: 16px 0 0 0;
+  padding: 0;
 
   li {
     padding-left: 36px;

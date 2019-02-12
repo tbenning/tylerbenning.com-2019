@@ -1,6 +1,7 @@
 ---
 title: 'UX Quickwins on Mobile'
-date: '2019-01-01'
+date: '2018-01-01'
+dateRange: '2018-2019'
 company: 'Top Hat'
 tagline: 'Improving the mobile user experience one ticket at a time'
 ---

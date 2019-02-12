@@ -1,11 +1,6 @@
 import React, { Component } from 'react'
-import { Link } from 'gatsby'
-import styled from 'styled-components'
-import { colors } from '../utils/globalStyles'
-import { StaticQuery, graphql } from 'gatsby'
-//import LogoSvg from './LogoSvg'
 import logo from '../assets/logo.svg'
-import { SideBar, NavLink, SidebarItem } from './SidebarNav.styles'
+import { SideBar, NavLink, SidebarItem, SidebarList } from './SidebarNav.styles'
 import Subnav from './Subnav'
 import SubnavPersonal from './SubnavPersonal'
 
@@ -26,15 +21,14 @@ class SidebarNav extends Component {
     }
 
     return (
-      <SideBar className="hide-mobile">
+      <SideBar className="hide-medium">
         {/* if user scrolls down past the top container, OR we're on a page that isn't "home" animate in logo here*/}
 
         {/* get some data, or get some props that are passed in for data on work projects*/}
         <NavLink to={`/`}>
           <img src={logo} alt="tyler benning logo" />
-          {/* <LogoSvg style={{ margin: '40px' }} /> */}
         </NavLink>
-        <ul>
+        <SidebarList>
           <SidebarItem className={currentPage == `/` ? `active` : ``}>
             <NavLink to="/">
               <svg
@@ -114,7 +108,7 @@ class SidebarNav extends Component {
               <span>Resume</span>
             </a>
           </SidebarItem>
-        </ul>
+        </SidebarList>
       </SideBar>
     )
   }

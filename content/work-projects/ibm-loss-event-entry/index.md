@@ -1,25 +1,40 @@
 ---
 title: 'Loss Event Entry'
 date: '2016-01-01'
-company: 'IBM'
+dateRange: 'Dec 2015 - Mar 2016'
+company: 'IBM OpenPages'
 tagline: 'Driving risk further into business departments'
 ---
 
-OpenPages: Loss Event Entry (LEE)
-
 ## Problem
 
-Picture this. You manage a team of currency traders at a large bank and you find that one of your team members made a mistake while trading currencies that cost your department \$50,000. At this point, it’s your team’s responsibility to report a loss event to the risk management team. What do you do next?
+Picture this. You manage a team of currency traders at a large bank and you find that one of your team members made a mistake while trading currencies that cost your department \$50,000. At this point, it’s your team’s responsibility to report a loss event to the risk management team.
 
-Reporting loss events at banks can be scary. You’re stressed about the mistake that was made, and now you have to figure out the rigorous process to report it to the risk team. In an ideal world, everyone in a company would work together to report loss events. There are communications problems, team silos, and difficult pieces of legacy software that prevent employees from working together and submitting these events.
+What do you do next? Who do you tell? Who's accountable? How do you collect more information? What system do you need to use to record the information?
 
-Our customers needed an elegant solution for infrequent and non-users of OpenPages to submit loss events quickly and easily, so that they could improve risk management practices across the business.
+😅😅😅
+
+Reporting loss events at banks can be scary. You’re stressed about the mistake that was made, and now you have to figure out the rigorous process to report it to the risk team. In an ideal world, everyone in a company would work together to report loss events, but communication problems, team silos, and difficult pieces of legacy software prevent teams from working together and submitting these events.
+
+> Our customers needed an elegant solution for infrequent and non-users of OpenPages to submit loss events quickly and easily, so that they could improve risk management practices across the business.
 
 ## My Role
 
 I was the team lead and user experience designer.
 
-Located in Toronto, our team of 4 worked remotely with the OpenPages product management and development teams (located in Massachusetts). I collaborated on research, lead workshops for problem discovery, user journey mapping, sketching sessions, usability testing, and project management through ’til the final stages of development. As a team we were usually juggling multiple projects at once. Loss Event Entry is one of about eight projects I worked on with the IBM OpenPages team. We worked on this project over 2-3 months from initial scope to completion.
+Located in Toronto, our team of 4 worked remotely with the OpenPages product management and development teams in Massachusetts and Australia.
+
+My responsibilities included:
+
+- Coordinating remotely with our Product Manager and Developers
+- Collaborating on initial research
+- Facilitating customer-facing workshops for problem discovery
+- Team sketching sessions
+- Low fidelity prototyping
+- Testing prototypes for validity and usability
+- Presenting design “playbacks” to our remote teams
+
+Our team was usually juggling multiple projects at once. Loss Event Entry is one of about eight projects I worked on with the OpenPages team, which we completed over the course of 3 months from initial scope to completion.
 
 ## Research
 

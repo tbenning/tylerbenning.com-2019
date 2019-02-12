@@ -2,51 +2,8 @@ import React, { Component } from 'react'
 import { Link, StaticQuery, graphql } from 'gatsby'
 import styled from 'styled-components'
 import { colors } from '../utils/globalStyles'
+import { NavList } from './Subnav'
 
-const NavList = styled.ul`
-  list-style: none;
-  margin-top: 16px;
-  ${'' /* border-left: 1px solid ${colors.ink20}; */}
-
-  li {
-    padding-left: 36px;
-    margin-bottom: 8px;
-    font-size: 14px;
-  }
-  li h3 {
-    margin: 0;
-    padding: 0;
-    font-size: 14px;
-    font-weight: 500;
-    line-height: 1;
-    color: ${colors.ink80};
-  }
-  li span {
-    font-size: 12px;
-    font-weight: 500;
-    color: ${colors.ink70};
-  }
-
-  li a {
-    display: block;
-  }
-  li a:hover {
-    text-decoration: none;
-  }
-
-  li a:hover h3 {
-    color: ${colors.ink90};
-    text-decoration: underline;
-  }
-  .active {
-    ${'' /* border-left: 4px solid ${colors.purple40};
-    padding-left: 8px; */}
-  }
-  .active h3 {
-    color: ${colors.ink90} !important;
-    font-weight: 600;
-  }
-`
 class SubnavPersonal extends Component {
   render() {
     const location = this.props.location

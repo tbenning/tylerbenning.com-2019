@@ -26,8 +26,14 @@ const colors = {
 const intColors = {
   primaryText: colors.ink90,
   secondaryText: colors.ink80,
-
   divider: colors.ink20,
 }
 
-export { colors, intColors }
+const deviceSize = {
+  small: '500px',
+  smallMedium: '650px',
+  medium: '800px',
+  large: '1028px',
+}
+
+export { colors, intColors, deviceSize }

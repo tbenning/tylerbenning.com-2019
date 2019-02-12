@@ -4,8 +4,9 @@ import '../utils/theme.css'
 import Hero from './Hero'
 import styled from 'styled-components'
 import SidebarNav from './SidebarNav'
-import { colors } from '../utils/globalStyles'
+import { colors, deviceSize } from '../utils/globalStyles'
 import MobileNav from './MobileNav'
+import Footer from './Footer'
 
 const Topstrip = styled.div`
   height: 20px;
@@ -15,7 +16,7 @@ const Topstrip = styled.div`
   top: 0;
   z-index: 100;
 
-  @media only screen and (max-width: 750px) {
+  @media only screen and (max-width: ${deviceSize.medium}) {
     position: absolute;
   }
 `
@@ -45,11 +46,11 @@ const RightContainer = styled.div`
     }
   }
 
-  @media only screen and (max-width: 750px) {
+  @media only screen and (max-width: ${deviceSize.medium}) {
     padding-left: 40px;
   }
 
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: ${deviceSize.small}) {
     padding-left: 16px;
     padding-right: 16px;
   }
@@ -57,22 +58,6 @@ const RightContainer = styled.div`
 
 const MainContent = styled.div`
   max-width: 728px;
-`
-
-const Footer = styled.footer`
-  background: ${colors.purple10};
-  padding: 80px 40px 80px 40px;
-  max-width: 100%;
-  margin: 0 -40px;
-  margin-top: 80px;
-  font-size: 14px;
-  @media only screen and (max-width: 750px) {
-    padding-bottom: 120px;
-  }
-
-  @media (max-width: 500px) {
-    margin: inherit -16px;
-  }
 `
 
 class Layout extends React.Component {
@@ -97,14 +82,7 @@ class Layout extends React.Component {
           <RightContainer>{header}</RightContainer>
           <RightContainer>
             <MainContent>{children}</MainContent>
-            <Footer>
-              Built using{' '}
-              <a href="https://www.gatsbyjs.org" target="_blank" rel="noopener">
-                Gatsby
-              </a>
-              , with special thanks to Meng To, Wes Bos, and HackerYou{' '}
-              <a href="#">Read About this Site</a>
-            </Footer>
+            <Footer />
           </RightContainer>
         </Container>
       </div>

@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { Link } from 'gatsby'
-import { colors } from '../utils/globalStyles'
+import { colors, deviceSize } from '../utils/globalStyles'
 
 export const HeroButton = styled(Link)`
   position: relative;
@@ -34,7 +34,7 @@ export const HeroButton = styled(Link)`
     box-shadow: 0 1px 3px hsla(0, 0%, 0%, 0.2);
   }
 
-  @media (max-width: 1028px) {
+  @media (max-width: ${deviceSize.large}) {
     padding: 16px 32px;
     font-size: 16px;
   }

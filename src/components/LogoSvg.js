@@ -1,5 +1,5 @@
 import React from 'react'
-import { colors } from '../utils/GlobalStyles'
+import { colors } from '../utils/globalStyles'
 const LogoSvg = ({ fill = colors.ink90, style = '' }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"

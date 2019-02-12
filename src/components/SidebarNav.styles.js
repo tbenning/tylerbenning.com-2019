@@ -13,16 +13,16 @@ export const SideBar = styled.div`
   border-right: 2px solid ${colors.ink20};
   overflow: scroll;
 
-  ul:first-child {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
   img {
     margin: 40px 40px 20px 40px;
   }
 `
+
+export const SidebarList = styled.ul`
+  margin: 0;
+  padding: 0;
+`
+
 export const SidebarItem = styled.li`
   padding: 8px 8px 8px 40px;
   margin: 0;
@@ -30,7 +30,7 @@ export const SidebarItem = styled.li`
   width: 100%;
   font-weight: 500;
   border: 1px solid rgba(0, 0, 0, 0);
-
+  list-style: none;
   ${'' /* a:first-child {
     display: flex;
     align-items: center;

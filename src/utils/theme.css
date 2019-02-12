@@ -1,34 +1,12 @@
 /*--- Import Fonts --*/
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,600,600i');
-@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700');
+@import url('./normalize.css');
 
-html {
-  font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
-body {
-  margin: 0;
-  font-smoothing: antialiased;
-}
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
-}
-* {
+/* * {
   margin: 0;
   padding: 0;
-}
+} */
 
 /*---- Setting Styles ----*/
 body {
@@ -40,8 +18,8 @@ body {
 
 p {
   font-family: 'PT Serif', 'georgia', serif;
-  line-height: 1.85;
-  margin-bottom: 16px;
+  line-height: 1.8;
+  margin-bottom: 20px;
   font-size: 18px;
   color: #3d4852;
   letter-spacing: -0.003em;
@@ -54,6 +32,7 @@ h4,
 h5,
 h6 {
   margin-bottom: 16px;
+  letter-spacing: -0.015em;
 }
 
 li {
@@ -72,14 +51,29 @@ a:hover {
   text-decoration: none;
 }
 
-@media only screen and (min-width: 751px) {
+code {
+  background: #efefef;
+  border: 1px solid #ddd;
+  padding: 2px;
+  font-size: 16px !important;
+  border-radius: 4px;
+  margin: 0 2px;
+}
+
+@media only screen and (min-width: 801px) {
   .hide-desktop {
     display: none;
   }
 }
 
 /* General Global Styles*/
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 800px) {
+  .hide-medium {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 650px) {
   .hide-mobile {
     display: none;
   }
