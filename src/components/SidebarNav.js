@@ -4,32 +4,71 @@ import { SideBar, NavLink, SidebarItem, SidebarList } from './SidebarNav.styles'
 import Subnav from './Subnav'
 import SubnavPersonal from './SubnavPersonal'
 
+let workItems = <div />
+let personalItems = <div />
+
 class SidebarNav extends Component {
-  render() {
-    const currentPage = this.props.location
-    //console.log(currentPage)
-    const urlSplit = currentPage.split('/')
-    //console.log(urlSplit[2])
-    let workItems = <div />
-    let personalItems = <div />
-    if (urlSplit[1] == `work-projects`) {
-      workItems = <Subnav location={currentPage} />
-    } else if (urlSplit[1] == `personal-projects`) {
-      personalItems = <SubnavPersonal location={currentPage} />
+  constructor(props) {
+    super(props)
+  }
+  state = {
+    currentPage: this.props.location.pathname,
+  }
+  //Original Code that broke on Deploy
+  componentDidMount() {
+    console.log('beforemount', this.state.currentPage)
+    console.log(this.state)
+    let pageURL = this.state.currentPage.split('/')
+    this.setState({
+      currentPage: this.props.location.pathname,
+    })
+
+    if (document.URL.indexOf('work-projects') > -1) {
+      workItems = <Subnav location={this.state.currentPage} />
+      personalItems = <div />
+    } else if (document.URL.indexOf('personal-projects') > -1) {
+      personalItems = <SubnavPersonal location={this.state.currentPage} />
+      workItems = <div />
     } else {
       workItems = <div />
+      personalItems = <div />
     }
+  }
+  render() {
+    //When the page loads, check if the URL starts with work-projects,
+    // If it does, then set the subnav to show up with the proper content
+    //https://stackoverflow.com/questions/4597050/how-to-check-if-the-url-contains-a-given-string
+
+    // Second try
+    // if (document.URL.indexOf('work-projects') > -1) {
+    //   console.log('work nav bar')
+    //   workItems = (
+    //     <Subnav location={currentPage} projectType="/work-projects/" />
+    //   )
+    // } else if (document.URL.indexOf('personal-projects') > -1) {
+    //   console.log('personal nav bar')
+    //   personalItems = (
+    //     <SubnavPersonal
+    //       location={currentPage}
+    //       projectType="/personal-projects/"
+    //     />
+    //   )
+    // } else {
+    //   console.log('home')
+    //   workItems = <div />
+    // }
 
     return (
       <SideBar className="hide-medium">
-        {/* if user scrolls down past the top container, OR we're on a page that isn't "home" animate in logo here*/}
-
-        {/* get some data, or get some props that are passed in for data on work projects*/}
         <NavLink to={`/`}>
           <img src={logo} alt="tyler benning logo" />
         </NavLink>
         <SidebarList>
-          <SidebarItem className={currentPage == `/` ? `active` : ``}>
+          <SidebarItem
+            className={
+              this.state.currentPage == `${__PATH_PREFIX__}/` ? `active` : ``
+            }
+          >
             <NavLink to="/">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -49,7 +88,11 @@ class SidebarNav extends Component {
             </NavLink>
           </SidebarItem>
           <SidebarItem
-            className={currentPage == `/work-projects/` ? `active` : ``}
+            className={
+              this.state.currentPage == `${__PATH_PREFIX__}/work-projects/`
+                ? `active`
+                : ``
+            }
           >
             <NavLink to="/work-projects/">
               <svg
@@ -71,7 +114,11 @@ class SidebarNav extends Component {
             {workItems}
           </SidebarItem>
           <SidebarItem
-            className={currentPage == `/personal-projects/` ? `active` : ``}
+            className={
+              this.state.currentPage == `${__PATH_PREFIX__}/personal-projects/`
+                ? `active`
+                : ``
+            }
           >
             <NavLink to="/personal-projects/">
               <svg

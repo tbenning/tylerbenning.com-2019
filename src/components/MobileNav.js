@@ -63,7 +63,7 @@ const NavItem = styled.li`
 const MobileNav = props => (
   <Container className="hide-desktop">
     <NavList>
-      <NavItem className={props.location == `/` ? `active` : ``}>
+      <NavItem className={props.location.pathname == `/` ? `active` : ``}>
         <Link to="/">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -82,7 +82,9 @@ const MobileNav = props => (
           <span>About</span>
         </Link>
       </NavItem>
-      <NavItem className={props.location == `/work-projects/` ? `active` : ``}>
+      <NavItem
+        className={props.location.pathname == `/work-projects/` ? `active` : ``}
+      >
         <Link to="/work-projects/">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -102,7 +104,9 @@ const MobileNav = props => (
         </Link>
       </NavItem>
       <NavItem
-        className={props.location == `/personal-projects/` ? `active` : ``}
+        className={
+          props.location.pathname == `/personal-projects/` ? `active` : ``
+        }
       >
         <Link to="/personal-projects/">
           <svg
@@ -119,7 +123,9 @@ const MobileNav = props => (
           <span>Personal</span>
         </Link>
       </NavItem>
-      <NavItem className={props.location == `/resume/` ? `active` : ``}>
+      <NavItem
+        className={props.location.pathname == `/resume/` ? `active` : ``}
+      >
         <a href="http://bit.ly/2FfKMmL" rel="noopener" target="_blank">
           <svg
             xmlns="http://www.w3.org/2000/svg"

@@ -77,8 +77,8 @@ class Layout extends React.Component {
       <div>
         <Topstrip />
         <Container>
-          <SidebarNav location={location.pathname} props={this.props} />
-          <MobileNav location={location.pathname} />
+          <SidebarNav location={location} />
+          <MobileNav location={location} />
           <RightContainer>{header}</RightContainer>
           <RightContainer>
             <MainContent>{children}</MainContent>

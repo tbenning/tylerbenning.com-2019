@@ -4,11 +4,12 @@ module.exports = {
     author: `Tyler Benning`,
     description: `The portfolio and stories of Tyler Benning `,
     keywords: `ux design, ui, ux/ui, product, product design`,
-    siteUrl: `http://www.tylerbenning.com`,
+    siteUrl: `http://tbenning.github.io/tylerbenning.com/`,
     social: {
       twitter: ``,
     },
   },
+  pathPrefix: '/tylerbenning.com',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -69,20 +70,5 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    //SVG plugin thats apparently not ready or well ddocumented
-    // {
-    //   resolve: 'gatsby-plugin-react-svg',
-    //   options: {
-    //     rule: {
-    //       include: /assets/,
-    //     },
-    //   },
-    // },
-    // {
-    //   resolve: `gatsby-plugin-typography`,
-    //   options: {
-    //     pathToConfigModule: `src/utils/typography`,
-    //   },
-    // },
   ],
 }
