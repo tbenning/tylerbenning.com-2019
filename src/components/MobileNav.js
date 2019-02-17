@@ -60,6 +60,8 @@ const NavItem = styled.li`
   }
 `
 
+const rootPath = `${__PATH_PREFIX__}`
+
 const MobileNav = props => (
   <Container className="hide-desktop">
     <NavList>
@@ -79,13 +81,17 @@ const MobileNav = props => (
               />
             </g>
           </svg>
-          <span>About</span>
+          <span>Home</span>
         </Link>
       </NavItem>
       <NavItem
-        className={props.location.pathname == `/work-projects/` ? `active` : ``}
+        className={
+          props.location.pathname == rootPath + '/work-projects/'
+            ? `active`
+            : ``
+        }
       >
-        <Link to="/work-projects/">
+        <Link to={rootPath + '/work-projects/'}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -105,10 +111,12 @@ const MobileNav = props => (
       </NavItem>
       <NavItem
         className={
-          props.location.pathname == `/personal-projects/` ? `active` : ``
+          props.location.pathname == rootPath + '/personal-projects/'
+            ? `active`
+            : ``
         }
       >
-        <Link to="/personal-projects/">
+        <Link to={rootPath + '/personal-projects/'}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"

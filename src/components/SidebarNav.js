@@ -8,6 +8,9 @@ let workItems = <div />
 let personalItems = <div />
 
 class SidebarNav extends Component {
+  // Relevant articles to get this working
+  //https://github.com/gatsbyjs/gatsby/issues/309
+  //https://reactjs.org/docs/state-and-lifecycle.html
   constructor(props) {
     super(props)
   }
@@ -16,8 +19,6 @@ class SidebarNav extends Component {
   }
   //Original Code that broke on Deploy
   componentDidMount() {
-    console.log('beforemount', this.state.currentPage)
-    console.log(this.state)
     let pageURL = this.state.currentPage.split('/')
     this.setState({
       currentPage: this.props.location.pathname,
@@ -84,7 +85,7 @@ class SidebarNav extends Component {
                   />
                 </g>
               </svg>
-              <span>About</span>
+              <span>Home</span>
             </NavLink>
           </SidebarItem>
           <SidebarItem

@@ -49,6 +49,7 @@ export const NavList = styled.ul`
 `
 class Subnav extends Component {
   render() {
+    const rootPath = `${__PATH_PREFIX__}`
     const location = this.props.location
     const rootUrl = this.props.rootUrl
     const projectType = this.props.projectType
@@ -82,9 +83,12 @@ class Subnav extends Component {
               <li
                 key={index}
                 className={
-                  location && location == node.fields.slug ? `active` : ``
+                  location && location == rootPath + node.fields.slug
+                    ? `active`
+                    : ``
                 }
               >
+                {console.log(rootPath + node.fields.slug)}
                 <Link to={node.fields.slug}>
                   <h3>{node.frontmatter.title}</h3>
                   <span>{node.frontmatter.company}</span>

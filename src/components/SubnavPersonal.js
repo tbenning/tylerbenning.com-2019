@@ -6,6 +6,7 @@ import { NavList } from './Subnav'
 
 class SubnavPersonal extends Component {
   render() {
+    const rootPath = `${__PATH_PREFIX__}`
     const location = this.props.location
     const rootUrl = this.props.rootUrl
     const projectQuery = graphql`
@@ -38,7 +39,9 @@ class SubnavPersonal extends Component {
               <li
                 key={index}
                 className={
-                  location && location == node.fields.slug ? `active` : ``
+                  location && location == rootPath + node.fields.slug
+                    ? `active`
+                    : ``
                 }
               >
                 <Link to={node.fields.slug}>
