@@ -34,11 +34,11 @@ For this site, I figured that if I use a sidebar, it would remove the need to go
 
 ### Visual Design
 
-My hope is to convince you that I’m not a total bore of a designer that only knows how to draw boxes on screens. I can be creative damnit!
+MVisual design is a finicky thing. It has the power to help with usability, convey ideas, and generally give you a “feeling” about a site. My hope is to convince you that I’m not a total bore of a designer that only knows how to draw boxes on screens, and to make you feel good about your interaction on this site. I also want to show that I can be creative damnit!
 
-I drew out a few concepts on paper, then started to piece together some layout ideas in Sketch. Sometimes I look at other designers’ portfolio sites, and can’t help but feel disconnected from the designer. Generally work is supposed to speak for itself, but I want users to feel like they’re meeting me.
+To begin the process, I drew out a few layout concepts on paper, which I then pieced together in Sketch. I wanted to add brand elements, but also make it feel personal. Sometimes I look at other designers’ portfolio sites, and can’t help but feel disconnected from the designer. Generally work is supposed to speak for itself, but I want users to feel pleasant, as if they’re meeting me in person.
 
-To remedy this situation, I dug up a pleasant photo a friend had taken of me, and slapped it onto the page. I’m a sucker for mixed media illustrations, and decided to flex my Photoshop skills (that have been lacking recent practice). I’ve been using illustrations that I pulled from a pattern on my favourite shirt in my personal branding for the past few years. I did some masking and colour tweaking, and put together the hero image you now see on the front page today.
+To remedy this situation, I dug up the best “pleasant” photo I could find, that a friend had taken of me. I’m a sucker for mixed media illustrations, and decided to flex my Photoshop skills to build some brand materials. Over the years, I’ve been using illustrations that I pulled from a pattern on my favourite shirt to craft my personal brand. I did some masking and colour tweaking with layer styles, and put together the hero image you now see on the front page today.
 
 Since this is a content site, I made the typography straightforward with large headings in IBM Plex Sans, that I paired with Google Font’s PT Serif. It’s amazing what a little CSS can do to really make a site shine.
 [Perfect Motherfucking Website](https://perfectmotherfuckingwebsite.com/)
