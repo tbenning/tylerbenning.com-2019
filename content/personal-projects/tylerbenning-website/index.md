@@ -8,67 +8,90 @@ tagline: 'How to design, build, and write a portfolio'
 
 ## How I Designed This
 
-I approached this project similarly to how I approach most design projects. Figure out who the users are and their tasks.
+Designing a portfolio isn’t rocket science. It’s a basic website that has a few pages worth of content. Regardless of its simplicity, I still approached this project the same way I approach most design projects. Figure out who the users are and what they want to accomplish.
 
-Well, based on the conversations I’ve had around my last portfolios it’s probably:
+Based on the conversations I’d had around my past portfolios (v1 v2), I figured that most users were:
 
 - Recruiters
 - Hiring managers
 - Other designers
 - Mom ❤️
 
-What do I expect people to use this site for?
+What do I expect people to accomplish?
 
-- Learning
-- Reading
-- Skimming
-- Judging Me 🧐
+- Learn
+- Read
+- Skim
+- Judge 🧐
 
-**Optimizing for Reading & Learning**
+### Optimizing for Reading & Learning
 
-Okay, so users are supposed to spend time reading and learning on this site. What kinds of sites are optimized for reading? Well, I’d been reading and learning from loads of documentation sites like React, Gatsby, Mozilla docs, so I looked at their patterns. Documentation sites usually have clear an straightforward navigation to get guide users through content.
+Okay, so I expect users to read and learn on this site. What kinds of sites are optimized for reading? Well after months of perusing various documentation sites (React, Gatsby, MDN web docs), the answer was pretty obvious. Sidebars dwell within most documentation sites because of their power to guide users through content. The choice was simple.
 
-I sketched out a few simple layouts on paper, structured out my content, then started mocking them up in Sketch.
+For this site, I figured that if I use a sidebar, it would remove the need to go back to fiddle back and forth between the project list page, and the project write-ups. Less scrolling. Less clicks. Less cognitive load. Just click the next one in the menu! Sure, it only really saves a quick click here and there, but it adds up when you’re short on time and trying to flip between projects to figure out if this “Tyler guy” even knows what he’s talking about.
 
-I chose a sidebar navigation that listed out my different project write-ups. When a user is done reading a writeup, they can hop over to the next item on the sidebar. There’s no need to go back to the main project page, scroll down, and find the next one. Sure, it only really saves a quick click here and there, but it adds up when you’re short on time and trying to flip between write-ups. I also added keyboard navigation for lazy people and power users.
+-I also added keyboard navigation for lazy people and power users.-
 
-**Visual Design**
+### Visual Design
 
-I did some photoshop magic on my hero image and added in some fun mixed media illustrations that I pulled from a pattern on my favourite shirt. I grabbed my personal logo I’d made a few years ago and plunked the SVG into my Sketch file. Nothing special. Just enough to add some fun.
+My hope is to convince you that I’m not a total bore of a designer that only knows how to draw boxes on screens. I can be creative damnit!
 
-**Typography**
+I drew out a few concepts on paper, then started to piece together some layout ideas in Sketch. Sometimes I look at other designers’ portfolio sites, and can’t help but feel disconnected from the designer. Generally work is supposed to speak for itself, but I want users to feel like they’re meeting me.
 
-Since this is a content site, I made the typography straightforward with large headings in IBM Plex Sans, that I paired with Google Font’s PT Serif. It’s amazing what a little CSS can do to really make a site shine. [Perfect Motherfucking Website](https://perfectmotherfuckingwebsite.com/)
+To remedy this situation, I dug up a pleasant photo a friend had taken of me, and slapped it onto the page. I’m a sucker for mixed media illustrations, and decided to flex my Photoshop skills (that have been lacking recent practice). I’ve been using illustrations that I pulled from a pattern on my favourite shirt in my personal branding for the past few years. I did some masking and colour tweaking, and put together the hero image you now see on the front page today.
 
-## “How I Built This”
+Since this is a content site, I made the typography straightforward with large headings in IBM Plex Sans, that I paired with Google Font’s PT Serif. It’s amazing what a little CSS can do to really make a site shine.
+[Perfect Motherfucking Website](https://perfectmotherfuckingwebsite.com/)
 
-Almost a decade ago, I’d spent a good deal of time learning HTML/CSS, Javascript, and a bit of PHP. I’d built some Wordpress site, and a couple of other rudimentary sites, before diving headfirst into a career in design, leaving coding (mostly) behind.
+## How I Built This
 
-In late 2018, I decided I’d test the waters and look at how front end tools have evolved. I started learning git, set up a Github, and enrolled in a Javascript course at HackerYou. I started compiling a huge list of resources and used this roadmap as a guide on what to learn. It turns out there’s a good amount of resources for designers who want to learn more code.
+Almost a decade ago, I’d started learning HTML/CSS, Javascript, and PHP in school. I’d built some Wordpress sites, and a couple of CRUD sites for school projects. I was frustrated with CSS floats and that I couldn’t centre anything vertically in a div. Soon after, I dove headfirst into a career in design, leaving coding (mostly) behind.
+
+In late 2018, I decided I’d test the waters and look at how front-end tools have evolved. I found Flexbox. After Wes Bos’ Course, and now I feel like a born-again Christian, with a newfound love for CSS layouts.
+
+I started learning git, set up a Github, and enrolled in a Javascript course at HackerYou. I started compiling a huge list of resources and used this roadmap to decide on what to learn. It turns out there’s loads of resources for designers who want to learn more code.
+
+[What The Flexbox?! — A simple 20 video course that will help you master CSS Flexbox](https://flexbox.io/)
+
+[HackerYou | Learn to code in Toronto | Courses, Workshops, & IT Training](https://hackeryou.com/)
 
 [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
 It’s important to have projects while learning. After I’d completed a few jQuery assignments (project 1, project 2) for my HackerYou course, I wanted to dive into React and figure out what all the buzz was about.
 
-I started taking some online tutorials from Wes Bos and Meng To to get a feel for React. I read through all the Gatsby docs, and decided to use Gatsby as my tool of choice. I installed Styled Components and Prettier, and started structuring out my content in markdown files. I picked up just enough GraphQL to grab data from my markdown files, and get my site up and running on Github Pages.
+I started taking some online tutorials from Wes Bos and Meng To to get a feel for React. I discovered Gatsby, and bought into the buzz surrounding the project. I read through all the Gatsby docs, and decided Gatsby was perfect for my needs. I installed Styled Components and Prettier, and started structuring my content in markdown files. I picked up just enough GraphQL to grab data from my markdown files, and get my site up and running on Github Pages.
 
-I’m using LightHouse to check features.
-I’m still working on accessibility. It’s an important facet of design and development that I’m really curious about.
+### Inspirational People and Projects on the Internet
 
-### Inspirational People & Projects on the Internet
+I’m so grateful for all of the people who have put together such great content to learn from and be inspired by. I’d be so lost without these awesome people and projects!
 
-- Wes Bos: React for Beginners
+- Anne Thomas, Trudy McNabb, Instructors and TAs Matt Fairly, Lauren Greenway at HackerYou
+  _ http://upatfive.ca/
+  _ [dear trudence (@dear_trudence) | Twitter](https://twitter.com/dear_trudence)
+  _ https://twitter.com/AlfalfaAnne
+  _ [Lauren Codes 🌛](http://www.laurengreenway.com/) \* http://www.linkedin.com/in/mattgfairley/
+- Wes Bos: React for Beginners, Mastering markdown
 - Meng To's Design+Code
+- Gatsby’s Docs & Community
 - State of Javascript 2018
-- Carbon Design System Docs
-- Tania Rascia's Tutorial Writeups
+- ReactJS Gatsby Site
+- Carbon Design System Site
+- Tania Rascia's Tutorials
+- Jeremy, Jake, and other developers from work
 
-## Content Writing
+## How I Wrote This
 
-I write everything using Bear. I found it a few months back, and write all my work and personal notes in it. There’s a handy feature where you can copy everything as markdown, so I just paste everything I write into my markdown files on the site.
+Writing isn’t easy. I spent a great deal of time (probably too much) reflecting and digging through past projects. This is the fun part of creating a portfolio. You stop, reflect, and think back on old projects, parse through all of the design assets, and consider all of the decisions you’d made in the process. I think this exercise in itself helps you grow as a designer.
 
-Sure, there are more elegant CMS’, but I don’t mind updating my markdown files manually and pushing them to Github to deploy my site.
+Choosing words is tough. These resources helped me to find the words you currently see in front of you. Writing is a journey, and I’ll continue
+[Amazon.com: Letting Go of the Words: Writing Web Content that Works (Interactive Technologies) eBook: Janice (Ginny) Redish: Kindle Store](https://www.amazon.com/Letting-Go-Words-Interactive-Technologies-ebook/dp/B008HOJHDM)
+[Draft No. 4 | The New Yorker](https://www.newyorker.com/magazine/2013/04/29/draft-no-4)
+[The Art of Pitching: How I Got Published in The Atlantic — Campfire Labs](https://campfirelabs.co/blog-1/2019/1/8/the-art-of-pitching-how-i-got-published-in-the-atlantic)
 
-## Feedback
+As for my writing tools, I write everything using Bear. I found it a few months back, and now I write all my notes on Bear. There’s a handy feature where you can copy everything as markdown, so I just copy and paste everything from Bear to my markdown files. Sure, there are more elegant CMS’, but I don’t mind updating my markdown files manually and pushing them to Github pages.
 
-It’s been a wild ride getting this thing going, if you’re curious about the source code for this site, check the project out on Github. I always appreciate feedback on how I can improve the quality of this site.
+## SOS: Send Help
+
+It’s been a wild ride getting this thing going, if you’re curious about the source code for this site, check the project out on Github. I always appreciate feedback on how to improve the site and refactor my code.
+
+Better yet, fork it and use it for your own portfolio or blog project!
