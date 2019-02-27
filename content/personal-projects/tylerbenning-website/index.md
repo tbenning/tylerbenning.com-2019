@@ -3,7 +3,7 @@ title: 'Portfolio Site'
 date: '2016-01-01'
 dateRange: 'Dec 2018 - Present'
 company: 'tylerbenning.com'
-tagline: 'Building a place for my designs to call home'
+tagline: 'How to design, build, and write a portfolio'
 ---
 
 ## How I Designed This
@@ -54,6 +54,14 @@ I started taking some online tutorials from Wes Bos and Meng To to get a feel fo
 
 I’m using LightHouse to check features.
 I’m still working on accessibility. It’s an important facet of design and development that I’m really curious about.
+
+### Inspirational People & Projects on the Internet
+
+- Wes Bos: React for Beginners
+- Meng To's Design+Code
+- State of Javascript 2018
+- Carbon Design System Docs
+- Tania Rascia's Tutorial Writeups
 
 ## Content Writing
 

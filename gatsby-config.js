@@ -6,7 +6,7 @@ module.exports = {
     keywords: `ux design, ui, ux/ui, product, product design`,
     siteUrl: `http://tbenning.github.io/tylerbenning.com/`,
     social: {
-      twitter: ``,
+      twitter: `tylerbenning_`,
     },
   },
   pathPrefix: '/tylerbenning.com',

@@ -24,37 +24,59 @@ class BlogIndex extends React.Component {
           ]}
         />
         {/* <Bio /> */}
-        <h1>About Me</h1>
+        <h1>About</h1>
+        <h3>What I Do at Work</h3>
         <p>
           Product design is what I do at work everyday. Sometimes that means
-          fixing lots of small things inside a big app. Other times it means
-          starting big ambitious projects from scratch.
+          fixing lots of small problems inside a big software app. Other times
+          it means starting big ambitious projects from scratch. On some
+          occasions, it means talking through problems and designing my way out
+          of designing anything at all.
         </p>
         <p>
-          I wanted to start my own project from scratch to practice doing Front
-          End development. Everyone's talking about how Javascript's eating the
-          world, so I built this site using Gatsby, a static site builder that
-          uses React and GraphQL. You can read more about this site here.
+          When I work, I value sketching and writing over talking in circles. I
+          think good ideas come from different team members when they have lots
+          of context. I don't believe in design heroism. I think its important
+          to care about your teammates' work, and that roles are a helpful way
+          to designate accountability. Making a successful product is a team
+          sport.
+        </p>
+        <h3>What I'm Learning</h3>
+        <p>
+          Professionally, I'm drawn to how design and front-end development
+          intersect. I mean, it seems like everyone's talking about how
+          Javascript's eating the world, and I'm near sick of hearing everyone
+          babble on about React this, React that, (and I guess Vue this). So, to
+          find out what all the fuss is about (and to level up my front-end
+          knowledge and capabilities), I've built this site using{' '}
+          <a href="https://www.gatsbyjs.org/" rel="noopener" target="_blank">
+            Gatsby
+          </a>
+          , a static site builder that uses React and GraphQL. You can read more
+          about how I <code>export default</code>'d my way to building this site{' '}
+          <Link to="/personal-projects/tylerbenning-website/">here.</Link>
         </p>
         <p>
-          For me, stories are the heart of design, and are what help get people
-          on the same page. I built this site so I'd have a place to write about
-          and share some of my own stories.
+          Outside work, I keep a few hobbies. I started brewing kombucha,{' '}
+          <a
+            href="https://www.youtube.com/watch?v=cKx8xE8jJZs"
+            target="_blank"
+            rel="noopener"
+          >
+            swinging kettlebells,
+          </a>{' '}
+          and writing music again. I've dabbled in salsa dancing, sensory
+          deprivation tanks, singing lessons, and drawing poorly. Ask me again
+          in a month, and this list will likely be entirely different.
         </p>
-
-        {/* this is the guts of the blog post items here, this should only show up on the projects page, but we should pass this data into sidebar */}
-        {/* {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <div key={node.fields.slug}>
-              <h3>
-                <Link to={node.fields.slug}>{title}</Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-            </div>
-          )
-        })} */}
+        <h3>What This Site's All About</h3>
+        <p>
+          For me, stories are the heart of design, and are what connect people
+          towards common ideas, goals, and motivations. Designers help craft
+          these stories and enable people to have new interactions and
+          experiences. I built this site so I'd have a place to write about and
+          share some of my own stories and experiences as a Product Designer.
+        </p>
       </Layout>
     )
   }

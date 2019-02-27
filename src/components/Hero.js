@@ -127,8 +127,15 @@ class Hero extends Component {
         <LeftDiv>
           <Heading>Hi, I'm Tyler</Heading>
           <Subheading>
-            I'm a recovering tab hoarder & product designer living in
-            Toronto&nbsp;🍁
+            I'm a shameless{' '}
+            <a
+              href="https://www.urbandictionary.com/define.php?term=Tab-Hoarder"
+              rel="noopener"
+              target="_blank"
+            >
+              tab-hoarder
+            </a>{' '}
+            & product designer living in Toronto&nbsp;🍁
           </Subheading>
           <HeroButton to="/work-projects/">See Work Projects</HeroButton>
         </LeftDiv>

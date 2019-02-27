@@ -65,7 +65,9 @@ const rootPath = `${__PATH_PREFIX__}`
 const MobileNav = props => (
   <Container className="hide-desktop">
     <NavList>
-      <NavItem className={props.location.pathname == `/` ? `active` : ``}>
+      <NavItem
+        className={props.location.pathname == rootPath + '/' ? `active` : ``}
+      >
         <Link to="/">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -91,7 +93,7 @@ const MobileNav = props => (
             : ``
         }
       >
-        <Link to={rootPath + '/work-projects/'}>
+        <Link to="/work-projects/">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -116,7 +118,7 @@ const MobileNav = props => (
             : ``
         }
       >
-        <Link to={rootPath + '/personal-projects/'}>
+        <Link to="/personal-projects/">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"

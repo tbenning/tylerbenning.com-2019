@@ -3,7 +3,7 @@ title: 'Launching an Open Source Brand'
 date: '2016-01-01'
 dateRange: 'Jan 2019 - Present'
 company: 'All Contributors'
-tagline: 'Contributing design resources to the community'
+tagline: 'Contributing design resources to All Contributors'
 ---
 
 My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and communities. He’s the guy that pops up at designer’s desks to ask for logos, UI mocks flag and coffee mug designs for sometimes-neat-ideas he’s stewing over. This wasn’t the first time Jake has asked me for a favour, and likely won’t be the last.

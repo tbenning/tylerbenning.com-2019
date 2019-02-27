@@ -3,7 +3,6 @@ import styled from 'styled-components'
 import { colors, deviceSize } from '../utils/globalStyles'
 import logo from '../assets/logo.svg'
 import { Link } from 'gatsby'
-import LogoSvg from './LogoSvg'
 
 const Container = styled.footer`
   background: ${colors.ink10};
@@ -109,7 +108,7 @@ const Footer = props => (
         <h4>Site</h4>
         <ul>
           <li>
-            <Link to="/">About</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
             <Link to="/work-projects/">Work Projects</Link>
