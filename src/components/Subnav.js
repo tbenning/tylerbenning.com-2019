@@ -88,7 +88,6 @@ class Subnav extends Component {
                     : ``
                 }
               >
-                {console.log(rootPath + node.fields.slug)}
                 <Link to={node.fields.slug}>
                   <h3>{node.frontmatter.title}</h3>
                   <span>{node.frontmatter.company}</span>

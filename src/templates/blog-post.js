@@ -13,6 +13,32 @@ const WriteupDiv = styled.div`
   }
 `
 
+const NextLink = styled(Link)`
+  text-decoration: none;
+  color: ${colors.ink90};
+  font-size: 20px;
+  transition: 0.25s;
+  display: block;
+  border: 2px solid ${colors.ink20};
+  padding: 16px;
+  border-radius: 4px;
+  span {
+    font-size: 14px;
+    line-height: 1.2;
+    display: block;
+    font-weight: 600;
+    color: ${colors.ink70};
+  }
+  &:hover {
+    color: ${colors.purple90};
+    background: ${colors.ink10};
+    border: 2px solid rgba(0, 0, 0, 0);
+    box-shadow: 0 10px 18px -5px rgba(0, 0, 0, 0.1),
+      0 1px 2px 0 rgba(0, 0, 0, 0.04);
+    transform: translateY(-2px);
+  }
+`
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
@@ -21,11 +47,11 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
+        {console.log(this.props)}
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <h1>{post.frontmatter.title}</h1>
         <p>{post.frontmatter.dateRange}</p>
         <WriteupDiv dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr />
         <ul
           style={{
             display: `flex`,
@@ -35,18 +61,28 @@ class BlogPostTemplate extends React.Component {
             padding: 0,
           }}
         >
-          <li>
+          <li
+            style={{
+              width: `48%`,
+            }}
+          >
             {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} ←
-              </Link>
+              <NextLink to={next.fields.slug} rel="next">
+                <span>← Previous</span>
+                {next.frontmatter.title}
+              </NextLink>
             )}
           </li>
-          <li>
+          <li
+            style={{
+              textAlign: `right`,
+              width: `48%`,
+            }}
+          >
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                {previous.frontmatter.title} →
-              </Link>
+              <NextLink to={previous.fields.slug} rel="prev">
+                <span>Next →</span> {previous.frontmatter.title}
+              </NextLink>
             )}
           </li>
         </ul>

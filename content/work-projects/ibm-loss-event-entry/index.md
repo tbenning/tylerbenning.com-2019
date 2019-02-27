@@ -3,6 +3,7 @@ title: 'Loss Event Entry'
 date: '2016-01-01'
 dateRange: 'Dec 2015 - Mar 2016'
 company: 'IBM OpenPages'
+type: 'work'
 tagline: 'Driving risk further into business departments'
 ---
 

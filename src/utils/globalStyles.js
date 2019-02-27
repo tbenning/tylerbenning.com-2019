@@ -16,6 +16,8 @@ const colors = {
   brand: '#49f2e7', // electric blue
   brandLight: '#bbeffd',
 
+  teal90: '#004a54',
+
   purple10: '#F2F2FF',
   purple40: '#524ffc',
 

@@ -3,6 +3,7 @@ title: 'Launching an Open Source Brand'
 date: '2016-01-01'
 dateRange: 'Jan 2019 - Present'
 company: 'All Contributors'
+type: 'personal'
 tagline: 'Contributing design resources to All Contributors'
 ---
 

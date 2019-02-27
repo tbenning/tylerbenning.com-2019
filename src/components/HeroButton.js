@@ -5,7 +5,7 @@ import { colors, deviceSize } from '../utils/globalStyles'
 export const HeroButton = styled(Link)`
   position: relative;
   background: ${colors.brand};
-  color: #004a54;
+  color: ${colors.teal90};
   padding: 20px 44px;
   margin-bottom: 16px;
   font-size: 18px;

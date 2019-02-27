@@ -3,6 +3,7 @@ title: 'Portfolio Site'
 date: '2016-01-01'
 dateRange: 'Dec 2018 - Present'
 company: 'tylerbenning.com'
+type: 'personal'
 tagline: 'How to design, build, and write a portfolio'
 ---
 

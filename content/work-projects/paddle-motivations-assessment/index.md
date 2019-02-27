@@ -3,6 +3,7 @@ title: 'Motivations Assessment'
 date: '2019-01-01'
 dateRange: 'Feb 2016 - Sep 2016'
 company: 'Paddle'
+type: 'work'
 tagline: 'Discover your career motivations'
 ---
 
