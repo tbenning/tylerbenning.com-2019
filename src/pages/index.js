@@ -26,6 +26,7 @@ class BlogIndex extends React.Component {
         {/* <Bio /> */}
         <h1>About</h1>
         <h3>What I Do at Work</h3>
+        {console.log(process.env.GOOGLE_ANALYTICS_ID)}
         <p>
           Product design is what I do at work everyday. Sometimes that means
           fixing lots of small problems inside a big software app. Other times
