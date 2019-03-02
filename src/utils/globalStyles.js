@@ -1,6 +1,15 @@
 //Some Global Styles
 
 const colors = {
+  // ink90: '#111111', //primary text
+  // ink80: '#333333', //secondary text
+  // ink70: '#666666',
+  // ink60: '#666666',
+  // ink50: '#888888',
+  // ink40: '#aaaaaa',
+  // ink20: '#e5e5e5',
+  // ink10: '#f9f9f9',
+
   ink90: '#07243E', //primary text
   ink80: '#3D4852', //secondary text
   ink70: '#606F7B',

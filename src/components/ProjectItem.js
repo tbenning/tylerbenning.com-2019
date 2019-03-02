@@ -16,7 +16,7 @@ const Container = styled(Link)`
   transition: 0.25s ease-in-out;
 
   &:hover, :active {
-    background: ${colors.ink10};
+    ${'' /* background: ${colors.ink10}; */}
     box-shadow: 0 10px 18px -5px rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.04);
     transform: translateY(-2px);
   }
