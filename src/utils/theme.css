@@ -18,8 +18,9 @@ body {
 
 p {
   font-family: 'PT Serif', 'georgia', serif;
-  line-height: 1.8;
-  margin-bottom: 20px;
+  line-height: 1.75;
+  margin-bottom: 12px;
+  margin-top: 16px;
   font-size: 18px;
   color: #3d4852;
   letter-spacing: -0.003em;
@@ -35,12 +36,30 @@ h6 {
   letter-spacing: -0.015em;
 }
 
+h2 {
+  margin-top: 40px;
+}
+
+h3 {
+  margin-top: 28px;
+  margin-bottom: 0;
+}
+
 li {
   line-height: 1.65;
+  font-size: 18px;
+}
+
+li p {
+  line-height: 1;
 }
 
 ul {
   margin-bottom: 8px;
+}
+
+ol li {
+  margin: 0;
 }
 
 a {
@@ -49,6 +68,15 @@ a {
 
 a:hover {
   text-decoration: none;
+}
+
+blockquote {
+  margin: 40px;
+}
+blockquote,
+blockquote * {
+  font-size: 24px;
+  line-height: 1.5;
 }
 
 code {

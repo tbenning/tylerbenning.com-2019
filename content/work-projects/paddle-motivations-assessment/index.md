@@ -11,7 +11,7 @@ tagline: 'Discover your career motivations'
 
 Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that helps you understand your motivations and recommends industries suited to what will motivate you. The second offering is a learning platform that aids user’s next steps in learning about these industries. The product helps users to build their career path and keep them motivated.
 
-[Paddle](https://app.mypaddle.co/warmup)
+[Try the Paddle Motivations Assessment](https://app.mypaddle.co/warmup)
 
 **Projects I worked on**
 

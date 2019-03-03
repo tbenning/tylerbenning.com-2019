@@ -45,6 +45,7 @@ const FooterList = styled.div`
   li {
     list-style: none;
     margin-bottom: 4px;
+    font-size: 14px;
   }
   h4 {
     margin-top: 0;
@@ -61,6 +62,10 @@ const FooterList = styled.div`
   @media (max-width: ${deviceSize.small}) {
     margin-top: 28px;
     text-align: center;
+    li {
+      font-size: 18px;
+      line-height: 2;
+    }
   }
 `
 

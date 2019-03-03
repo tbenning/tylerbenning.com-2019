@@ -1,3 +1,6 @@
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 module.exports = {
   siteMetadata: {
     title: `Tyler Benning Product Designer`,
@@ -30,9 +33,19 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: 'gatsby-remark-embed-video',
+            options: {
+              width: 800,
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 400, // Optional: Overrides optional.ratio
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 728,
             },
           },
           {
@@ -65,29 +78,26 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
+      //What a mess it took to get this going. I quit on google tags, this works fine instead.
+      // https://github.com/gatsbyjs/gatsby/issues/3896
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        trackingId: process.env.GATSBY_GA_ID,
+        //trackingId: process.env.GATSBY_GA_ID,
         // Puts tracking script in the head instead of the body
-        head: false,
+        head: true,
         // Setting this parameter is optional
         anonymize: true,
         // Setting this parameter is also optional
         respectDNT: true,
         // Avoids sending pageview hits from custom paths
         exclude: ['/preview/**'],
-        // Enables Google Optimize using your container Id
-        //optimizeId: "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
-        // Enables Google Optimize Experiment ID
-        //experimentId: "YOUR_GOOGLE_EXPERIMENT_ID",
-        // Set Variation ID. 0 for original 1,2,3....
-        //variationId: "YOUR_GOOGLE_OPTIMIZE_VARIATION_ID",
-        // Any additional create only fields (optional)
         sampleRate: 5,
         siteSpeedSampleRate: 10,
         cookieDomain: 'tbenning.github.io/tylerbenning.com',
       },
     },
+
     // {
     //   resolve: `gatsby-plugin-google-tagmanager`,
     //   options: {

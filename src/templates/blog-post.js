@@ -8,7 +8,7 @@ import { colors } from '../utils/globalStyles'
 const WriteupDiv = styled.div`
   li {
     font-family: 'PT Serif', georgia, serif;
-    font-size: 16px;
+    font-size: 18px;
     color: ${colors.ink80};
   }
 `
@@ -47,7 +47,6 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        {console.log(this.props)}
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <h1>{post.frontmatter.title}</h1>
         <p>{post.frontmatter.dateRange}</p>
@@ -59,6 +58,8 @@ class BlogPostTemplate extends React.Component {
             justifyContent: `space-between`,
             listStyle: `none`,
             padding: 0,
+            marginTop: `40px`,
+            marginBottom: `-32px`,
           }}
         >
           <li

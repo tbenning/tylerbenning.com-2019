@@ -26,7 +26,6 @@ class BlogIndex extends React.Component {
         {/* <Bio /> */}
         <h1>About</h1>
         <h3>What I Do at Work</h3>
-        {console.log(process.env.GOOGLE_ANALYTICS_ID)}
         <p>
           Product design is what I do at work everyday. Sometimes that means
           fixing lots of small problems inside a big software app. Other times
@@ -37,28 +36,27 @@ class BlogIndex extends React.Component {
         <p>
           When I work, I value sketching and writing over talking in circles. I
           think good ideas come from different team members when they have lots
-          of context. I don't believe in design heroism. I think its important
-          to care about your teammates' work, and that roles are a helpful way
-          to designate accountability. Making a successful product is a team
-          sport.
+          of context. I care about my teammates' work, even if I don't
+          understand all of its nuances. I think roles are a helpful way to
+          designate accountability within teams. Making a successful product is
+          a team sport.
         </p>
         <h3>What I'm Learning</h3>
         <p>
-          Professionally, I'm drawn to how design and front-end development
-          intersect. I mean, it seems like everyone's talking about how
-          Javascript's eating the world, and I'm near sick of hearing everyone
-          babble on about React this, React that, (and I guess Vue this). So, to
-          find out what all the fuss is about (and to level up my front-end
-          knowledge and capabilities), I've built this site using{' '}
+          Professionally, I'm drawn to the intersections of design and front-end
+          development. I'd kept hearing how Javascript's eating the world, so to
+          find out what all the fuss is about and to level up my front-end
+          knowledge and capabilities, I've built this site using{' '}
           <a href="https://www.gatsbyjs.org/" rel="noopener" target="_blank">
             Gatsby
           </a>
-          , a static site builder that uses React and GraphQL. You can read more
-          about how I <code>export default</code>'d my way to building this site{' '}
+          , a static site builder that uses React, GraphQL, and server-side
+          rendering. You can read more about how I <code>export default</code>'d
+          my way to launching this site{' '}
           <Link to="/personal-projects/tylerbenning-website/">here.</Link>
         </p>
         <p>
-          Outside work, I keep a few hobbies. I started brewing kombucha,{' '}
+          Outside work, I keep a some hobbies. I started brewing kombucha,{' '}
           <a
             href="https://www.youtube.com/watch?v=cKx8xE8jJZs"
             target="_blank"
@@ -70,9 +68,9 @@ class BlogIndex extends React.Component {
           deprivation tanks, singing lessons, and drawing poorly. Ask me again
           in a month, and this list will likely be entirely different.
         </p>
-        <h3>What This Site's All About</h3>
+        <h3>What This Site's About</h3>
         <p>
-          For me, stories are the heart of design, and are what connect people
+          Stories are at the heart of design, and are what connect people
           towards common ideas, goals, and motivations. Designers help craft
           these stories and enable people to have new interactions and
           experiences. I built this site so I'd have a place to write about and

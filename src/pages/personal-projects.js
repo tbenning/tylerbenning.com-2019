@@ -37,7 +37,7 @@ class workProjects extends React.Component {
               <div key={node.fields.slug}>
                 <ProjectItem
                   title={title}
-                  imgSrc={placeholder}
+                  imgSrc={node.frontmatter.listItem || placeholder}
                   subtitle={node.frontmatter.tagline}
                   timeline={node.frontmatter.dateRange}
                   readTime={node.timeToRead}
@@ -76,6 +76,7 @@ export const pageQuery = graphql`
             dateRange
             title
             tagline
+            listItem
           }
         }
       }

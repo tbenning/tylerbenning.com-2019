@@ -57,6 +57,7 @@ typings/
 # gatsby files
 .cache/
 public
+content/personal-projects/terrible-drawings/
 
 # Mac files
 .DS_Store
@@ -72,3 +73,5 @@ src/scratchpad
 
 .env.*
 .env.production
+
+content/personal-projects/terrible-drawings
