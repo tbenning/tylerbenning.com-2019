@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tyler Benning Product Designer]]></title><description><![CDATA[The portfolio and stories of Tyler Benning ]]></description><link>http://tbenning.github.io/tylerbenning.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 05 Mar 2019 00:56:03 GMT</lastBuildDate><item><title><![CDATA[Motivations Assessment]]></title><description><![CDATA[Overview Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that…]]></description><link>http://tbenning.github.io/tylerbenning.com//work-projects/paddle-motivations-assessment/</link><guid isPermaLink="false">http://tbenning.github.io/tylerbenning.com//work-projects/paddle-motivations-assessment/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tyler Benning Product Designer]]></title><description><![CDATA[The portfolio and stories of Tyler Benning ]]></description><link>http://tbenning.github.io/tylerbenning.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 05 Mar 2019 05:33:56 GMT</lastBuildDate><item><title><![CDATA[Motivations Assessment]]></title><description><![CDATA[Overview Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that…]]></description><link>http://tbenning.github.io/tylerbenning.com//work-projects/paddle-motivations-assessment/</link><guid isPermaLink="false">http://tbenning.github.io/tylerbenning.com//work-projects/paddle-motivations-assessment/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that helps you understand your motivations and recommends industries suited to what will motivate you. The second offering is a learning platform that aids user’s next steps in learning about these industries. The product helps users to build their career path and keep them motivated.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://app.mypaddle.co/warmup&quot;&gt;Try the Paddle Motivations Assessment&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Projects I worked on&lt;/strong&gt;&lt;/p&gt;
@@ -514,7 +514,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This keeps the teaching flow moving along inside of the classroom.&lt;/li&gt;
 &lt;li&gt;We noticed some students missed the submit button completely!&lt;/li&gt;
-&lt;li&gt;Some students lagged behind and missed questions&lt;/li&gt;
+&lt;li&gt;Some students lagged behind and missed questions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -523,10 +523,52 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;li&gt;Students didn’t understand when a question was “closed” or “paused” by a professor. The UI didn’t reinforce what was happening.&lt;/li&gt;
 &lt;li&gt;iOS navigation patterns didn’t feel natural, and caused usability issues. Users would view slides and expect to swipe from slide to slide. There was a lot of unnecessary context switching between views, and confusion while navigating.&lt;/li&gt;
 &lt;li&gt;The UI for questions was inconsistent, did not comply with Accessibility guidelines.&lt;/li&gt;
-&lt;li&gt;The language used to communicate states were different in the professor UI, student web UI, and student mobile UI&lt;/li&gt;
+&lt;li&gt;The language used to communicate states were different in the professor UI, student web UI, and student mobile UI.&lt;/li&gt;
 &lt;li&gt;Style guidelines, and interaction patterns were not well defined or documented.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/c8eb4/before.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 39.875389408099686%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsSAAALEgHS3X78AAABy0lEQVQoz12RTWsTURSG80tcutKFCxcK+g8qor+iunIh6EIRibjR2LoUBEHQjZsiVTGLtlaJForYmg9aZpppMnPneyaTzCQz2jzeuYkfeOAwh3PnPue976lcqK2z8HCNy8sfOHPnHS8bXaor3zlfrXNxaZOzd99Te9um9qap6oUHdU7fWuXK002erfc4dnWDUzc+c/zaJ05cb1BxbBt7nsKyGA6HpGlGFEUMkiFFnjPJCxofN9ja+oomUn4UBf3eITt6wOvtAWvtMfVWLuuYiihhQkigwJoDQwkrazVEWKTjnOdPlrl07iT3H7+g1dLYbbaJ4wh+jjkqMmRBmgRUbMfF7Ol0Ow0s2yNJEsIwVMBymGmaxIMhqyuvqN5c5NG92wRBwL6m4/oho2xCJgdOJdL2JFBIdb1+H8PoqstK4Rw4s0LguB6afkA2ShjJLMMUtgQGTCa5yjI8fw4sQaZp0Zfg/5+s0nHoW7a6NJ2qDz35vxeEHJW9WWsGVP4pD+2/HiqFJuL3mQSWiv4NW6r2pV1yg3+QUTyQW/YjfEn2fV95lqYj4mSE6816ruuq82ZnD904lN4doHUNvsml6HqX5m6bzp7Ovm7wZXuHX3G2OrvhDLKAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;UI Before&quot;
+        title=&quot;&quot;
+        src=&quot;/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/4973e/before.png&quot;
+        srcset=&quot;/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/d50ba/before.png 182w,
+/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/5c7f6/before.png 364w,
+/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/4973e/before.png 728w,
+/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/be5df/before.png 1092w,
+/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/29a7f/before.png 1456w,
+/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/48856/before.png 2184w,
+/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/c8eb4/before.png 2568w&quot;
+        sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;A snapshot of the classroom UI when I’d inherited it&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;ol start=&quot;3&quot;&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Technical problems caused reliability/perceived reliability issues&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -545,7 +587,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1&gt;Solutions&lt;/h1&gt;
-&lt;p&gt;This is the exciting part of design.&lt;/p&gt;
+&lt;p&gt;There were a number prototypes, sketches, flows, and mockups along the way. Many of them dropped out of existence entirely. They served their purpose to move teams forward, and focused our discussions. Not a waste.&lt;/p&gt;
 &lt;h2&gt;The Product Dictionary&lt;/h2&gt;
 &lt;p&gt;The first step was to start to align around language. &lt;a href=&quot;http://www.adambourret.com/&quot;&gt;Adam&lt;/a&gt;, another designer on my team, had lead a project on improving the professor experience in Classroom. We came up with a &lt;strong&gt;Product Dictionary&lt;/strong&gt; the would help to define what language conventions we’d use in our designs.&lt;/p&gt;
 &lt;p&gt;
