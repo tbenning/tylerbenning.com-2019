@@ -125,9 +125,9 @@ class Hero extends Component {
     return (
       <HeroContainer>
         <LeftDiv>
-          <Heading>Hi, I'm Tyler</Heading>
+          <Heading>Hi, I’m Tyler</Heading>
           <Subheading>
-            I'm a shameless{' '}
+            I’m a shameless{' '}
             <a
               href="https://www.urbandictionary.com/define.php?term=Tab-Hoarder"
               rel="noopener"
