@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tyler Benning Product Designer]]></title><description><![CDATA[The portfolio and stories of Tyler Benning ]]></description><link>http://tbenning.github.io/tylerbenning.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 05 Mar 2019 05:33:56 GMT</lastBuildDate><item><title><![CDATA[Motivations Assessment]]></title><description><![CDATA[Overview Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that…]]></description><link>http://tbenning.github.io/tylerbenning.com//work-projects/paddle-motivations-assessment/</link><guid isPermaLink="false">http://tbenning.github.io/tylerbenning.com//work-projects/paddle-motivations-assessment/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tyler Benning Product Designer]]></title><description><![CDATA[The portfolio and stories of Tyler Benning ]]></description><link>http://www.tylerbenning.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Jun 2019 06:15:34 GMT</lastBuildDate><item><title><![CDATA[Career Path Explorer]]></title><description><![CDATA[Coming soon!]]></description><link>http://www.tylerbenning.com//work-projects/paddle-explore-roles/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/paddle-explore-roles/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Motivations Assessment]]></title><description><![CDATA[Overview Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that…]]></description><link>http://www.tylerbenning.com//work-projects/paddle-motivations-assessment/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/paddle-motivations-assessment/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that helps you understand your motivations and recommends industries suited to what will motivate you. The second offering is a learning platform that aids user’s next steps in learning about these industries. The product helps users to build their career path and keep them motivated.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://app.mypaddle.co/warmup&quot;&gt;Try the Paddle Motivations Assessment&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Projects I worked on&lt;/strong&gt;&lt;/p&gt;
@@ -32,10 +32,10 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;Being at a startup = Entrepreneurship 101. Over evening drinks, late nights in the office, and seeing the general comings and goings, I got a great feel for the entrepreneurial spirit. I’ve grasped many new aspects of how a business is run, and what it takes to build something valuable that people want.&lt;/p&gt;
 &lt;p&gt;That said, my new favourite reads are Paul Graham’s essays (even if I don’t agree with him all of the time). I think about the future and what products will exist there. I’ve become obsessed with new products on Product Hunt, up and comers on Angel List, and the latest funding on Crunchbase. Entrepreneurship culture is neat.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.paulgraham.com/articles.html&quot;&gt;Essays&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Design-driven companies are becoming the norm thanks to the likes of Google Ventures, AirBnb, and more. I used my time at Paddle as an opportunity to share my knowledge about how to use design as a tool for business. I helped make sure they could take a design-driven approach to building their business, by putting the user first and testing early and often!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Career Path Explorer]]></title><description><![CDATA[Coming soon!]]></description><link>http://tbenning.github.io/tylerbenning.com//work-projects/paddle-explore-roles/</link><guid isPermaLink="false">http://tbenning.github.io/tylerbenning.com//work-projects/paddle-explore-roles/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Front-End Prototyping]]></title><description><![CDATA[What is Engineering Week? Each semester at Top Hat (semester instead of quarter), we have something called Engineering week. Engineering…]]></description><link>http://tbenning.github.io/tylerbenning.com//work-projects/top-hat-eng-week/</link><guid isPermaLink="false">http://tbenning.github.io/tylerbenning.com//work-projects/top-hat-eng-week/</guid><pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+&lt;p&gt;Design-driven companies are becoming the norm thanks to the likes of Google Ventures, AirBnb, and more. I used my time at Paddle as an opportunity to share my knowledge about how to use design as a tool for business. I helped make sure they could take a design-driven approach to building their business, by putting the user first and testing early and often!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Front-End Prototyping]]></title><description><![CDATA[What is Engineering Week? Each semester at Top Hat (semester instead of quarter), we have something called Engineering week. Engineering…]]></description><link>http://www.tylerbenning.com//work-projects/top-hat-eng-week/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/top-hat-eng-week/</guid><pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/0679f/intro.jpg&quot;
+    href=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/0679f/intro.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -54,14 +54,14 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Eng Week Intro&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/2c84a/intro.jpg&quot;
-        srcset=&quot;/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/2bac7/intro.jpg 182w,
-/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/f0f7f/intro.jpg 364w,
-/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/2c84a/intro.jpg 728w,
-/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/dfb4e/intro.jpg 1092w,
-/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/62ce5/intro.jpg 1456w,
-/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/972b9/intro.jpg 2184w,
-/tylerbenning.com/static/6f4308ac71b5150d171bcdd92b85fc3e/0679f/intro.jpg 2425w&quot;
+        src=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/2c84a/intro.jpg&quot;
+        srcset=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/2bac7/intro.jpg 182w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/f0f7f/intro.jpg 364w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/2c84a/intro.jpg 728w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/dfb4e/intro.jpg 1092w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/62ce5/intro.jpg 1456w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/972b9/intro.jpg 2184w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/0679f/intro.jpg 2425w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -84,7 +84,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/df41f910519868bafb426bd671899c19/6bc73/current-lobby.png&quot;
+    href=&quot;/static/df41f910519868bafb426bd671899c19/6bc73/current-lobby.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -103,14 +103,14 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Existing Course Lobby&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/df41f910519868bafb426bd671899c19/4973e/current-lobby.png&quot;
-        srcset=&quot;/tylerbenning.com/static/df41f910519868bafb426bd671899c19/d50ba/current-lobby.png 182w,
-/tylerbenning.com/static/df41f910519868bafb426bd671899c19/5c7f6/current-lobby.png 364w,
-/tylerbenning.com/static/df41f910519868bafb426bd671899c19/4973e/current-lobby.png 728w,
-/tylerbenning.com/static/df41f910519868bafb426bd671899c19/be5df/current-lobby.png 1092w,
-/tylerbenning.com/static/df41f910519868bafb426bd671899c19/29a7f/current-lobby.png 1456w,
-/tylerbenning.com/static/df41f910519868bafb426bd671899c19/48856/current-lobby.png 2184w,
-/tylerbenning.com/static/df41f910519868bafb426bd671899c19/6bc73/current-lobby.png 2608w&quot;
+        src=&quot;/static/df41f910519868bafb426bd671899c19/4973e/current-lobby.png&quot;
+        srcset=&quot;/static/df41f910519868bafb426bd671899c19/d50ba/current-lobby.png 182w,
+/static/df41f910519868bafb426bd671899c19/5c7f6/current-lobby.png 364w,
+/static/df41f910519868bafb426bd671899c19/4973e/current-lobby.png 728w,
+/static/df41f910519868bafb426bd671899c19/be5df/current-lobby.png 1092w,
+/static/df41f910519868bafb426bd671899c19/29a7f/current-lobby.png 1456w,
+/static/df41f910519868bafb426bd671899c19/48856/current-lobby.png 2184w,
+/static/df41f910519868bafb426bd671899c19/6bc73/current-lobby.png 2608w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -122,7 +122,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/520dc93bef57ea670a44fafeaf55625a/cf5eb/data.png&quot;
+    href=&quot;/static/520dc93bef57ea670a44fafeaf55625a/cf5eb/data.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -141,13 +141,13 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Data&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/520dc93bef57ea670a44fafeaf55625a/4973e/data.png&quot;
-        srcset=&quot;/tylerbenning.com/static/520dc93bef57ea670a44fafeaf55625a/d50ba/data.png 182w,
-/tylerbenning.com/static/520dc93bef57ea670a44fafeaf55625a/5c7f6/data.png 364w,
-/tylerbenning.com/static/520dc93bef57ea670a44fafeaf55625a/4973e/data.png 728w,
-/tylerbenning.com/static/520dc93bef57ea670a44fafeaf55625a/be5df/data.png 1092w,
-/tylerbenning.com/static/520dc93bef57ea670a44fafeaf55625a/29a7f/data.png 1456w,
-/tylerbenning.com/static/520dc93bef57ea670a44fafeaf55625a/cf5eb/data.png 2134w&quot;
+        src=&quot;/static/520dc93bef57ea670a44fafeaf55625a/4973e/data.png&quot;
+        srcset=&quot;/static/520dc93bef57ea670a44fafeaf55625a/d50ba/data.png 182w,
+/static/520dc93bef57ea670a44fafeaf55625a/5c7f6/data.png 364w,
+/static/520dc93bef57ea670a44fafeaf55625a/4973e/data.png 728w,
+/static/520dc93bef57ea670a44fafeaf55625a/be5df/data.png 1092w,
+/static/520dc93bef57ea670a44fafeaf55625a/29a7f/data.png 1456w,
+/static/520dc93bef57ea670a44fafeaf55625a/cf5eb/data.png 2134w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -160,7 +160,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/6bc73/airtable.png&quot;
+    href=&quot;/static/44754536f90acedb7e643f9bad1b0131/6bc73/airtable.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -179,14 +179,14 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Airtable UI&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/4973e/airtable.png&quot;
-        srcset=&quot;/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/d50ba/airtable.png 182w,
-/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/5c7f6/airtable.png 364w,
-/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/4973e/airtable.png 728w,
-/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/be5df/airtable.png 1092w,
-/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/29a7f/airtable.png 1456w,
-/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/48856/airtable.png 2184w,
-/tylerbenning.com/static/44754536f90acedb7e643f9bad1b0131/6bc73/airtable.png 2608w&quot;
+        src=&quot;/static/44754536f90acedb7e643f9bad1b0131/4973e/airtable.png&quot;
+        srcset=&quot;/static/44754536f90acedb7e643f9bad1b0131/d50ba/airtable.png 182w,
+/static/44754536f90acedb7e643f9bad1b0131/5c7f6/airtable.png 364w,
+/static/44754536f90acedb7e643f9bad1b0131/4973e/airtable.png 728w,
+/static/44754536f90acedb7e643f9bad1b0131/be5df/airtable.png 1092w,
+/static/44754536f90acedb7e643f9bad1b0131/29a7f/airtable.png 1456w,
+/static/44754536f90acedb7e643f9bad1b0131/48856/airtable.png 2184w,
+/static/44754536f90acedb7e643f9bad1b0131/6bc73/airtable.png 2608w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -199,7 +199,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/8b64029bfc540f8b888639212ae8bf73/bfef1/readme.png&quot;
+    href=&quot;/static/8b64029bfc540f8b888639212ae8bf73/bfef1/readme.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -211,20 +211,20 @@ HTML/CSS fixes&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 86.76393955184992%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAABYlAAAWJQFJUiTwAAABvUlEQVQ4y6VTa3PcIAz0//97fc+0SSc2xk+w8QODudtK6vjGH5L0rvHMHnCCZYVW2TRN+PrtOz59/oK6afCR73q9Iosxou06WDvADgP6vsc4Ohhr0dF8GEeJ8ZpxrHmU+fA3Ni+LkGbbtqFQCnmhRGFKSW5K6YIQIuK+gy+94VjzeIrxOSEMIQiR1hWquiZ1I3pjRMV/pcw/fFhXlaTeMShV7/1t0yMQwpqU/Xp6Bqv96JddLhc4qvT5YekOuY1j9yLxeCic50XebRhGjM5J9ZybZMMjkJSZnYm4II7IuOoLKfU0nh+bcVfKgUrOReCCNE17U7es65uVfLco3m/kwQJ5XkCVJVYikjchX8W4ixdZNStmv/1LccYG5nSVKsXgBRmc56XWeMlz8eXRFfdYKeMN3G5lqYWYPckHGYf7H7QNGVt6l/rYUF9SgdrekIVWcFJsh52yiHsS7Ol1cIyfSlLuqw6qoBSVRqmoYxoD1Q7Iqx6qpnljMa1UfR/exExgUiE0VUuHLX5rUmjIixP50jp0hJbWZpyxbhErHZLxFSxnQk9/6LrD00uFn3mDH88a1i0IMcGHXbC8Q3Ym/AOAry1I14esNAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 86.76393955184992%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAABYlAAAWJQFJUiTwAAABuklEQVQ4y6VUCW7bMBDU/3/XFj3jprUOO5RkiRR1UYenO+uqaIo6cRIBg11C5HCWs2TkmgYfP33Gu/cfUJYl3vKdz2dEYZqQFwXq2gpqlKcTrHM4nSqFtVb/Ma+qGhTAcSVzncyr7SVv21ZJo2EYkKQpkiSFMTmWZcG6rhon2WyeZwXzbTzpeP4rn3S+EoYQUIjCB2MklqqAO1LFq0pmwsVUx3I3jLLRNuklUMKf+xhfvn4Dy99IXvtFXNx2nZba98Mj+ev6MvxR2PW9Ott4r3CNhxfXaM6tWBhJyAH7L82y3/Zf1Hai+t8zvKlkdVkI6TAjlVHxOI5XnXzSFBoRSw/u41hV8jzZ7MQwjHKuvaqm4hCmZ0kjNqTehOpyE7a2oVqT56rYy7l6397USmpKnCS42+3w/f4HDoeDXkGadK3sZ9vGWrmfTm6IdUIkucRhDOIa5GotiplYiPUq2DoR7a5NiePRIHswyI+5PAQWWSEwNQ6MeQ3fjeiGcBWtIMiml7YRwix3SAxfDnlBmhaV84pSxs536MdJFzL+D/zHSsSUFZ3vkRwL7PYG92mBu9gISS9lP17wFOlG+Avpgy0ssrsTegAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Data&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/8b64029bfc540f8b888639212ae8bf73/4973e/readme.png&quot;
-        srcset=&quot;/tylerbenning.com/static/8b64029bfc540f8b888639212ae8bf73/d50ba/readme.png 182w,
-/tylerbenning.com/static/8b64029bfc540f8b888639212ae8bf73/5c7f6/readme.png 364w,
-/tylerbenning.com/static/8b64029bfc540f8b888639212ae8bf73/4973e/readme.png 728w,
-/tylerbenning.com/static/8b64029bfc540f8b888639212ae8bf73/be5df/readme.png 1092w,
-/tylerbenning.com/static/8b64029bfc540f8b888639212ae8bf73/29a7f/readme.png 1456w,
-/tylerbenning.com/static/8b64029bfc540f8b888639212ae8bf73/bfef1/readme.png 1919w&quot;
+        src=&quot;/static/8b64029bfc540f8b888639212ae8bf73/4973e/readme.png&quot;
+        srcset=&quot;/static/8b64029bfc540f8b888639212ae8bf73/d50ba/readme.png 182w,
+/static/8b64029bfc540f8b888639212ae8bf73/5c7f6/readme.png 364w,
+/static/8b64029bfc540f8b888639212ae8bf73/4973e/readme.png 728w,
+/static/8b64029bfc540f8b888639212ae8bf73/be5df/readme.png 1092w,
+/static/8b64029bfc540f8b888639212ae8bf73/29a7f/readme.png 1456w,
+/static/8b64029bfc540f8b888639212ae8bf73/bfef1/readme.png 1919w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -238,7 +238,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/18faa/styled-components.png&quot;
+    href=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/18faa/styled-components.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -257,14 +257,14 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Styled Components&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/4973e/styled-components.png&quot;
-        srcset=&quot;/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/d50ba/styled-components.png 182w,
-/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/5c7f6/styled-components.png 364w,
-/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/4973e/styled-components.png 728w,
-/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/be5df/styled-components.png 1092w,
-/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/29a7f/styled-components.png 1456w,
-/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/48856/styled-components.png 2184w,
-/tylerbenning.com/static/be4470c77953ca58b68ae69f00ff22a5/18faa/styled-components.png 3374w&quot;
+        src=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/4973e/styled-components.png&quot;
+        srcset=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/d50ba/styled-components.png 182w,
+/static/be4470c77953ca58b68ae69f00ff22a5/5c7f6/styled-components.png 364w,
+/static/be4470c77953ca58b68ae69f00ff22a5/4973e/styled-components.png 728w,
+/static/be4470c77953ca58b68ae69f00ff22a5/be5df/styled-components.png 1092w,
+/static/be4470c77953ca58b68ae69f00ff22a5/29a7f/styled-components.png 1456w,
+/static/be4470c77953ca58b68ae69f00ff22a5/48856/styled-components.png 2184w,
+/static/be4470c77953ca58b68ae69f00ff22a5/18faa/styled-components.png 3374w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -297,10 +297,10 @@ HTML/CSS fixes&lt;/p&gt;
       &lt;/style&gt;
           &lt;/div&gt;
           &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Overall, it was a positive experience collaborating with engineering at a closer level. It made me closely consider how I put together designs, and how I make compromises with team members. It was a succesful week of learning, empathy building, and practicing javascript.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The iOS Classroom Experience]]></title><description><![CDATA[The Classroom Product’s History Classroom is Top Hat’s cornerstone product that helped catapult them towards product-market fit, high growth…]]></description><link>http://tbenning.github.io/tylerbenning.com//work-projects/top-hat-classroom/</link><guid isPermaLink="false">http://tbenning.github.io/tylerbenning.com//work-projects/top-hat-classroom/</guid><pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+&lt;p&gt;Overall, it was a positive experience collaborating with engineering at a closer level. It made me closely consider how I put together designs, and how I make compromises with team members. It was a succesful week of learning, empathy building, and practicing javascript.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The iOS Classroom Experience]]></title><description><![CDATA[The Classroom Product’s History Classroom is Top Hat’s cornerstone product that helped catapult them towards product-market fit, high growth…]]></description><link>http://www.tylerbenning.com//work-projects/top-hat-classroom/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/top-hat-classroom/</guid><pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/16c86ca12544befc4e73da391a6384c9/517a6/classroom.jpg&quot;
+    href=&quot;/static/16c86ca12544befc4e73da391a6384c9/517a6/classroom.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -312,20 +312,20 @@ HTML/CSS fixes&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 61.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFVORVjIJE//8QAGRABAQEBAQEAAAAAAAAAAAAAAgMBEgQh/9oACAEBAAEFAvuMHFG0Jlla11z462SX/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgICAwEAAAAAAAAAAAAAAAECESFhMkJxkf/aAAgBAQAGPwKSv6Jt8qO2divZCXheD//EABoQAAMBAQEBAAAAAAAAAAAAAAABESExQXH/2gAIAQEAAT8hsoamLA0XKR5Kcm0UJJsep7hS6Ve/ooMuD//aAAwDAQACAAMAAAAQpN//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QHJb/xAAVEQEBAAAAAAAAAAAAAAAAAAARAP/aAAgBAgEBPxAYv//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQWGBUf/aAAgBAQABPxBN2aaIrVecTICoRZQPZRFtlAZVPnUCdRiVtcykKNBo4SykdQaMvc//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 61.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAExcboA+zk//8QAGhAAAgMBAQAAAAAAAAAAAAAAAgMBBBIRQv/aAAgBAQABBQL0CBJT66wOJ7Os0nOIj//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAABAhEDQRAiMf/aAAgBAQAGPwJkZOT7Ub4xyWqLdeH/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMXFhkf/aAAgBAQABPyHIF/ZtNBOwEF7L3EIfYKsWHnsIBD//2gAMAwEAAgADAAAAEKP/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EFf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMVFhQf/aAAgBAQABPxC6nRKDNHk/M7CFWDscvbqe2nnyKbjqjuQKESOOIeg0KBo1+z//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;A Top Hat Classroom&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/16c86ca12544befc4e73da391a6384c9/2c84a/classroom.jpg&quot;
-        srcset=&quot;/tylerbenning.com/static/16c86ca12544befc4e73da391a6384c9/2bac7/classroom.jpg 182w,
-/tylerbenning.com/static/16c86ca12544befc4e73da391a6384c9/f0f7f/classroom.jpg 364w,
-/tylerbenning.com/static/16c86ca12544befc4e73da391a6384c9/2c84a/classroom.jpg 728w,
-/tylerbenning.com/static/16c86ca12544befc4e73da391a6384c9/dfb4e/classroom.jpg 1092w,
-/tylerbenning.com/static/16c86ca12544befc4e73da391a6384c9/62ce5/classroom.jpg 1456w,
-/tylerbenning.com/static/16c86ca12544befc4e73da391a6384c9/517a6/classroom.jpg 1800w&quot;
+        src=&quot;/static/16c86ca12544befc4e73da391a6384c9/2c84a/classroom.jpg&quot;
+        srcset=&quot;/static/16c86ca12544befc4e73da391a6384c9/2bac7/classroom.jpg 182w,
+/static/16c86ca12544befc4e73da391a6384c9/f0f7f/classroom.jpg 364w,
+/static/16c86ca12544befc4e73da391a6384c9/2c84a/classroom.jpg 728w,
+/static/16c86ca12544befc4e73da391a6384c9/dfb4e/classroom.jpg 1092w,
+/static/16c86ca12544befc4e73da391a6384c9/62ce5/classroom.jpg 1456w,
+/static/16c86ca12544befc4e73da391a6384c9/517a6/classroom.jpg 1800w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -345,7 +345,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/faf38c2b5d64f112753bc722201cd962/f09f4/org-structure.png&quot;
+    href=&quot;/static/faf38c2b5d64f112753bc722201cd962/f09f4/org-structure.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -357,20 +357,20 @@ HTML/CSS fixes&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 43.15789473684211%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABiElEQVQoz21Sa0/CQBDs//87JsbEGPUbCgpBwQIFefR1LS0t9HFAe+PuVZAEt5nezN7u3HVTY384oqprVFWNY1XhFBVxzilVk6ohZY0su9yvr8D9BptxKKX0GicpNoQmFLapQpIoCKEQBEBeZAijzbnn9Jy0wc6XMZktNE6xJGqaCnnW6IXtYTiy8F9oQ76m3B+Q5AW2Ral5SWCeEoqStDwgkyWS7G8/L6Xu2RXyt27ffDK/bBHhwxPoOz7cIKZPStFzPHQJQZTACzfo0c24hmujeIsB6b4v8Ga76Lk+Fm6oTQ0eviXWeFk5GlPi8zDCK/HWysY0iDAPGs37ExHCXm+0UUvXOHi1HXw5ojE8HiuMgsaw63rUsIZJTXzqO92COed6no/W0saYavnQDz9Ah3raZPxJ/NMV2OUlDFUrWH6IO9PC42QGb51gFca4GY7wbH0jjFMMqPjWnOCJ9Mt8hd02R4fW+/EUD9TTJs6jKCXdkIesB02DLyjBSR66POvDBfYX6zUk/dM/UQKrYVzYkMkAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 43.15789473684211%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABgUlEQVQoz3VS207rMBD0/38TL0cgcQoUBBKXloY0NI6TOI7bxGkKhQxjl0KFYKWRPXuZ3Y0jQBuGAT/t0Pf2NiBNB7y//x4/NOEDe8TPEqrQ+xIYMyBJBlTVAGuBzcsrJlGM5ar9Ev0JcagezZ+R5cUXrw3wFAGd2/Htdou7aUTBBn+ZaLsejmjXPfrNK9x6s+Nuja7fBLh+Defo675zms+6kEs0nxAzVeI+K7DIK2jbhNPzWVYi1xZlvUKcadzR50/Ps7LGXOmQdytzTKmRss7Xihs6ztIMUa5hly2eeJ6TX6UKqrKo2OSBhSOZhWLPfSMvNmLe6ULiUiokFJNsJEapxAUDEz6GtS3u85INJMZMmmuDwizD/f8ixY0qdhPqGtcqD43HxDmbTTiIn1yczObwiLmCoWDEVY8mEcbxAjkn1BTw8WPiNEqCoOKEU1ng32McYteJRFoYrmwg6pVDxVXrxoWP67nhb+F9y7ZDw8fx973Pc9t0Ia9a7fweltz7PgC/AKm+R24e8wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Org Structure&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/faf38c2b5d64f112753bc722201cd962/4973e/org-structure.png&quot;
-        srcset=&quot;/tylerbenning.com/static/faf38c2b5d64f112753bc722201cd962/d50ba/org-structure.png 182w,
-/tylerbenning.com/static/faf38c2b5d64f112753bc722201cd962/5c7f6/org-structure.png 364w,
-/tylerbenning.com/static/faf38c2b5d64f112753bc722201cd962/4973e/org-structure.png 728w,
-/tylerbenning.com/static/faf38c2b5d64f112753bc722201cd962/be5df/org-structure.png 1092w,
-/tylerbenning.com/static/faf38c2b5d64f112753bc722201cd962/29a7f/org-structure.png 1456w,
-/tylerbenning.com/static/faf38c2b5d64f112753bc722201cd962/f09f4/org-structure.png 1520w&quot;
+        src=&quot;/static/faf38c2b5d64f112753bc722201cd962/4973e/org-structure.png&quot;
+        srcset=&quot;/static/faf38c2b5d64f112753bc722201cd962/d50ba/org-structure.png 182w,
+/static/faf38c2b5d64f112753bc722201cd962/5c7f6/org-structure.png 364w,
+/static/faf38c2b5d64f112753bc722201cd962/4973e/org-structure.png 728w,
+/static/faf38c2b5d64f112753bc722201cd962/be5df/org-structure.png 1092w,
+/static/faf38c2b5d64f112753bc722201cd962/29a7f/org-structure.png 1456w,
+/static/faf38c2b5d64f112753bc722201cd962/f09f4/org-structure.png 1520w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -390,7 +390,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
 &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/7fcc6fde82603346246a007c8e880995/79341/simple-flow.png&quot;
+    href=&quot;/static/7fcc6fde82603346246a007c8e880995/79341/simple-flow.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -409,13 +409,13 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;User flow&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/7fcc6fde82603346246a007c8e880995/4973e/simple-flow.png&quot;
-        srcset=&quot;/tylerbenning.com/static/7fcc6fde82603346246a007c8e880995/d50ba/simple-flow.png 182w,
-/tylerbenning.com/static/7fcc6fde82603346246a007c8e880995/5c7f6/simple-flow.png 364w,
-/tylerbenning.com/static/7fcc6fde82603346246a007c8e880995/4973e/simple-flow.png 728w,
-/tylerbenning.com/static/7fcc6fde82603346246a007c8e880995/be5df/simple-flow.png 1092w,
-/tylerbenning.com/static/7fcc6fde82603346246a007c8e880995/29a7f/simple-flow.png 1456w,
-/tylerbenning.com/static/7fcc6fde82603346246a007c8e880995/79341/simple-flow.png 1460w&quot;
+        src=&quot;/static/7fcc6fde82603346246a007c8e880995/4973e/simple-flow.png&quot;
+        srcset=&quot;/static/7fcc6fde82603346246a007c8e880995/d50ba/simple-flow.png 182w,
+/static/7fcc6fde82603346246a007c8e880995/5c7f6/simple-flow.png 364w,
+/static/7fcc6fde82603346246a007c8e880995/4973e/simple-flow.png 728w,
+/static/7fcc6fde82603346246a007c8e880995/be5df/simple-flow.png 1092w,
+/static/7fcc6fde82603346246a007c8e880995/29a7f/simple-flow.png 1456w,
+/static/7fcc6fde82603346246a007c8e880995/79341/simple-flow.png 1460w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -430,7 +430,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/7bab8/prof-student-flow.png&quot;
+    href=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/7bab8/prof-student-flow.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -449,14 +449,14 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;prof student flow&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/4973e/prof-student-flow.png&quot;
-        srcset=&quot;/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/d50ba/prof-student-flow.png 182w,
-/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/5c7f6/prof-student-flow.png 364w,
-/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/4973e/prof-student-flow.png 728w,
-/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/be5df/prof-student-flow.png 1092w,
-/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/29a7f/prof-student-flow.png 1456w,
-/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/48856/prof-student-flow.png 2184w,
-/tylerbenning.com/static/a231fe65671ac8d38fa3066e4fb08825/7bab8/prof-student-flow.png 3016w&quot;
+        src=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/4973e/prof-student-flow.png&quot;
+        srcset=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/d50ba/prof-student-flow.png 182w,
+/static/a231fe65671ac8d38fa3066e4fb08825/5c7f6/prof-student-flow.png 364w,
+/static/a231fe65671ac8d38fa3066e4fb08825/4973e/prof-student-flow.png 728w,
+/static/a231fe65671ac8d38fa3066e4fb08825/be5df/prof-student-flow.png 1092w,
+/static/a231fe65671ac8d38fa3066e4fb08825/29a7f/prof-student-flow.png 1456w,
+/static/a231fe65671ac8d38fa3066e4fb08825/48856/prof-student-flow.png 2184w,
+/static/a231fe65671ac8d38fa3066e4fb08825/7bab8/prof-student-flow.png 3016w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -474,7 +474,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/ffafc7cfbdf6cfe09f308e705ac8e06c/7c411/student-flow.png&quot;
+    href=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/7c411/student-flow.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -493,12 +493,12 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Student user flow&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/ffafc7cfbdf6cfe09f308e705ac8e06c/4973e/student-flow.png&quot;
-        srcset=&quot;/tylerbenning.com/static/ffafc7cfbdf6cfe09f308e705ac8e06c/d50ba/student-flow.png 182w,
-/tylerbenning.com/static/ffafc7cfbdf6cfe09f308e705ac8e06c/5c7f6/student-flow.png 364w,
-/tylerbenning.com/static/ffafc7cfbdf6cfe09f308e705ac8e06c/4973e/student-flow.png 728w,
-/tylerbenning.com/static/ffafc7cfbdf6cfe09f308e705ac8e06c/be5df/student-flow.png 1092w,
-/tylerbenning.com/static/ffafc7cfbdf6cfe09f308e705ac8e06c/7c411/student-flow.png 1117w&quot;
+        src=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/4973e/student-flow.png&quot;
+        srcset=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/d50ba/student-flow.png 182w,
+/static/ffafc7cfbdf6cfe09f308e705ac8e06c/5c7f6/student-flow.png 364w,
+/static/ffafc7cfbdf6cfe09f308e705ac8e06c/4973e/student-flow.png 728w,
+/static/ffafc7cfbdf6cfe09f308e705ac8e06c/be5df/student-flow.png 1092w,
+/static/ffafc7cfbdf6cfe09f308e705ac8e06c/7c411/student-flow.png 1117w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -514,7 +514,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This keeps the teaching flow moving along inside of the classroom.&lt;/li&gt;
 &lt;li&gt;We noticed some students missed the submit button completely!&lt;/li&gt;
-&lt;li&gt;Some students lagged behind and missed questions.&lt;/li&gt;
+&lt;li&gt;Some students lagged behind and missed questions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -523,52 +523,10 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;li&gt;Students didn’t understand when a question was “closed” or “paused” by a professor. The UI didn’t reinforce what was happening.&lt;/li&gt;
 &lt;li&gt;iOS navigation patterns didn’t feel natural, and caused usability issues. Users would view slides and expect to swipe from slide to slide. There was a lot of unnecessary context switching between views, and confusion while navigating.&lt;/li&gt;
 &lt;li&gt;The UI for questions was inconsistent, did not comply with Accessibility guidelines.&lt;/li&gt;
-&lt;li&gt;The language used to communicate states were different in the professor UI, student web UI, and student mobile UI.&lt;/li&gt;
+&lt;li&gt;The language used to communicate states were different in the professor UI, student web UI, and student mobile UI&lt;/li&gt;
 &lt;li&gt;Style guidelines, and interaction patterns were not well defined or documented.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
-&lt;br&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/c8eb4/before.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 39.875389408099686%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsSAAALEgHS3X78AAABy0lEQVQoz12RTWsTURSG80tcutKFCxcK+g8qor+iunIh6EIRibjR2LoUBEHQjZsiVTGLtlaJForYmg9aZpppMnPneyaTzCQz2jzeuYkfeOAwh3PnPue976lcqK2z8HCNy8sfOHPnHS8bXaor3zlfrXNxaZOzd99Te9um9qap6oUHdU7fWuXK002erfc4dnWDUzc+c/zaJ05cb1BxbBt7nsKyGA6HpGlGFEUMkiFFnjPJCxofN9ja+oomUn4UBf3eITt6wOvtAWvtMfVWLuuYiihhQkigwJoDQwkrazVEWKTjnOdPlrl07iT3H7+g1dLYbbaJ4wh+jjkqMmRBmgRUbMfF7Ol0Ow0s2yNJEsIwVMBymGmaxIMhqyuvqN5c5NG92wRBwL6m4/oho2xCJgdOJdL2JFBIdb1+H8PoqstK4Rw4s0LguB6afkA2ShjJLMMUtgQGTCa5yjI8fw4sQaZp0Zfg/5+s0nHoW7a6NJ2qDz35vxeEHJW9WWsGVP4pD+2/HiqFJuL3mQSWiv4NW6r2pV1yg3+QUTyQW/YjfEn2fV95lqYj4mSE6816ruuq82ZnD904lN4doHUNvsml6HqX5m6bzp7Ovm7wZXuHX3G2OrvhDLKAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;UI Before&quot;
-        title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/4973e/before.png&quot;
-        srcset=&quot;/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/d50ba/before.png 182w,
-/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/5c7f6/before.png 364w,
-/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/4973e/before.png 728w,
-/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/be5df/before.png 1092w,
-/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/29a7f/before.png 1456w,
-/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/48856/before.png 2184w,
-/tylerbenning.com/static/d99a4cee66f25e0e0dba338a62285298/c8eb4/before.png 2568w&quot;
-        sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-&lt;em&gt;A snapshot of the classroom UI when I’d inherited it&lt;/em&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;ol start=&quot;3&quot;&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Technical problems caused reliability/perceived reliability issues&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -587,13 +545,13 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1&gt;Solutions&lt;/h1&gt;
-&lt;p&gt;There were a number prototypes, sketches, flows, and mockups along the way. Many of them dropped out of existence entirely. They served their purpose to move teams forward, and focused our discussions. Not a waste.&lt;/p&gt;
+&lt;p&gt;This is the exciting part of design.&lt;/p&gt;
 &lt;h2&gt;The Product Dictionary&lt;/h2&gt;
 &lt;p&gt;The first step was to start to align around language. &lt;a href=&quot;http://www.adambourret.com/&quot;&gt;Adam&lt;/a&gt;, another designer on my team, had lead a project on improving the professor experience in Classroom. We came up with a &lt;strong&gt;Product Dictionary&lt;/strong&gt; the would help to define what language conventions we’d use in our designs.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/0059d268ead6e49587faadd199809283/8c8a4/classroom-dictionary.png&quot;
+    href=&quot;/static/0059d268ead6e49587faadd199809283/8c8a4/classroom-dictionary.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -612,13 +570,13 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;product dictionary in classroom&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/0059d268ead6e49587faadd199809283/4973e/classroom-dictionary.png&quot;
-        srcset=&quot;/tylerbenning.com/static/0059d268ead6e49587faadd199809283/d50ba/classroom-dictionary.png 182w,
-/tylerbenning.com/static/0059d268ead6e49587faadd199809283/5c7f6/classroom-dictionary.png 364w,
-/tylerbenning.com/static/0059d268ead6e49587faadd199809283/4973e/classroom-dictionary.png 728w,
-/tylerbenning.com/static/0059d268ead6e49587faadd199809283/be5df/classroom-dictionary.png 1092w,
-/tylerbenning.com/static/0059d268ead6e49587faadd199809283/29a7f/classroom-dictionary.png 1456w,
-/tylerbenning.com/static/0059d268ead6e49587faadd199809283/8c8a4/classroom-dictionary.png 2132w&quot;
+        src=&quot;/static/0059d268ead6e49587faadd199809283/4973e/classroom-dictionary.png&quot;
+        srcset=&quot;/static/0059d268ead6e49587faadd199809283/d50ba/classroom-dictionary.png 182w,
+/static/0059d268ead6e49587faadd199809283/5c7f6/classroom-dictionary.png 364w,
+/static/0059d268ead6e49587faadd199809283/4973e/classroom-dictionary.png 728w,
+/static/0059d268ead6e49587faadd199809283/be5df/classroom-dictionary.png 1092w,
+/static/0059d268ead6e49587faadd199809283/29a7f/classroom-dictionary.png 1456w,
+/static/0059d268ead6e49587faadd199809283/8c8a4/classroom-dictionary.png 2132w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -633,7 +591,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/2bfef/slides-ideation.png&quot;
+    href=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/2bfef/slides-ideation.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -645,21 +603,21 @@ HTML/CSS fixes&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 84.61538461538461%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAAC/UlEQVQ4y0VUa0/cRhTl//8AvjRtf0cV9UulSI0ooCiECpRAAgmPXa89b8/LPj33GprRem3fnblzXrNHua1IZcFcF5S2IMyV7x2Zz7lud89a5u/86H1mXeYVri191TkpN113JF9xbmh9azC6DBsrfOqorLU5Y5oiaxkhJtTW4EPEwQYcJqfPvXdMxsHFgiPPZpOLfJFGTRsZNnRJUHTM3DnybrnweT/gaX/Abhg5r2A/Wjzu9qwNGEajTI98ajAmIKSMRDQCfQoVy7Iq6mVdibTj+kfCYBI8UUbO9YnS5MrnBOcDcikbZUERfEKpFassbh2PY4J1AevSFd3eZFx8i7h/tpisY61AmCXerXNEfFDacWtImlxcaoOMUoVyx+vINOLRyEZV9ZqsJ6pZTYlkFFiTurDThjF3fZkJv5MiTcPl1Re8+fU3/PLmdxwfH+OPt3+qwwtRyBxgxVwaXe6UZtGa3DfK0lBiU7bCXFc8PB9w8s853r8/x+nZOa4+3zIeUF1lfN0VfLpL2njdStT7lTIbTj4zLrNeg2FEaBSVAMug9tSLMgTqxVjYkPFEjR+GqMZIXdZPfmYyqlDmYlL2dCqEoK4ZTojUaDRehRdXxX2hJVnczCpqnLVWL2OMRkk1rHT49cqFYnOxOL6+8KldNPtplAyRZ7QRhk2dXDQrvbqciEpsFwQSGzkpMraGW5Qkrz9r0rAp1UBUgYciSj6zasiTEOP/EyXIe5s1rEpxXvA0FR41asR4yAaD7xgcY+Q9j+UEYw3GcYSAU8pyIjbrV3VrotByCqTu2XBnqxogWZWNB9e0YSK6SJTOeYxsLFJpQ/SC1gpqJmy6KKElVixaK0q3MvCakRcmsljQbkP0fsmh4R/C6c2Md58czq5H3fVul/D3dcDJ54Crew9LFNePBe8uE/76yKNmm256cZ9x8oW/faeZ+jfIho6ULr4XfLiNuPqxZenJVJzdJny4y7gbSIv0v+4559uM85uAhzHrWf6X809vEi7vmV9Hc8j2P0dZH7H1AsgcAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 84.61538461538461%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACwUlEQVQ4y1VU2W4bMQz0/7+1fUmPX2ne0xZwkgJ1gLpxkzS142MvabU6dzrk2kkqQJBEUeRwSGpWyoiYMlLOKKXAh8BzgsgzZZmygbKcC2TImngveqI/jqOuIUSVz+RBPyQa5Oozqi7oubEZPmaEIcC2jncBxvb6yPQOHfdNa9AZq45r7sXJTAzVXU8lPqQhHwvi0bgLBc4nxCgIBmx2ezztD9gdKgVQNR3W20l2qFsUop2lVNC2FtZ5uMEjENUQJNRRH8kKjFiuBzp21BtUV+6EGtsTjLXwjEDCnxVBYxwNReVCKGht0HAwZj5OSsPNg8PjtsGeSDo70OCobw5VjT0Rx5gmhEKy6eiBlzwr6SHhech2b2VHR+Sr6Qx6ohQ9z0QIh4JQopsQMqSBcAfN0pTJ5fIWZx8+4uz9J7x5+w6fz89VLhGUIwUyZa9ZHl/2alASEdKo3InNqm7w9dscF1+uMJ9fYvX7bjIoIXDcbgI59f/JspadGiyaCIF/mhOKCcdpyANNBKkx5LXroyKS0PMxQbLORNF7D0seembMOUc+gpZLw3KSvdyfCt8NA1caT1G5a9tWZ13X6kxDls3rKbITSkU6QtG8HnLdsjoaJrTrxLBRh4pQkGmbKQp2xzE5GjQNjZTFdKThaFi4k2YwPaPj7K2jrEwcDgzjNQDhqKXXUdqS3VIZFrALKpNR2amLrDEaatM0qKpKAc2mT2Aq6KnZi2bbuqhJ6FzGtk3KoWeBCsJtE2G99HmEI8ruaFiTIkaQ+XNwRu/gmYTM30cKuSTK5PeJ5Tl8wn6uwZcxajRah8LX9wePixuD61+1/i77NmC+cri8tVj+MYr2sc7UcZwWu24qkeUm8m3E6mn6VNRgZE/ebDIW9x6rbVRvTZ9xdRew+JuxM0XRrtuCxWPEj/tB70Xv5zrg+j6w0CNpmgz+AwiSKEa1AfMCAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;ideation for slides&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/4973e/slides-ideation.png&quot;
-        srcset=&quot;/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/d50ba/slides-ideation.png 182w,
-/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/5c7f6/slides-ideation.png 364w,
-/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/4973e/slides-ideation.png 728w,
-/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/be5df/slides-ideation.png 1092w,
-/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/29a7f/slides-ideation.png 1456w,
-/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/48856/slides-ideation.png 2184w,
-/tylerbenning.com/static/2d8b100b3c024d10c529a85fbf88b070/2bfef/slides-ideation.png 2808w&quot;
+        src=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/4973e/slides-ideation.png&quot;
+        srcset=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/d50ba/slides-ideation.png 182w,
+/static/2d8b100b3c024d10c529a85fbf88b070/5c7f6/slides-ideation.png 364w,
+/static/2d8b100b3c024d10c529a85fbf88b070/4973e/slides-ideation.png 728w,
+/static/2d8b100b3c024d10c529a85fbf88b070/be5df/slides-ideation.png 1092w,
+/static/2d8b100b3c024d10c529a85fbf88b070/29a7f/slides-ideation.png 1456w,
+/static/2d8b100b3c024d10c529a85fbf88b070/48856/slides-ideation.png 2184w,
+/static/2d8b100b3c024d10c529a85fbf88b070/2bfef/slides-ideation.png 2808w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -697,7 +655,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/tylerbenning.com/static/07daadfcf2aff81cfec295c58e3f8f0c/73eda/slides-final.png&quot;
+    href=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/73eda/slides-final.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -716,11 +674,11 @@ HTML/CSS fixes&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Final implementation of slides&quot;
         title=&quot;&quot;
-        src=&quot;/tylerbenning.com/static/07daadfcf2aff81cfec295c58e3f8f0c/4973e/slides-final.png&quot;
-        srcset=&quot;/tylerbenning.com/static/07daadfcf2aff81cfec295c58e3f8f0c/d50ba/slides-final.png 182w,
-/tylerbenning.com/static/07daadfcf2aff81cfec295c58e3f8f0c/5c7f6/slides-final.png 364w,
-/tylerbenning.com/static/07daadfcf2aff81cfec295c58e3f8f0c/4973e/slides-final.png 728w,
-/tylerbenning.com/static/07daadfcf2aff81cfec295c58e3f8f0c/73eda/slides-final.png 1080w&quot;
+        src=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/4973e/slides-final.png&quot;
+        srcset=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/d50ba/slides-final.png 182w,
+/static/07daadfcf2aff81cfec295c58e3f8f0c/5c7f6/slides-final.png 364w,
+/static/07daadfcf2aff81cfec295c58e3f8f0c/4973e/slides-final.png 728w,
+/static/07daadfcf2aff81cfec295c58e3f8f0c/73eda/slides-final.png 1080w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
       /&gt;
     &lt;/span&gt;
@@ -733,7 +691,7 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;Another advantage to having access to classrooms, was that we could mitigate product risk by testing new features in classrooms. After building, we loaded a build of the improved classroom experience onto our QA test devices, and brought them to a classroom.&lt;/p&gt;
 &lt;p&gt;We took videos of students using our app live in a real classroom. This helped us to scoop up some bugs and interaction design issues, allowing us to be more confident to roll it out. From a qualitative standpoint, the design was a success.&lt;/p&gt;
 &lt;p&gt;To date, we have released it to 100% of users, and it has landed successfully, without any major issues. As the semester progresses, we’re learning more and will have more measurable data.&lt;/p&gt;
-&lt;p&gt;This is one piece of the retention puzzle. There were other parts of the product that we improved, as well as worked on other people focused strategies to improve retention. Though our current retention rate on Classroom is much higher, it’s hard to attribute it to only one action!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio Site]]></title><description><![CDATA[How I Designed This Designing a portfolio isn’t rocket science. It’s a basic website that has a few pages worth of content. Regardless of…]]></description><link>http://tbenning.github.io/tylerbenning.com//personal-projects/tylerbenning-website/</link><guid isPermaLink="false">http://tbenning.github.io/tylerbenning.com//personal-projects/tylerbenning-website/</guid><pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;How I Designed This&lt;/h2&gt;
+&lt;p&gt;This is one piece of the retention puzzle. There were other parts of the product that we improved, as well as worked on other people focused strategies to improve retention. Though our current retention rate on Classroom is much higher, it’s hard to attribute it to only one action!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio Site]]></title><description><![CDATA[How I Designed This Designing a portfolio isn’t rocket science. It’s a basic website that has a few pages worth of content. Regardless of…]]></description><link>http://www.tylerbenning.com//personal-projects/tylerbenning-website/</link><guid isPermaLink="false">http://www.tylerbenning.com//personal-projects/tylerbenning-website/</guid><pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;How I Designed This&lt;/h2&gt;
 &lt;p&gt;Designing a portfolio isn’t rocket science. It’s a basic website that has a few pages worth of content. Regardless of its simplicity, I still approached this project the same way I approach most design projects. Figure out who the users are and what they want to accomplish.&lt;/p&gt;
 &lt;p&gt;Based on the conversations I’d had around my past portfolios (v1 v2), I figured that most users were:&lt;/p&gt;
 &lt;ul&gt;
@@ -794,7 +752,7 @@ _ &lt;a href=&quot;http://www.laurengreenway.com/&quot;&gt;Lauren Codes 🌛&lt;
 &lt;p&gt;As for my writing tools, I write everything using Bear. I found it a few months back, and now I write all my notes on Bear. There’s a handy feature where you can copy everything as markdown, so I just copy and paste everything from Bear to my markdown files. Sure, there are more elegant CMS’, but I don’t mind updating my markdown files manually and pushing them to Github pages.&lt;/p&gt;
 &lt;h2&gt;SOS: Send Help&lt;/h2&gt;
 &lt;p&gt;It’s been a wild ride getting this thing going, if you’re curious about the source code for this site, check the project out on Github. I always appreciate feedback on how to improve the site and refactor my code.&lt;/p&gt;
-&lt;p&gt;Better yet, fork it and use it for your own portfolio or blog project!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Launching an Open Source Brand]]></title><description><![CDATA[My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and…]]></description><link>http://tbenning.github.io/tylerbenning.com//personal-projects/all-contributors/</link><guid isPermaLink="false">http://tbenning.github.io/tylerbenning.com//personal-projects/all-contributors/</guid><pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and communities. He’s the guy that pops up at designer’s desks to ask for logos, UI mocks flag and coffee mug designs for sometimes-neat-ideas he’s stewing over. This wasn’t the first time Jake has asked me for a favour, and likely won’t be the last.&lt;/p&gt;
+&lt;p&gt;Better yet, fork it and use it for your own portfolio or blog project!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Launching an Open Source Brand]]></title><description><![CDATA[My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and…]]></description><link>http://www.tylerbenning.com//personal-projects/all-contributors/</link><guid isPermaLink="false">http://www.tylerbenning.com//personal-projects/all-contributors/</guid><pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and communities. He’s the guy that pops up at designer’s desks to ask for logos, UI mocks flag and coffee mug designs for sometimes-neat-ideas he’s stewing over. This wasn’t the first time Jake has asked me for a favour, and likely won’t be the last.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Jake:&lt;/strong&gt; Hey Tyler, wanna do a logo for something. Check it.
 &lt;a href=&quot;https://github.com/all-contributors&quot;&gt;All Contributors · GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tyler:&lt;/strong&gt; Yeah, okay. I’ll sketch a couple ideas and wrap something up tomorrow night. I’m leaving for vacay at the end of the week, so I’ll see if I can pump out some quick ideas before I go.&lt;/p&gt;
