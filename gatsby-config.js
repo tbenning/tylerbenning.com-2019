@@ -7,7 +7,7 @@ module.exports = {
     author: `Tyler Benning`,
     description: `The portfolio and stories of Tyler Benning `,
     keywords: `ux design, ui, ux/ui, product, product design`,
-    siteUrl: `http://tylerbenning.com/`,
+    siteUrl: `http://www.tylerbenning.com/`,
     social: {
       twitter: `tylerbenning_`,
     },
