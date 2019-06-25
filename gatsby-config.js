@@ -7,7 +7,7 @@ module.exports = {
     author: `Tyler Benning`,
     description: `The portfolio and stories of Tyler Benning `,
     keywords: `ux design, ui, ux/ui, product, product design`,
-    siteUrl: `http://tbenning.github.io/tylerbenning.com/`,
+    siteUrl: `http://tylerbenning.com/`,
     social: {
       twitter: `tylerbenning_`,
     },
@@ -94,7 +94,7 @@ module.exports = {
         exclude: ['/preview/**'],
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: 'tbenning.github.io/tylerbenning.com',
+        cookieDomain: 'tylerbenning.com',
       },
     },
 
