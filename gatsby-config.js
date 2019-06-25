@@ -12,7 +12,7 @@ module.exports = {
       twitter: `tylerbenning_`,
     },
   },
-  pathPrefix: '/tylerbenning.com',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
