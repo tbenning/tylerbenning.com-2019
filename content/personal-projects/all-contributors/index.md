@@ -9,14 +9,19 @@ tagline: 'Contributing design resources to All Contributors'
 
 My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and communities. He’s the guy that pops up at designer’s desks to ask for logos, UI mocks flag and coffee mug designs for sometimes-neat-ideas he’s stewing over. This wasn’t the first time Jake has asked me for a favour, and likely won’t be the last.
 
-**Jake:** Hey Tyler, wanna do a logo for something. Check it.
+
+**Jake:** Hey Tyler, wanna do a logo for hell cool project? Check it out!
 [All Contributors · GitHub](https://github.com/all-contributors)
 
-**Tyler:** Yeah, okay. I’ll sketch a couple ideas and wrap something up tomorrow night. I’m leaving for vacay at the end of the week, so I’ll see if I can pump out some quick ideas before I go.
+**Tyler:** Hmm, yeah I'd be down. I’ll sketch a couple ideas and wrap something up tomorrow?
+
+**Jake:** By the way, this is going to be AWESOME!
+
+**Tyler:** Cool, well I'm about to head away for vacay to Costa Rica, so I'll smash something out quick. 
 
 What can I say? I’m a sucker for enthusiasm.
 
-After work, I lazily browsed the repo, scrawled some shapes in my notebook, and made a few shitlogos that felt uninspired and weren’t very good. I called it a night.
+After work, I lazily browsed the repo on Github, scrawled some shapes in my notebook, and made a few shitlogos that felt uninspired and weren’t very good. I called it a night.
 
 Then, I actually **read** about the project, and realized it was a pretty neat idea that already had a good amount of traction. Bring everyone and their contributions into GitHub’s open source community. Get all hands on deck for open source projects, and motivate more people across different disciplines to contribute. Lower the barriers for adding contributors. Leave no contributor behind!
 

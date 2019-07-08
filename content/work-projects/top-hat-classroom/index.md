@@ -4,7 +4,6 @@ date: '2018-01-01'
 dateRange: 'May 2018 - Jan 2019'
 company: 'Top Hat'
 type: 'work'
-listItem: 'https://dj1gbnpej5rmb.cloudfront.net/items/292G1z1P1K232d3G0P1p/th1-list-item.png?v=0c29ef15'
 tagline: 'An in-depth case study on Top Hat Classroom'
 ---
 

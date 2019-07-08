@@ -31,8 +31,6 @@ Okay, so I expect users to read and learn on this site. What kinds of sites are 
 
 For this site, I figured that if I use a sidebar, it would remove the need to go back to fiddle back and forth between the project list page, and the project write-ups. Less scrolling. Less clicks. Less cognitive load. Just click the next one in the menu! Sure, it only really saves a quick click here and there, but it adds up when you’re short on time and trying to flip between projects to figure out if this “Tyler guy” even knows what he’s talking about.
 
--I also added keyboard navigation for lazy people and power users.-
-
 ### Visual Design
 
 MVisual design is a finicky thing. It has the power to help with usability, convey ideas, and generally give you a “feeling” about a site. My hope is to convince you that I’m not a total bore of a designer that only knows how to draw boxes on screens, and to make you feel good about your interaction on this site. I also want to show that I can be creative damnit!
