@@ -1,7 +1,7 @@
 ---
 title: 'Front-End Prototyping'
 date: '2018-11-01'
-dateRange: 'Nov 26-30 2018'
+dateRange: 'Nov 26 to 30, 2018'
 company: 'Top Hat'
 type: 'work'
 tagline: 'Building a better course lobby experience'
@@ -13,7 +13,7 @@ tagline: 'Building a better course lobby experience'
 
 Each semester at Top Hat (semester instead of quarter), we have something called Engineering week. Engineering week is the time that everyone stops doing product based sprint work and focuses on a list of projects proposed and pitched by engineers.
 
-There's a dinky metaphor floating around that describes what engineering week is all about – – which I stole from the Engineering leads. So, you’re in a forest chopping trees, but you never have time to sharpen your axe because you’re always too busy chopping trees. Engineering week is the time to stop and sharpen your axe.
+There's a dinky metaphor floating around that describes what engineering week is all about — which I stole from the Engineering leads. So, you’re in a forest chopping trees, but you never have time to sharpen your axe because you’re always too busy chopping trees. Engineering week is the time to stop and sharpen your axe.
 
 This year in the winter semester, I pitched, planned, and led my own engineering week project, notably titled **FE4 Prototyping.** I pitched it as a chance to use our component library to build simple front-end prototypes away from our monolithic architecture.
 
@@ -36,9 +36,7 @@ I did a bit of quantitative research to understand how the lobby was being used.
 ![Data](images/data.png)
 _14% of professsors have more than four courses_
 
-It turns out that ~14% of users have >4 courses. I thought it might be nice to improve the UI with a list view so users could skim through their courses easier than in a card view. I also thought it might be helpful to link to other Top Hat resources that often get missed by users, like the support documentation channels. To be honest, I drew some inspiration from Airtable's Workspace area.
-
-![Airtable UI](images/airtable.png)
+It turns out that ~14% of users have >4 courses. I thought it might be nice to improve the UI with a list view so users could skim through their courses easier than in a card view. I also thought it might be helpful to link to other Top Hat resources that often get missed by users, like the support documentation channels. 
 
 ## Day 1 & 2
 

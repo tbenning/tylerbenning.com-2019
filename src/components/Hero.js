@@ -135,7 +135,7 @@ class Hero extends Component {
             >
               tab-hoarder
             </a>{' '}
-            & product designer living in Toronto&nbsp;🍁
+            &amp; product designer living in Toronto&nbsp;🍁
           </Subheading>
           <HeroButton to="/work-projects/">See Work Projects</HeroButton>
         </LeftDiv>

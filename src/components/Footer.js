@@ -88,7 +88,7 @@ const Footer = props => (
               LinkedIn
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               href="https://dribbble.com/tbenning"
               rel="noopener"
@@ -96,7 +96,7 @@ const Footer = props => (
             >
               Dribbble
             </a>
-          </li>
+          </li> */}
           <li>
             <a
               href="https://github.com/tbenning"

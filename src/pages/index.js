@@ -2,6 +2,7 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
+import Tabs from '../components/Tabs'
 
 class BlogIndex extends React.Component {
   render() {
@@ -23,9 +24,9 @@ class BlogIndex extends React.Component {
             `react`,
           ]}
         />
-        {/* <Bio /> */}
         <h1>About</h1>
-        <h3>What I Do at Work</h3>
+        <Tabs>
+          <div label="What I Do at Work"> 
         <p>
           Product design is what I do at work everyday. Sometimes that means
           fixing lots of small problems inside a big software app. Other times
@@ -41,7 +42,9 @@ class BlogIndex extends React.Component {
           designate accountability within teams. Making a successful product is
           a team sport.
         </p>
-        <h3>What I'm Learning</h3>
+        
+          </div>
+          <div label="What I'm Learning"> 
         <p>
           Professionally, I'm drawn to the intersection of design and front-end
           development. I'd kept hearing how Javascript's eating the world, and
@@ -65,11 +68,13 @@ class BlogIndex extends React.Component {
           >
             swinging kettlebells,
           </a>{' '}
-          and writing musicß. I've dabbled in salsa dancing, sensory deprivation
+          and writing music. I've dabbled in salsa dancing, sensory deprivation
           tanks, singing lessons, and drawing terribly. Ask me again in a month,
           and this list will likely be entirely different.
         </p>
-        <h3>What This Site's About</h3>
+        
+          </div>
+          <div label="What This Site's About"> 
         <p>
           Stories are at the heart of design, and are what connect people to
           common ideas, goals, and motivations. Designers help craft these
@@ -78,7 +83,11 @@ class BlogIndex extends React.Component {
           my own stories and experiences as a Product Designer. Through this
           site, maybe we can share an experience.
         </p>
-      </Layout>
+     
+          </div>
+        </Tabs>
+        
+       </Layout>
     )
   }
 }
