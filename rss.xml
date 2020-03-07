@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tyler Benning Product Designer]]></title><description><![CDATA[The portfolio and stories of Tyler Benning ]]></description><link>http://www.tylerbenning.com/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 08 Jul 2019 02:58:24 GMT</lastBuildDate><item><title><![CDATA[Motivations Assessment]]></title><description><![CDATA[Overview Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that…]]></description><link>http://www.tylerbenning.com//work-projects/paddle-motivations-assessment/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/paddle-motivations-assessment/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tyler Benning Product Designer]]></title><description><![CDATA[The portfolio and stories of Tyler Benning ]]></description><link>http://www.tylerbenning.com/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 07 Mar 2020 23:07:37 GMT</lastBuildDate><item><title><![CDATA[Motivations Assessment]]></title><description><![CDATA[Overview Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that…]]></description><link>http://www.tylerbenning.com//work-projects/paddle-motivations-assessment/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/paddle-motivations-assessment/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that helps you understand your motivations and recommends industries suited to what will motivate you. The second offering is a learning platform that aids user’s next steps in learning about these industries. The product helps users to build their career path and keep them motivated.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://app.mypaddle.co/warmup&quot;&gt;Try the Paddle Motivations Assessment&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Projects I worked on&lt;/strong&gt;&lt;/p&gt;
@@ -71,7 +71,7 @@ HTML/CSS fixes&lt;/p&gt;
     &lt;/p&gt;
 &lt;h2&gt;What is Engineering Week?&lt;/h2&gt;
 &lt;p&gt;Each semester at Top Hat (semester instead of quarter), we have something called Engineering week. Engineering week is the time that everyone stops doing product based sprint work and focuses on a list of projects proposed and pitched by engineers.&lt;/p&gt;
-&lt;p&gt;There’s a dinky metaphor floating around that describes what engineering week is all about – – which I stole from the Engineering leads. So, you’re in a forest chopping trees, but you never have time to sharpen your axe because you’re always too busy chopping trees. Engineering week is the time to stop and sharpen your axe.&lt;/p&gt;
+&lt;p&gt;There’s a dinky metaphor floating around that describes what engineering week is all about — which I stole from the Engineering leads. So, you’re in a forest chopping trees, but you never have time to sharpen your axe because you’re always too busy chopping trees. Engineering week is the time to stop and sharpen your axe.&lt;/p&gt;
 &lt;p&gt;This year in the winter semester, I pitched, planned, and led my own engineering week project, notably titled &lt;strong&gt;FE4 Prototyping.&lt;/strong&gt; I pitched it as a chance to use our component library to build simple front-end prototypes away from our monolithic architecture.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A designer or developer can set up a dev environment in under 5 minutes so that they can build a front-end prototype using real FE-Library components&lt;/p&gt;
@@ -156,44 +156,7 @@ HTML/CSS fixes&lt;/p&gt;
   &lt;/a&gt;
     
 &lt;em&gt;14% of professsors have more than four courses&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;It turns out that ~14% of users have &gt;4 courses. I thought it might be nice to improve the UI with a list view so users could skim through their courses easier than in a card view. I also thought it might be helpful to link to other Top Hat resources that often get missed by users, like the support documentation channels. To be honest, I drew some inspiration from Airtable’s Workspace area.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/44754536f90acedb7e643f9bad1b0131/6bc73/airtable.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 63.49693251533742%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAACNElEQVQ4y41T2W7UQBDcX+W3EH5EfABI5IFLERLKE2iFQoKUbNj4Wtvr2+Njjkr1bOK8gMRIpZl2z1R3V7c3ddME4BrUqOumxT5MECYZ4rRAlOT+LLtH+hc8+cIMd/sIG3J5wiRN9bEs0fc9tNaYpon7LC4452CthTHGYyH0I8Se5glzN8M0GhtrjCc8Ho+6aRrkeY44jlA3HfKyp52hKAoopfxjIeEBjgEkiHUWbra4L0NEKiGhtZ6QZHqeZ2y3W7x99x43VxdY8s84ZBXqqsSyLFiYuSPZt2FAyuAdQclgtUWlalRzfSpZSgrDUNd17cuT1RcDfp/foBs6SCCfHQkt3X9+fESRhmi73gcylhkb57Ehgc+QpepxHE8l2QVx43D2y2BoRddhJaQTny7YsLRkVRWqqkLbtqt/Yx41HAalB5Yi2Vja6pBh/+ELcpabZxnWYM7g7KfGLixQHnNII6WBK6FzJw2jONYDO2y86MBhzHCefcXYjej6bn0guwQWeXwQftOG2tq1ZBkbhwPH5lkrGQdNfSb/SCA+/1h0tFLDaZSETJrSqg7t0j1rGD02RQgtRVb9gt31wY9QkqRrNuIXchkjH4SEmB321T32KpSxMa98V/th4mXD7Ji4Nt3Rmrvv1oxzb5QaDbOhT8sV2sqwEYbaeZukFIlCcfY3vPQa/1wO/7tmLB7S5RckfUO8JAIB5ypg9OD2dhdEURTwdzx950QInu55GB1gQnB5uAou++vgATmt4BNMp1eEAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Airtable UI&quot;
-        title=&quot;&quot;
-        src=&quot;/static/44754536f90acedb7e643f9bad1b0131/4973e/airtable.png&quot;
-        srcset=&quot;/static/44754536f90acedb7e643f9bad1b0131/d50ba/airtable.png 182w,
-/static/44754536f90acedb7e643f9bad1b0131/5c7f6/airtable.png 364w,
-/static/44754536f90acedb7e643f9bad1b0131/4973e/airtable.png 728w,
-/static/44754536f90acedb7e643f9bad1b0131/be5df/airtable.png 1092w,
-/static/44754536f90acedb7e643f9bad1b0131/29a7f/airtable.png 1456w,
-/static/44754536f90acedb7e643f9bad1b0131/48856/airtable.png 2184w,
-/static/44754536f90acedb7e643f9bad1b0131/6bc73/airtable.png 2608w&quot;
-        sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+&lt;p&gt;It turns out that ~14% of users have &gt;4 courses. I thought it might be nice to improve the UI with a list view so users could skim through their courses easier than in a card view. I also thought it might be helpful to link to other Top Hat resources that often get missed by users, like the support documentation channels. &lt;/p&gt;
 &lt;h2&gt;Day 1 &amp;#x26; 2&lt;/h2&gt;
 &lt;p&gt;Jeremy spent the first day setting up &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; and hooking it up to our front-end library. There were hiccups along the way based on how our front end library was hosted. Meanwhile, I worked out final kinks of the design and wrote a ReadMe on how to set up the dev environment.&lt;/p&gt;
 &lt;p&gt;
