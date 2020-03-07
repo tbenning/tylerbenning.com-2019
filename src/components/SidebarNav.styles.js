@@ -27,7 +27,6 @@ export const SidebarItem = styled.li`
   padding: 8px 8px 8px 40px;
   margin: 0;
   font-size: 16px;
-  width: 100%;
   font-weight: 500;
   border: 1px solid rgba(0, 0, 0, 0);
   list-style: none;

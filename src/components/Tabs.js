@@ -10,7 +10,9 @@ const StyledTabs = styled.ul`
     padding: 0;    
     display: flex;
     justify-content: flex-start;
-    margin:-8px;
+    border-bottom: 2px solid ${colors.ink20};
+    z-index: 10;
+    margin-bottom: 20px;
 `
 
 class Tabs extends Component {

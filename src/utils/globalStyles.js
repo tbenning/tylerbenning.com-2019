@@ -23,7 +23,7 @@ const colors = {
   black: '#000000',
 
   brand: '#49f2e7', // electric blue
-  brandLight: '#bbeffd',
+  brandLight: '#7bfff7',
 
   teal90: '#004a54',
 

@@ -24,11 +24,10 @@ class BlogIndex extends React.Component {
             `react`,
           ]}
         />
-        <h1>About</h1>
         <Tabs>
           <div label="What I Do at Work"> 
-        <p>
-          Product design is what I do at work everyday. Sometimes that means
+          <p>Product design is what I do at work everyday. </p>
+          <p>Sometimes that means
           fixing lots of small problems inside a big software app. Other times
           it means starting big ambitious projects from scratch. On some
           occasions, it means talking through problems and designing my way out
@@ -36,27 +35,20 @@ class BlogIndex extends React.Component {
         </p>
         <p>
           When I work, I value sketching and writing over talking in circles. I
-          think good ideas come from different team members when they have lots
-          of context. I care about my teammates' work, even if I don't
+          think great ideas come from different team members when they have lots
+          of relevant inputs from users and customers to give them context. I care about my teammates' work, even if I don't
           understand all of its nuances. I think roles are a helpful way to
-          designate accountability within teams. Making a successful product is
-          a team sport.
-        </p>
-        
+          designate accountability within teams, but I like to stretch into adjacent roles of product and engineering. </p>
+          <p>Making a successful product is a team sport.</p>
           </div>
           <div label="What I'm Learning"> 
         <p>
           Professionally, I'm drawn to the intersection of design and front-end
-          development. I'd kept hearing how Javascript's eating the world, and
-          how learning React can help you become better at Javascript. To find
-          out what all the fuss is about and to level up my front-end knowledge,
-          I've built this site using{' '}
-          <a href="https://www.gatsbyjs.org/" rel="noopener" target="_blank">
-            Gatsby
-          </a>
-          , a static site builder that uses React, GraphQL, and server-side
-          rendering to make the site lightning fast ⚡️. You can read more about
-          how I <code>export default</code>'d my way to launching this site{' '}
+          development. I'd heard that learning React can help you become better at Javascript, so I started picking it up. 
+          A good starting point for me, was to build this site using{' '}
+          <a href="https://www.gatsbyjs.org/" rel="noopener" target="_blank"> Gatsby</a> which uses React. </p>
+          
+          <p>If you're interested, you can read more about how I <code>export default</code>'d my way to launching this site{' '}
           <Link to="/personal-projects/tylerbenning-website/">here.</Link>
         </p>
         <p>
