@@ -22,7 +22,8 @@ const Container = styled.footer`
 `
 
 const MainContent = styled.div`
-  max-width: 728px;
+  max-width: 800px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;

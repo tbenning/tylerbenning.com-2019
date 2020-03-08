@@ -12,7 +12,7 @@ const StyledTabs = styled.ul`
     justify-content: flex-start;
     border-bottom: 2px solid ${colors.ink20};
     z-index: 10;
-    margin-bottom: 20px;
+    margin-bottom: 28px;
 `
 
 class Tabs extends Component {

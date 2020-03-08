@@ -32,12 +32,11 @@ const StyledButtonTwo = styled.button`
         color: ${colors.teal90};
         border-top: 2px solid ${colors.teal90};
         border-bottom: 2px solid #fff;
+        background: #fff;
 
     }
     &:focus {
         outline: none;
-        background: ${colors.ink20};
-        border-bottom: 2px solid ${colors.ink20};
     }
 `
 const FakeBorderTop = styled.div`

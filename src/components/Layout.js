@@ -57,7 +57,8 @@ const RightContainer = styled.div`
 `
 
 const MainContent = styled.div`
-  max-width: 728px;
+  max-width: 800px;
+  margin: 0 auto;
 `
 
 class Layout extends React.Component {
