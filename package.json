@@ -8,6 +8,7 @@
     "url": "https://github.com/tbenning/tylerbenning.com"
   },
   "dependencies": {
+    "babel-plugin-styled-components": "^1.10.7",
     "emoji-favicon-webpack-plugin": "^1.1.4",
     "gatsby": "^2.0.76",
     "gatsby-image": "^2.0.22",
@@ -21,6 +22,7 @@
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-react-svg": "^2.0.0-beta1",
     "gatsby-plugin-sharp": "^2.0.6",
+    "gatsby-plugin-styled-components": "^3.1.20",
     "gatsby-plugin-typography": "^2.2.0",
     "gatsby-remark-copy-linked-files": "^2.0.5",
     "gatsby-remark-embed-video": "^1.7.0",
@@ -36,7 +38,7 @@
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
     "react-typography": "^0.16.13",
-    "styled-components": "^4.1.3",
+    "styled-components": "^5.0.1",
     "typeface-merriweather": "0.0.43",
     "typeface-montserrat": "0.0.43",
     "typography": "^0.16.17",
@@ -65,7 +67,7 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "develop": "gatsby develop",
-    "start": "npm run develop",
+    "start": "gatsby develop",
     "build": "gatsby build",
     "deploy": "gatsby build && gh-pages -d public",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
