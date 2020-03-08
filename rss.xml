@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tyler Benning Product Designer]]></title><description><![CDATA[The portfolio and stories of Tyler Benning ]]></description><link>http://www.tylerbenning.com/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 07 Mar 2020 23:15:11 GMT</lastBuildDate><item><title><![CDATA[Motivations Assessment]]></title><description><![CDATA[Overview Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that…]]></description><link>http://www.tylerbenning.com//work-projects/paddle-motivations-assessment/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/paddle-motivations-assessment/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tyler Benning Product Designer]]></title><description><![CDATA[The portfolio and stories of Tyler Benning ]]></description><link>http://www.tylerbenning.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 08 Mar 2020 02:43:49 GMT</lastBuildDate><item><title><![CDATA[Motivations Assessment]]></title><description><![CDATA[Overview Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that…]]></description><link>http://www.tylerbenning.com/work-projects/paddle-motivations-assessment/</link><guid isPermaLink="false">http://www.tylerbenning.com/work-projects/paddle-motivations-assessment/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Paddle is a seed funded startup that offers career exploration tools. The first product offering is a self assessment tool that helps you understand your motivations and recommends industries suited to what will motivate you. The second offering is a learning platform that aids user’s next steps in learning about these industries. The product helps users to build their career path and keep them motivated.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://app.mypaddle.co/warmup&quot;&gt;Try the Paddle Motivations Assessment&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Projects I worked on&lt;/strong&gt;&lt;/p&gt;
@@ -32,43 +32,38 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;Being at a startup = Entrepreneurship 101. Over evening drinks, late nights in the office, and seeing the general comings and goings, I got a great feel for the entrepreneurial spirit. I’ve grasped many new aspects of how a business is run, and what it takes to build something valuable that people want.&lt;/p&gt;
 &lt;p&gt;That said, my new favourite reads are Paul Graham’s essays (even if I don’t agree with him all of the time). I think about the future and what products will exist there. I’ve become obsessed with new products on Product Hunt, up and comers on Angel List, and the latest funding on Crunchbase. Entrepreneurship culture is neat.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.paulgraham.com/articles.html&quot;&gt;Essays&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Design-driven companies are becoming the norm thanks to the likes of Google Ventures, AirBnb, and more. I used my time at Paddle as an opportunity to share my knowledge about how to use design as a tool for business. I helped make sure they could take a design-driven approach to building their business, by putting the user first and testing early and often!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Front-End Prototyping]]></title><description><![CDATA[What is Engineering Week? Each semester at Top Hat (semester instead of quarter), we have something called Engineering week. Engineering…]]></description><link>http://www.tylerbenning.com//work-projects/top-hat-eng-week/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/top-hat-eng-week/</guid><pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
+&lt;p&gt;Design-driven companies are becoming the norm thanks to the likes of Google Ventures, AirBnb, and more. I used my time at Paddle as an opportunity to share my knowledge about how to use design as a tool for business. I helped make sure they could take a design-driven approach to building their business, by putting the user first and testing early and often!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Front-End Prototyping]]></title><description><![CDATA[What is Engineering Week? Each semester at Top Hat (semester instead of quarter), we have something called Engineering week. Engineering…]]></description><link>http://www.tylerbenning.com/work-projects/top-hat-eng-week/</link><guid isPermaLink="false">http://www.tylerbenning.com/work-projects/top-hat-eng-week/</guid><pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/0679f/intro.jpg&quot;
+    href=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/57b36/intro.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 44.49484536082474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHdTYUISJ//xAAbEAACAgMBAAAAAAAAAAAAAAAAAgEDERIxMv/aAAgBAQABBQIsbURswWeY5//EABYRAAMAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPwEVf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAARIDH/2gAIAQEABj8CNU//xAAbEAABBAMAAAAAAAAAAAAAAAARAAEQMSFR4f/aAAgBAQABPyEvxDOR7Cyb3F0X/9oADAMBAAIAAwAAABDsH//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8QmKPT/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEx/9oACAECAQE/ELiP/8QAHBABAAICAwEAAAAAAAAAAAAAAREhADEQYYGh/9oACAEBAAE/EEVYd0DfuTJTBRNncXVgmLHRK4E7N9Jx9XF//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 44.49484536082474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHdTYUISJ//xAAbEAACAgMBAAAAAAAAAAAAAAAAAgEDERIxMv/aAAgBAQABBQIsbURswWeY5//EABYRAAMAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPwEVf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAARIDH/2gAIAQEABj8CNU//xAAbEAABBAMAAAAAAAAAAAAAAAARAAEQMSFR4f/aAAgBAQABPyEvxDOR7Cyb3F0X/9oADAMBAAIAAwAAABDsH//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8QmKPT/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEx/9oACAECAQE/ELiP/8QAHBABAAICAwEAAAAAAAAAAAAAAREhADEQYYGh/9oACAEBAAE/EEVYd0DfuTJTBRNncXVgmIZRK4E7N9Jx9XF//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Eng Week Intro&quot;
-        title=&quot;&quot;
-        src=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/2c84a/intro.jpg&quot;
-        srcset=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/2bac7/intro.jpg 182w,
-/static/6f4308ac71b5150d171bcdd92b85fc3e/f0f7f/intro.jpg 364w,
-/static/6f4308ac71b5150d171bcdd92b85fc3e/2c84a/intro.jpg 728w,
-/static/6f4308ac71b5150d171bcdd92b85fc3e/dfb4e/intro.jpg 1092w,
-/static/6f4308ac71b5150d171bcdd92b85fc3e/62ce5/intro.jpg 1456w,
-/static/6f4308ac71b5150d171bcdd92b85fc3e/972b9/intro.jpg 2184w,
-/static/6f4308ac71b5150d171bcdd92b85fc3e/0679f/intro.jpg 2425w&quot;
+        title=&quot;Eng Week Intro&quot;
+        src=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/7f450/intro.jpg&quot;
+        srcset=&quot;/static/6f4308ac71b5150d171bcdd92b85fc3e/5fc5d/intro.jpg 182w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/72b22/intro.jpg 364w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/7f450/intro.jpg 728w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/15ae0/intro.jpg 1092w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/91be0/intro.jpg 1456w,
+/static/6f4308ac71b5150d171bcdd92b85fc3e/57b36/intro.jpg 2425w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;What is Engineering Week?&lt;/h2&gt;
 &lt;p&gt;Each semester at Top Hat (semester instead of quarter), we have something called Engineering week. Engineering week is the time that everyone stops doing product based sprint work and focuses on a list of projects proposed and pitched by engineers.&lt;/p&gt;
 &lt;p&gt;There’s a dinky metaphor floating around that describes what engineering week is all about — which I stole from the Engineering leads. So, you’re in a forest chopping trees, but you never have time to sharpen your axe because you’re always too busy chopping trees. Engineering week is the time to stop and sharpen your axe.&lt;/p&gt;
@@ -81,221 +76,179 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;Jeremy and I settled on a simple project to set up a &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; that we would hook up to our front-end library to build an improved course lobby. I’d lead the design, and also implemented it with Jeremy’s coaching.&lt;/p&gt;
 &lt;h2&gt;The Lobby Before&lt;/h2&gt;
 &lt;p&gt;I came up with the idea that the Top Hat course lobby could be improved. It had been built and shipped, and not touched again. I thought it could use a minor facelift, and some general UI improvements.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/df41f910519868bafb426bd671899c19/6bc73/current-lobby.png&quot;
+    href=&quot;/static/df41f910519868bafb426bd671899c19/9aaee/current-lobby.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 63.49693251533742%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAACN0lEQVQ4y61TPW8TQRC9n8BHEwr+QCIk0vADiEJBQUkCiIJ0BCQEdCSRKBAdBR1CbInoER8FJDERAWyLgoo/gB2f7bvzffhu92Z9j9lxHFsIiYaRnnZ3dubtzJs7L08LBbY4SWk4zNE68NHu9OH3QnT+AYnpOgTwOyFaLR/e9TsP1frmE6zdf0QrNzdw9fYWVtY34PZ/4vIMpr4HWOX4tXuPceXWFry5xYtqfukaFs6v0ulzl3DyzAUcm1/6K44vTDE5nzjcz51dxqnFZXi1/aZq/viJ2pcm7X39jt39BnY+N2Q92jO2GW936nizXce73To+7DXwvlbH64/f5G7z2SfcfVqDR6URDa0lqqoRplahGlnMWlVVAktW7mctGVqECcGL41iVtsKvtk8ZD4U42JQka5Jm6IURojiR84SwKAp0gxBBNEA4iFFoM2YdMWGaJlJhGA2IJ83BmgM0ExDyPEe3H7ovgImkRMkzxghZnx8zZSmPjLu08JJkTMhGRxfcOdFISGfNjioQd+NIRJLDeLc6f0kzhFprKjnQmBJJZpAOtbSmuR2pmvdZblgrgyFXXpZGKnKPas6JOSfLtWs5VfwwDvweTSuqpL2UNWx3utx2AKevI3DmJPF7AXpBJOSTAU1afuEOnKBZeJch4Ilbrsyy33KVR34H1tBGg9iyhjzwaY4zR/gS/9Ec4Q2u4BVr95w1VLyqINZqwP8466bGPqOISpVkWu74nxe/Awuv+LNRffYnWaF+A2+TjN13JMVLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.49693251533742%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAACN0lEQVQ4y61TPW8TQRC9n8BHEwr+QCIk0vADiEJBQUkCiIJ0BCQEdCSRKBAdBR1CbInoER8FJDERAWyLgoo/gB2f7bvzffhu92Z9j9lxHFsIiYaRnnZ3dubtzJs7L08LBbY4SWk4zNE68NHu9OH3QnT+AYnpOgTwOyFaLR/e9TsP1frmE6zdf0QrNzdw9fYWVtY34PZ/4vIMpr4HWOX4tXuPceXWFry5xYtqfukaFs6v0ulzl3DyzAUcm1/6K44vTDE5nzjcz51dxqnFZXi1/aZq/viJ2pcm7X39jt39BnY+N2Q92jO2GW936nizXce73To+7DXwvlbH64/f5G7z2SfcfVqDR6URDa0lqqoRplahGlnMWlVVAktW7mctGVqECcGL41iVtsKvtk8ZD4U42JQka5Jm6IURojiR84SwKAp0gxBBNEA4iFFoM2YdMWGaJlJhGA2IJ83BmgM0ExDyPEe3H7ovgImkRMkzxghZnx8zZSmPjLu08JJkTMhGRxfcOdFISGfNjioQd+NIRJLDeLc6f0kzhFprKjnQmBJJZpAOtbSmuR2pmvdZblgrgyFXXpZGKnKPas6JOSfLtWs5VfwwDvweTSuqpL2UNWx3utx2AKevI3DmJPF7AXpBJOSTAU1afuEOnKBZeJch4Ilbrsyy33KVR34H1tBGg9iyhjzwaY4zR/gS/9Ec4Q2u4BVr95w1VLyqINZqwP8466bGPqOISpVkWu74nxe/Awuv+LNRffYnWaF+A2+TjN13JMVLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Existing Course Lobby&quot;
-        title=&quot;&quot;
-        src=&quot;/static/df41f910519868bafb426bd671899c19/4973e/current-lobby.png&quot;
-        srcset=&quot;/static/df41f910519868bafb426bd671899c19/d50ba/current-lobby.png 182w,
-/static/df41f910519868bafb426bd671899c19/5c7f6/current-lobby.png 364w,
-/static/df41f910519868bafb426bd671899c19/4973e/current-lobby.png 728w,
-/static/df41f910519868bafb426bd671899c19/be5df/current-lobby.png 1092w,
-/static/df41f910519868bafb426bd671899c19/29a7f/current-lobby.png 1456w,
-/static/df41f910519868bafb426bd671899c19/48856/current-lobby.png 2184w,
-/static/df41f910519868bafb426bd671899c19/6bc73/current-lobby.png 2608w&quot;
+        title=&quot;Existing Course Lobby&quot;
+        src=&quot;/static/df41f910519868bafb426bd671899c19/cecac/current-lobby.png&quot;
+        srcset=&quot;/static/df41f910519868bafb426bd671899c19/a51ee/current-lobby.png 182w,
+/static/df41f910519868bafb426bd671899c19/e45a9/current-lobby.png 364w,
+/static/df41f910519868bafb426bd671899c19/cecac/current-lobby.png 728w,
+/static/df41f910519868bafb426bd671899c19/2cffa/current-lobby.png 1092w,
+/static/df41f910519868bafb426bd671899c19/3ceac/current-lobby.png 1456w,
+/static/df41f910519868bafb426bd671899c19/9aaee/current-lobby.png 2608w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;I did a bit of quantitative research to understand how the lobby was being used. After a quick request to the &lt;code class=&quot;language-text&quot;&gt;#analytics&lt;/code&gt; Slack channel, I found some useful data on how many courses professors had in their course lobby.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/520dc93bef57ea670a44fafeaf55625a/cf5eb/data.png&quot;
+    href=&quot;/static/520dc93bef57ea670a44fafeaf55625a/5e1f2/data.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 50.328022492970945%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsSAAALEgHS3X78AAABjElEQVQoz6VS2U7jQBDM1yOekJD4DfgDFnHsEhZxCCSORRtpQxJsx9jE11weF9VjsgpCPCBGqulpu7v6HHQd0PEyzsPzTS3oXz1Ln4FcWinM8xquJalv4ZyD/DbUC2OhXIuW0UrrAnTbQhGeJM77gCVpIBSSsjHQtuVHGtBYznmSYWf0iP1pjONoHvBjEuHX0xzbf8c4nCXYpX4wi0PQkKG1FoK60STtCVsSStTLeYarNMd9vsC0aoIUXKYZbrMFzpJnXNCmpL9kFzIsyxLWmDdClup7Qkt5R+ffcYrT+BlRrQL5w0sRdCESDKM0tOBdyUIgKJihl358eyhawxjNHnrklUHDEgyJJXLDAckA+nffiq7fhTAUvxL8f4by6AfR4SrOsD68xsbpDTbPb7F51sutizusnVzjeJoEZxmg4cSt82E7rOurGyxTlVVxzCxhT3+OZxhOYhyNY+yNJjj8F5EoxT71P8kLlHKolEW+qFFUGo3mOtWUXL/Bav2fHV0WUMUCmlBVudq5D318Be2pAziobKX+AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.328022492970945%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsSAAALEgHS3X78AAABjElEQVQoz6VS2U7jQBDM1yOekJD4DfgDFnHsEhZxCCSORRtpQxJsx9jE11weF9VjsgpCPCBGqulpu7v6HHQd0PEyzsPzTS3oXz1Ln4FcWinM8xquJalv4ZyD/DbUC2OhXIuW0UrrAnTbQhGeJM77gCVpIBSSsjHQtuVHGtBYznmSYWf0iP1pjONoHvBjEuHX0xzbf8c4nCXYpX4wi0PQkKG1FoK60STtCVsSStTLeYarNMd9vsC0aoIUXKYZbrMFzpJnXNCmpL9kFzIsyxLWmDdClup7Qkt5R+ffcYrT+BlRrQL5w0sRdCESDKM0tOBdyUIgKJihl358eyhawxjNHnrklUHDEgyJJXLDAckA+nffiq7fhTAUvxL8f4by6AfR4SrOsD68xsbpDTbPb7F51sutizusnVzjeJoEZxmg4cSt82E7rOurGyxTlVVxzCxhT3+OZxhOYhyNY+yNJjj8F5EoxT71P8kLlHKolEW+qFFUGo3mOtWUXL/Bav2fHV0WUMUCmlBVudq5D318Be2pAziobKX+AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Data&quot;
-        title=&quot;&quot;
-        src=&quot;/static/520dc93bef57ea670a44fafeaf55625a/4973e/data.png&quot;
-        srcset=&quot;/static/520dc93bef57ea670a44fafeaf55625a/d50ba/data.png 182w,
-/static/520dc93bef57ea670a44fafeaf55625a/5c7f6/data.png 364w,
-/static/520dc93bef57ea670a44fafeaf55625a/4973e/data.png 728w,
-/static/520dc93bef57ea670a44fafeaf55625a/be5df/data.png 1092w,
-/static/520dc93bef57ea670a44fafeaf55625a/29a7f/data.png 1456w,
-/static/520dc93bef57ea670a44fafeaf55625a/cf5eb/data.png 2134w&quot;
+        title=&quot;Data&quot;
+        src=&quot;/static/520dc93bef57ea670a44fafeaf55625a/cecac/data.png&quot;
+        srcset=&quot;/static/520dc93bef57ea670a44fafeaf55625a/a51ee/data.png 182w,
+/static/520dc93bef57ea670a44fafeaf55625a/e45a9/data.png 364w,
+/static/520dc93bef57ea670a44fafeaf55625a/cecac/data.png 728w,
+/static/520dc93bef57ea670a44fafeaf55625a/2cffa/data.png 1092w,
+/static/520dc93bef57ea670a44fafeaf55625a/3ceac/data.png 1456w,
+/static/520dc93bef57ea670a44fafeaf55625a/5e1f2/data.png 2134w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;14% of professsors have more than four courses&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;It turns out that ~14% of users have &gt;4 courses. I thought it might be nice to improve the UI with a list view so users could skim through their courses easier than in a card view. I also thought it might be helpful to link to other Top Hat resources that often get missed by users, like the support documentation channels. &lt;/p&gt;
 &lt;h2&gt;Day 1 &amp;#x26; 2&lt;/h2&gt;
 &lt;p&gt;Jeremy spent the first day setting up &lt;code class=&quot;language-text&quot;&gt;create-react-app&lt;/code&gt; and hooking it up to our front-end library. There were hiccups along the way based on how our front end library was hosted. Meanwhile, I worked out final kinks of the design and wrote a ReadMe on how to set up the dev environment.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8b64029bfc540f8b888639212ae8bf73/bfef1/readme.png&quot;
+    href=&quot;/static/8b64029bfc540f8b888639212ae8bf73/7ebf9/readme.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 86.76393955184992%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAABYlAAAWJQFJUiTwAAABuklEQVQ4y6VUCW7bMBDU/3/XFj3jprUOO5RkiRR1UYenO+uqaIo6cRIBg11C5HCWs2TkmgYfP33Gu/cfUJYl3vKdz2dEYZqQFwXq2gpqlKcTrHM4nSqFtVb/Ma+qGhTAcSVzncyr7SVv21ZJo2EYkKQpkiSFMTmWZcG6rhon2WyeZwXzbTzpeP4rn3S+EoYQUIjCB2MklqqAO1LFq0pmwsVUx3I3jLLRNuklUMKf+xhfvn4Dy99IXvtFXNx2nZba98Mj+ev6MvxR2PW9Ott4r3CNhxfXaM6tWBhJyAH7L82y3/Zf1Hai+t8zvKlkdVkI6TAjlVHxOI5XnXzSFBoRSw/u41hV8jzZ7MQwjHKuvaqm4hCmZ0kjNqTehOpyE7a2oVqT56rYy7l6397USmpKnCS42+3w/f4HDoeDXkGadK3sZ9vGWrmfTm6IdUIkucRhDOIa5GotiplYiPUq2DoR7a5NiePRIHswyI+5PAQWWSEwNQ6MeQ3fjeiGcBWtIMiml7YRwix3SAxfDnlBmhaV84pSxs536MdJFzL+D/zHSsSUFZ3vkRwL7PYG92mBu9gISS9lP17wFOlG+Avpgy0ssrsTegAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 86.76393955184992%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAABYlAAAWJQFJUiTwAAABuklEQVQ4y6VUCW7bMBDU/3/XFj3jprUOO5RkiRR1UYenO+uqaIo6cRIBg11C5HCWs2TkmgYfP33Gu/cfUJYl3vKdz2dEYZqQFwXq2gpqlKcTrHM4nSqFtVb/Ma+qGhTAcSVzncyr7SVv21ZJo2EYkKQpkiSFMTmWZcG6rhon2WyeZwXzbTzpeP4rn3S+EoYQUIjCB2MklqqAO1LFq0pmwsVUx3I3jLLRNuklUMKf+xhfvn4Dy99IXvtFXNx2nZba98Mj+ev6MvxR2PW9Ott4r3CNhxfXaM6tWBhJyAH7L82y3/Zf1Hai+t8zvKlkdVkI6TAjlVHxOI5XnXzSFBoRSw/u41hV8jzZ7MQwjHKuvaqm4hCmZ0kjNqTehOpyE7a2oVqT56rYy7l6397USmpKnCS42+3w/f4HDoeDXkGadK3sZ9vGWrmfTm6IdUIkucRhDOIa5GotiplYiPUq2DoR7a5NiePRIHswyI+5PAQWWSEwNQ6MeQ3fjeiGcBWtIMiml7YRwix3SAxfDnlBmhaV84pSxs536MdJFzL+D/zHSsSUFZ3vkRwL7PYG92mBu9gISS9lP17wFOlG+Avpgy0ssrsTegAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Data&quot;
-        title=&quot;&quot;
-        src=&quot;/static/8b64029bfc540f8b888639212ae8bf73/4973e/readme.png&quot;
-        srcset=&quot;/static/8b64029bfc540f8b888639212ae8bf73/d50ba/readme.png 182w,
-/static/8b64029bfc540f8b888639212ae8bf73/5c7f6/readme.png 364w,
-/static/8b64029bfc540f8b888639212ae8bf73/4973e/readme.png 728w,
-/static/8b64029bfc540f8b888639212ae8bf73/be5df/readme.png 1092w,
-/static/8b64029bfc540f8b888639212ae8bf73/29a7f/readme.png 1456w,
-/static/8b64029bfc540f8b888639212ae8bf73/bfef1/readme.png 1919w&quot;
+        title=&quot;Data&quot;
+        src=&quot;/static/8b64029bfc540f8b888639212ae8bf73/cecac/readme.png&quot;
+        srcset=&quot;/static/8b64029bfc540f8b888639212ae8bf73/a51ee/readme.png 182w,
+/static/8b64029bfc540f8b888639212ae8bf73/e45a9/readme.png 364w,
+/static/8b64029bfc540f8b888639212ae8bf73/cecac/readme.png 728w,
+/static/8b64029bfc540f8b888639212ae8bf73/2cffa/readme.png 1092w,
+/static/8b64029bfc540f8b888639212ae8bf73/3ceac/readme.png 1456w,
+/static/8b64029bfc540f8b888639212ae8bf73/7ebf9/readme.png 1919w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;The repo’s ReadMe&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Day 3 &amp;#x26; 4&lt;/h2&gt;
 &lt;p&gt;I spent time learning about state management in React and how it would help translate my grid and list view designs into code. We worked through how to build out the toggle switch and swap between the list view and grid view.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/18faa/styled-components.png&quot;
+    href=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/aaba6/styled-components.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 57.20213396561944%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABw0lEQVQoz42SWZKjMBBEOYgBoQUtSKwGYxPhvv+pclJmOtrt+ZmPipIC9Cqrsorn84nH48C6bkiph/cetjXMAS3Dhg6ubRkGWitooyHVmbXWUPnM79M8o08Jxb7fCNxxu+2IMcE5BykkYkjw6xWBP6Z5QoodH3RIwSJ6wk2DWtYQjEqUUK6FdRbF/X6H7wIc1Sh1VhdCoFEMI9G0vGvJh4LfGsica0LKCpdLiZK5vFz4b8uOPIqv5xdc5+HnCGMtFNvQUqHLrS4T/DCgSxEhOBZ1aCSL1AK6YUFRo6wILEvUWQijOI6DbRqs24p5XmA4jwyMvoebV6ofEVmo9xYtZygIqwmp6wrVX1jFyOB8L6ZpwTBEbJzjvh9UEqGoIs9S86yNg2oaeMI6k4En5DuqqvwFLoaBCqLH/fHAsqywliCpEVyCTWyZ5nSEB7raKvlSd4LeFL5lAgdEupfbzauSV6GhItPT2XF8OSfyrPjgNOEH8KPyAzgvC1X2dJA7pc0LKK2nWR1nSufZ7reiz/gX2PdYpvE1uww7FUpIx1Xi7gmeKxrxrugzfgFHLu62b5zfFYa7ZExWKODjiOG60WX/uv+vwj+NsTwIlatbJAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.20213396561944%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABw0lEQVQoz42SWZKjMBBEOYgBoQUtSKwGYxPhvv+pclJmOtrt+ZmPipIC9Cqrsorn84nH48C6bkiph/cetjXMAS3Dhg6ubRkGWitooyHVmbXWUPnM79M8o08Jxb7fCNxxu+2IMcE5BykkYkjw6xWBP6Z5QoodH3RIwSJ6wk2DWtYQjEqUUK6FdRbF/X6H7wIc1Sh1VhdCoFEMI9G0vGvJh4LfGsica0LKCpdLiZK5vFz4b8uOPIqv5xdc5+HnCGMtFNvQUqHLrS4T/DCgSxEhOBZ1aCSL1AK6YUFRo6wILEvUWQijOI6DbRqs24p5XmA4jwyMvoebV6ofEVmo9xYtZygIqwmp6wrVX1jFyOB8L6ZpwTBEbJzjvh9UEqGoIs9S86yNg2oaeMI6k4En5DuqqvwFLoaBCqLH/fHAsqywliCpEVyCTWyZ5nSEB7raKvlSd4LeFL5lAgdEupfbzauSV6GhItPT2XF8OSfyrPjgNOEH8KPyAzgvC1X2dJA7pc0LKK2nWR1nSufZ7reiz/gX2PdYpvE1uww7FUpIx1Xi7gmeKxrxrugzfgFHLu62b5zfFYa7ZExWKODjiOG60WX/uv+vwj+NsTwIlatbJAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Styled Components&quot;
-        title=&quot;&quot;
-        src=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/4973e/styled-components.png&quot;
-        srcset=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/d50ba/styled-components.png 182w,
-/static/be4470c77953ca58b68ae69f00ff22a5/5c7f6/styled-components.png 364w,
-/static/be4470c77953ca58b68ae69f00ff22a5/4973e/styled-components.png 728w,
-/static/be4470c77953ca58b68ae69f00ff22a5/be5df/styled-components.png 1092w,
-/static/be4470c77953ca58b68ae69f00ff22a5/29a7f/styled-components.png 1456w,
-/static/be4470c77953ca58b68ae69f00ff22a5/48856/styled-components.png 2184w,
-/static/be4470c77953ca58b68ae69f00ff22a5/18faa/styled-components.png 3374w&quot;
+        title=&quot;Styled Components&quot;
+        src=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/cecac/styled-components.png&quot;
+        srcset=&quot;/static/be4470c77953ca58b68ae69f00ff22a5/a51ee/styled-components.png 182w,
+/static/be4470c77953ca58b68ae69f00ff22a5/e45a9/styled-components.png 364w,
+/static/be4470c77953ca58b68ae69f00ff22a5/cecac/styled-components.png 728w,
+/static/be4470c77953ca58b68ae69f00ff22a5/2cffa/styled-components.png 1092w,
+/static/be4470c77953ca58b68ae69f00ff22a5/3ceac/styled-components.png 1456w,
+/static/be4470c77953ca58b68ae69f00ff22a5/aaba6/styled-components.png 3374w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;As a designer, I was immediately attracted to Styled Components, because of how familiar the syntax felt. I’d been a CSS whiz in my past life, and hopping into Styled Components was a breeze.&lt;/p&gt;
 &lt;h2&gt;Day 5&lt;/h2&gt;
 &lt;p&gt;Wrap up, and tie up loose ends. We finished up the project and did a retrospective on our process.&lt;/p&gt;
 &lt;h2&gt;The Final Result&lt;/h2&gt;
-&lt;p&gt;&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;div class=&quot;embedVideo-container&quot;&gt;
-            &lt;iframe src=&quot;https://player.vimeo.com/video/321165014&quot; class=&quot;embedVideo-iframe&quot; allowfullscreen style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-        &lt;/div&gt;
-      &lt;style&gt;
-        .embedVideo-iframe {
-          border: 0
-        }
-      &lt;/style&gt;
-          &lt;/div&gt;
-          &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Overall, it was a positive experience collaborating with engineering at a closer level. It made me closely consider how I put together designs, and how I make compromises with team members. It was a succesful week of learning, empathy building, and practicing javascript.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The iOS Classroom Experience]]></title><description><![CDATA[The Classroom Product’s History Classroom is Top Hat’s cornerstone product that helped catapult them towards product-market fit, high growth…]]></description><link>http://www.tylerbenning.com//work-projects/top-hat-classroom/</link><guid isPermaLink="false">http://www.tylerbenning.com//work-projects/top-hat-classroom/</guid><pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe src=&quot;https://player.vimeo.com/video/321165014&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Overall, it was a positive experience collaborating with engineering at a closer level. It made me closely consider how I put together designs, and how I make compromises with team members. It was a succesful week of learning, empathy building, and practicing javascript.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The iOS Classroom Experience]]></title><description><![CDATA[The Classroom Product’s History Classroom is Top Hat’s cornerstone product that helped catapult them towards product-market fit, high growth…]]></description><link>http://www.tylerbenning.com/work-projects/top-hat-classroom/</link><guid isPermaLink="false">http://www.tylerbenning.com/work-projects/top-hat-classroom/</guid><pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/16c86ca12544befc4e73da391a6384c9/517a6/classroom.jpg&quot;
+    href=&quot;/static/16c86ca12544befc4e73da391a6384c9/d9c39/classroom.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 61.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAExcboA+zk//8QAGhAAAgMBAQAAAAAAAAAAAAAAAgMBBBIRQv/aAAgBAQABBQL0CBJT66wOJ7Os0nOIj//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAABAhEDQRAiMf/aAAgBAQAGPwJkZOT7Ub4xyWqLdeH/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMXFhkf/aAAgBAQABPyHIF/ZtNBOwEF7L3EIfYKsWHnsIBD//2gAMAwEAAgADAAAAEKP/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EFf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMVFhQf/aAAgBAQABPxC6nRKDNHk/M7CFWDscvbqe2nnyKbjqjuQKESOOIeg0KBo1+z//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAExcboA+zrP/8QAGhAAAgMBAQAAAAAAAAAAAAAAAgMBBBIRQv/aAAgBAQABBQL0CBJT66wOJ7Os0nOIj//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAABAhEDQRAiMf/aAAgBAQAGPwJkZOT7Ub4xyWqLdeH/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMXFhkf/aAAgBAQABPyHIF/ZtNBOwEF7L3EIfYKsWHnsIBD//2gAMAwEAAgADAAAAEKPf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EEf/xAAbEAEBAAMBAQEAAAAAAAAAAAABEQAhMVFhQf/aAAgBAQABPxCydEgaw8z8zsISg7jl7up7U8+YtunaHdYFCJHHGX0IIDDb9z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;A Top Hat Classroom&quot;
-        title=&quot;&quot;
-        src=&quot;/static/16c86ca12544befc4e73da391a6384c9/2c84a/classroom.jpg&quot;
-        srcset=&quot;/static/16c86ca12544befc4e73da391a6384c9/2bac7/classroom.jpg 182w,
-/static/16c86ca12544befc4e73da391a6384c9/f0f7f/classroom.jpg 364w,
-/static/16c86ca12544befc4e73da391a6384c9/2c84a/classroom.jpg 728w,
-/static/16c86ca12544befc4e73da391a6384c9/dfb4e/classroom.jpg 1092w,
-/static/16c86ca12544befc4e73da391a6384c9/62ce5/classroom.jpg 1456w,
-/static/16c86ca12544befc4e73da391a6384c9/517a6/classroom.jpg 1800w&quot;
+        title=&quot;A Top Hat Classroom&quot;
+        src=&quot;/static/16c86ca12544befc4e73da391a6384c9/7f450/classroom.jpg&quot;
+        srcset=&quot;/static/16c86ca12544befc4e73da391a6384c9/5fc5d/classroom.jpg 182w,
+/static/16c86ca12544befc4e73da391a6384c9/72b22/classroom.jpg 364w,
+/static/16c86ca12544befc4e73da391a6384c9/7f450/classroom.jpg 728w,
+/static/16c86ca12544befc4e73da391a6384c9/15ae0/classroom.jpg 1092w,
+/static/16c86ca12544befc4e73da391a6384c9/91be0/classroom.jpg 1456w,
+/static/16c86ca12544befc4e73da391a6384c9/d9c39/classroom.jpg 1800w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;The Classroom Product’s History&lt;/h2&gt;
 &lt;p&gt;Classroom is Top Hat’s cornerstone product that helped catapult them towards product-market fit, high growth, and venture capital. Top Hat has displaced existing hardware clickers, in favour of using smartphones and web apps. To date, millions of students have used Top Hat in higher education institutions across the United States, Canada, and the UK. From the sound of it, everything in the product must be peachy, right?&lt;/p&gt;
 &lt;p&gt;When I joined in 2017, Classroom had already been built. The issue was that crucial parts of the user experience had been neglected in a mad scramble for growth. This lead to retention problems because the feature set had become complex, bloated, and basic expectations of usability weren’t being met. The same sad story has befell many products. We weren’t unique. We needed to get back to basics and focus on the core experience.&lt;/p&gt;
@@ -305,42 +258,38 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;As long as students are able to meet these basic expectations, both users are relatively happy, right? Well, if the hot water’s barely running in your hotel, and you’re not sure how to work the faucet, there’s still a problem. For us, our Classroom apps worked, but it was missing the mark on some basic expectations.&lt;/p&gt;
 &lt;h2&gt;My Role&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/faf38c2b5d64f112753bc722201cd962/f09f4/org-structure.png&quot;
+    href=&quot;/static/faf38c2b5d64f112753bc722201cd962/891d5/org-structure.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 43.15789473684211%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABgUlEQVQoz3VS207rMBD0/38TL0cgcQoUBBKXloY0NI6TOI7bxGkKhQxjl0KFYKWRPXuZ3Y0jQBuGAT/t0Pf2NiBNB7y//x4/NOEDe8TPEqrQ+xIYMyBJBlTVAGuBzcsrJlGM5ar9Ev0JcagezZ+R5cUXrw3wFAGd2/Htdou7aUTBBn+ZaLsejmjXPfrNK9x6s+Nuja7fBLh+Defo675zms+6kEs0nxAzVeI+K7DIK2jbhNPzWVYi1xZlvUKcadzR50/Ps7LGXOmQdytzTKmRss7Xihs6ztIMUa5hly2eeJ6TX6UKqrKo2OSBhSOZhWLPfSMvNmLe6ULiUiokFJNsJEapxAUDEz6GtS3u85INJMZMmmuDwizD/f8ixY0qdhPqGtcqD43HxDmbTTiIn1yczObwiLmCoWDEVY8mEcbxAjkn1BTw8WPiNEqCoOKEU1ng32McYteJRFoYrmwg6pVDxVXrxoWP67nhb+F9y7ZDw8fx973Pc9t0Ia9a7fweltz7PgC/AKm+R24e8wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 43.15789473684211%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABgUlEQVQoz3VS207rMBD0/38TL0cgcQoUBBKXloY0NI6TOI7bxGkKhQxjl0KFYKWRPXuZ3Y0jQBuGAT/t0Pf2NiBNB7y//x4/NOEDe8TPEqrQ+xIYMyBJBlTVAGuBzcsrJlGM5ar9Ev0JcagezZ+R5cUXrw3wFAGd2/Htdou7aUTBBn+ZaLsejmjXPfrNK9x6s+Nuja7fBLh+Defo675zms+6kEs0nxAzVeI+K7DIK2jbhNPzWVYi1xZlvUKcadzR50/Ps7LGXOmQdytzTKmRss7Xihs6ztIMUa5hly2eeJ6TX6UKqrKo2OSBhSOZhWLPfSMvNmLe6ULiUiokFJNsJEapxAUDEz6GtS3u85INJMZMmmuDwizD/f8ixY0qdhPqGtcqD43HxDmbTTiIn1yczObwiLmCoWDEVY8mEcbxAjkn1BTw8WPiNEqCoOKEU1ng32McYteJRFoYrmwg6pVDxVXrxoWP67nhb+F9y7ZDw8fx973Pc9t0Ia9a7fweltz7PgC/AKm+R24e8wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Org Structure&quot;
-        title=&quot;&quot;
-        src=&quot;/static/faf38c2b5d64f112753bc722201cd962/4973e/org-structure.png&quot;
-        srcset=&quot;/static/faf38c2b5d64f112753bc722201cd962/d50ba/org-structure.png 182w,
-/static/faf38c2b5d64f112753bc722201cd962/5c7f6/org-structure.png 364w,
-/static/faf38c2b5d64f112753bc722201cd962/4973e/org-structure.png 728w,
-/static/faf38c2b5d64f112753bc722201cd962/be5df/org-structure.png 1092w,
-/static/faf38c2b5d64f112753bc722201cd962/29a7f/org-structure.png 1456w,
-/static/faf38c2b5d64f112753bc722201cd962/f09f4/org-structure.png 1520w&quot;
+        title=&quot;Org Structure&quot;
+        src=&quot;/static/faf38c2b5d64f112753bc722201cd962/cecac/org-structure.png&quot;
+        srcset=&quot;/static/faf38c2b5d64f112753bc722201cd962/a51ee/org-structure.png 182w,
+/static/faf38c2b5d64f112753bc722201cd962/e45a9/org-structure.png 364w,
+/static/faf38c2b5d64f112753bc722201cd962/cecac/org-structure.png 728w,
+/static/faf38c2b5d64f112753bc722201cd962/2cffa/org-structure.png 1092w,
+/static/faf38c2b5d64f112753bc722201cd962/3ceac/org-structure.png 1456w,
+/static/faf38c2b5d64f112753bc722201cd962/891d5/org-structure.png 1520w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;How my project teams were organized&lt;/em&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;p&gt;At the time, I worked on Top Hat Classroom leading design on iOS, Android, and two web teams at a ratio of 1 designer : 2 product managers : 14 developers. I lead product design from ideation to implementation.&lt;/p&gt;
@@ -351,82 +300,74 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;h3&gt;Checkpoints &amp;#x26; Quizzes&lt;/h3&gt;
 &lt;p&gt;One of the most common use cases is for professors to present slides, and ask questions throughout their lecture. They do this to check comprehension and pivot what they need to teach to students in real time. Internally, we called these comprehension checks &lt;strong&gt;checkpoints&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;a
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7fcc6fde82603346246a007c8e880995/79341/simple-flow.png&quot;
+    href=&quot;/static/7fcc6fde82603346246a007c8e880995/95e59/simple-flow.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 25.273972602739725%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAAwUlEQVQY04VPy3LCMAzM//9jrpkBUiC2ZUWKpa3sQmm5oBmNdlfvycywbRvcHX+t06F1+eFP7Vn63tNtUlUsy4LWGpQdnC2iPaYA/ya+1v1yM8debLgHnpgZ8zzjOBRSG8pdQJuCSUGlgouiZgkPnhk5p4GZZOQ77j35JjjEMInIGGjekFdHuhjKV8RVcFrW0LoeWuTul4rzekI6GygpbtcEunrUG3L0SY0L930HEUFV0DReaD+vHEGo0lj0evOzfQN3sYeolQJaRwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 25.273972602739725%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAAwUlEQVQY04VPy3LCMAzM//9jrpkBUiC2ZUWKpa3sQmm5oBmNdlfvycywbRvcHX+t06F1+eFP7Vn63tNtUlUsy4LWGpQdnC2iPaYA/ya+1v1yM8debLgHnpgZ8zzjOBRSG8pdQJuCSUGlgouiZgkPnhk5p4GZZOQ77j35JjjEMInIGGjekFdHuhjKV8RVcFrW0LoeWuTul4rzekI6GygpbtcEunrUG3L0SY0L930HEUFV0DReaD+vHEGo0lj0evOzfQN3sYeolQJaRwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;User flow&quot;
-        title=&quot;&quot;
-        src=&quot;/static/7fcc6fde82603346246a007c8e880995/4973e/simple-flow.png&quot;
-        srcset=&quot;/static/7fcc6fde82603346246a007c8e880995/d50ba/simple-flow.png 182w,
-/static/7fcc6fde82603346246a007c8e880995/5c7f6/simple-flow.png 364w,
-/static/7fcc6fde82603346246a007c8e880995/4973e/simple-flow.png 728w,
-/static/7fcc6fde82603346246a007c8e880995/be5df/simple-flow.png 1092w,
-/static/7fcc6fde82603346246a007c8e880995/29a7f/simple-flow.png 1456w,
-/static/7fcc6fde82603346246a007c8e880995/79341/simple-flow.png 1460w&quot;
+        title=&quot;User flow&quot;
+        src=&quot;/static/7fcc6fde82603346246a007c8e880995/cecac/simple-flow.png&quot;
+        srcset=&quot;/static/7fcc6fde82603346246a007c8e880995/a51ee/simple-flow.png 182w,
+/static/7fcc6fde82603346246a007c8e880995/e45a9/simple-flow.png 364w,
+/static/7fcc6fde82603346246a007c8e880995/cecac/simple-flow.png 728w,
+/static/7fcc6fde82603346246a007c8e880995/2cffa/simple-flow.png 1092w,
+/static/7fcc6fde82603346246a007c8e880995/3ceac/simple-flow.png 1456w,
+/static/7fcc6fde82603346246a007c8e880995/95e59/simple-flow.png 1460w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;How a professor checks comprehension throughout a lecture&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Another common use case is for professors to present a 4-5 questions quiz at the beginning of class, to check if students did their homework, and understand their level of comprehension. This activity helps them choose which topics they need to go over again in class.&lt;/p&gt;
 &lt;p&gt;To enable these types of tasks, students need to be able to answer questions on their device without issues. If there are any problems while asking questions, it disrupts the learning flow, and interrupts a professor’s classroom goals.&lt;/p&gt;
 &lt;h3&gt;Asking Questions in the Classroom&lt;/h3&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/7bab8/prof-student-flow.png&quot;
+    href=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/fc651/prof-student-flow.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 38.92572944297082%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsSAAALEgHS3X78AAABK0lEQVQoz3WR627CMAyF+/6vOPGDaQMBbdqmzd3JwXaAoWmLZPm0tT8fp0OliloqWm1Ii0OyHnkL+O8Un3qEjOKi6ji73rt6DPIi75GBFfu3QRg3zQKl8Gh2CaQ5IlxXuJNBNDvnWfX2OWL5OGP/mjA8J7fWFJJs0MbGzksilEyoD02sxVlyGRQzsu+69/XNGNgEx0BgdxXzQvCB3e4Eu5HmaSrYWBtT+Ht51BUsK2G1vf55BqIGicp3OI0ZZuIwmSE9r2vB+ZzgHOF2yxreEy6XxDphYfBmy2vLITA9xqoPx2PA4eAVIM4EIt8FOvIwCRl0vSZ13N3zzyntB/i0Ki5Pp6gwmf5+pFlCQOJQhghIgDnXF0xXFvFXvBeJU3EpVyArWtvvVEz8rr8DkFFvdD2Z74MAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 38.92572944297082%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsSAAALEgHS3X78AAABK0lEQVQoz3WR627CMAyF+/6vOPGDaQMBbdqmzd3JwXaAoWmLZPm0tT8fp0OliloqWm1Ii0OyHnkL+O8Un3qEjOKi6ji73rt6DPIi75GBFfu3QRg3zQKl8Gh2CaQ5IlxXuJNBNDvnWfX2OWL5OGP/mjA8J7fWFJJs0MbGzksilEyoD02sxVlyGRQzsu+69/XNGNgEx0BgdxXzQvCB3e4Eu5HmaSrYWBtT+Ht51BUsK2G1vf55BqIGicp3OI0ZZuIwmSE9r2vB+ZzgHOF2yxreEy6XxDphYfBmy2vLITA9xqoPx2PA4eAVIM4EIt8FOvIwCRl0vSZ13N3zzyntB/i0Ki5Pp6gwmf5+pFlCQOJQhghIgDnXF0xXFvFXvBeJU3EpVyArWtvvVEz8rr8DkFFvdD2Z74MAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;prof student flow&quot;
-        title=&quot;&quot;
-        src=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/4973e/prof-student-flow.png&quot;
-        srcset=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/d50ba/prof-student-flow.png 182w,
-/static/a231fe65671ac8d38fa3066e4fb08825/5c7f6/prof-student-flow.png 364w,
-/static/a231fe65671ac8d38fa3066e4fb08825/4973e/prof-student-flow.png 728w,
-/static/a231fe65671ac8d38fa3066e4fb08825/be5df/prof-student-flow.png 1092w,
-/static/a231fe65671ac8d38fa3066e4fb08825/29a7f/prof-student-flow.png 1456w,
-/static/a231fe65671ac8d38fa3066e4fb08825/48856/prof-student-flow.png 2184w,
-/static/a231fe65671ac8d38fa3066e4fb08825/7bab8/prof-student-flow.png 3016w&quot;
+        title=&quot;prof student flow&quot;
+        src=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/cecac/prof-student-flow.png&quot;
+        srcset=&quot;/static/a231fe65671ac8d38fa3066e4fb08825/a51ee/prof-student-flow.png 182w,
+/static/a231fe65671ac8d38fa3066e4fb08825/e45a9/prof-student-flow.png 364w,
+/static/a231fe65671ac8d38fa3066e4fb08825/cecac/prof-student-flow.png 728w,
+/static/a231fe65671ac8d38fa3066e4fb08825/2cffa/prof-student-flow.png 1092w,
+/static/a231fe65671ac8d38fa3066e4fb08825/3ceac/prof-student-flow.png 1456w,
+/static/a231fe65671ac8d38fa3066e4fb08825/fc651/prof-student-flow.png 3016w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;The user task flow for asking and answering in the classroom&lt;/em&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -434,41 +375,37 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;While this flow might seem simple, what types of issues cause an “unhappy path?” How might we handle cases when there is low network connectivity? What happens when multiple questions are asked at once? How can we encourage students to respond to questions faster, so that we don’t waste valuable class time? How can we make things work the way students expect them to?&lt;/p&gt;
 &lt;h1&gt;Problems&lt;/h1&gt;
 &lt;p&gt;Someone, somewhere, probably in a Medium article, said “Good designers fall in love with the problem, not their solutions.” Our team’s firm grounding in research made it easy to discover problems. From the observational research, event tracking data, and design heuristics we were able to have productive discussions to prioritize which problems we would tackle together.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/7c411/student-flow.png&quot;
+    href=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/76a99/student-flow.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 68.84512085944495%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAAB3UlEQVQ4y41TCW7jMAz0//9YoAGSpmmyvm2J1MHO0Hbb7RbFCiAkkaPhIbIpMZpcrya32yavrx/3WopZraZt+6GPl4vJ25vb48uL6Z+HAWTHarKqxWEwmSbTeba8LCbj5HvJ2VJK0C+msFNPrN+BVX+zWAbukCbnYv00WzuMJnicEJXCcO9660EgIhYFTmEL2EMU4LKfoya/R2CWNVjEuVFEOIGQEgLSB5BRdXCwrKsp7suy2kAMolnxcMS5px16Cu/EB5SvIcGj7VwIZtgKz5W1g40RCjwn6DxanKk/UiylegC0F2TXkOQgpNdaPgu8PSpOwmiJpTCSGZFRT7vj+IH8FLIz1RijA/irdZctguI2OttSXn1v+8HJWTLiiHdC+2UdKWUI4YVO4KDujfIlGV8kbdge4fn5s8cgejlbHkdL9AwC9iBt8Xw2Qe/FXcLp5D15kG0pI2RFSiriMuPHBv4ge023YgtKkvARlQ6+CsrF/S9CPppQYNYigmREbYZusBn18d9jjeEw7w9/WgfZTqh2xw/PIEloZrndLT2dMFKdKdJdQ/B2IfHx+Lt8i1BtxESwOTklPnYPzO6AseLYwc4uSCn/E81PywnZFt60nBTcOVqy69lKJMz5/wjfAdLJRiRA0SoxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.84512085944495%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAAB3UlEQVQ4y41TCW7jMAz0//9YoAGSpmmyvm2J1MHO0Hbb7RbFCiAkkaPhIbIpMZpcrya32yavrx/3WopZraZt+6GPl4vJ25vb48uL6Z+HAWTHarKqxWEwmSbTeba8LCbj5HvJ2VJK0C+msFNPrN+BVX+zWAbukCbnYv00WzuMJnicEJXCcO9660EgIhYFTmEL2EMU4LKfoya/R2CWNVjEuVFEOIGQEgLSB5BRdXCwrKsp7suy2kAMolnxcMS5px16Cu/EB5SvIcGj7VwIZtgKz5W1g40RCjwn6DxanKk/UiylegC0F2TXkOQgpNdaPgu8PSpOwmiJpTCSGZFRT7vj+IH8FLIz1RijA/irdZctguI2OttSXn1v+8HJWTLiiHdC+2UdKWUI4YVO4KDujfIlGV8kbdge4fn5s8cgejlbHkdL9AwC9iBt8Xw2Qe/FXcLp5D15kG0pI2RFSiriMuPHBv4ge023YgtKkvARlQ6+CsrF/S9CPppQYNYigmREbYZusBn18d9jjeEw7w9/WgfZTqh2xw/PIEloZrndLT2dMFKdKdJdQ/B2IfHx+Lt8i1BtxESwOTklPnYPzO6AseLYwc4uSCn/E81PywnZFt60nBTcOVqy69lKJMz5/wjfAdLJRiRA0SoxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Student user flow&quot;
-        title=&quot;&quot;
-        src=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/4973e/student-flow.png&quot;
-        srcset=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/d50ba/student-flow.png 182w,
-/static/ffafc7cfbdf6cfe09f308e705ac8e06c/5c7f6/student-flow.png 364w,
-/static/ffafc7cfbdf6cfe09f308e705ac8e06c/4973e/student-flow.png 728w,
-/static/ffafc7cfbdf6cfe09f308e705ac8e06c/be5df/student-flow.png 1092w,
-/static/ffafc7cfbdf6cfe09f308e705ac8e06c/7c411/student-flow.png 1117w&quot;
+        title=&quot;Student user flow&quot;
+        src=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/cecac/student-flow.png&quot;
+        srcset=&quot;/static/ffafc7cfbdf6cfe09f308e705ac8e06c/a51ee/student-flow.png 182w,
+/static/ffafc7cfbdf6cfe09f308e705ac8e06c/e45a9/student-flow.png 364w,
+/static/ffafc7cfbdf6cfe09f308e705ac8e06c/cecac/student-flow.png 728w,
+/static/ffafc7cfbdf6cfe09f308e705ac8e06c/2cffa/student-flow.png 1092w,
+/static/ffafc7cfbdf6cfe09f308e705ac8e06c/76a99/student-flow.png 1117w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;This diagram helped align our team around what needs to focus on&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;For students in the classroom we discovered the following needs:&lt;/p&gt;
 &lt;ol&gt;
@@ -511,150 +448,117 @@ HTML/CSS fixes&lt;/p&gt;
 &lt;p&gt;This is the exciting part of design.&lt;/p&gt;
 &lt;h2&gt;The Product Dictionary&lt;/h2&gt;
 &lt;p&gt;The first step was to start to align around language. &lt;a href=&quot;http://www.adambourret.com/&quot;&gt;Adam&lt;/a&gt;, another designer on my team, had lead a project on improving the professor experience in Classroom. We came up with a &lt;strong&gt;Product Dictionary&lt;/strong&gt; the would help to define what language conventions we’d use in our designs.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/0059d268ead6e49587faadd199809283/8c8a4/classroom-dictionary.png&quot;
+    href=&quot;/static/0059d268ead6e49587faadd199809283/8170e/classroom-dictionary.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 77.11069418386491%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAChElEQVQ4y11UiY6iQBD1/79ssxN1x2NwAEcOuUFAdBQQ39YrBrNZkkqLdr96R7WzzWaD9/d3ZFmGKIrQti2GYcCj7/F4PLSG4Yle3r+/v3Xld23Xa93bDrd7+6pZEAQIwxBcDcPA3rZg7j5hmQbs3W/Ylon1ainNQgG8oes6bVjWJ1TnGterNNHGgzToMDufz7jdbojjGB8fHwiOR7jOHr7vwHMdOM4BpvEG52DjcrkqQz6OY8MwP+F6HvKiQPPzmwLe73cFXIn0g+PC27/B+5oL6xinU4GyrMF9ZMdDZHgRtgS6Xq/6W13XKl8lH4UVVzJ0HAeFbMzzTCpHVVWoylKAT8Lw8mLoGhZc+4BM9hJIbJaGwnCxWGA+n4tEXz0kCAEJwHUqAjMwspSzSI/CPs3VN4b0fI7BzZIk0cMMZrvdatoTCD/TCsrhZlpDQD5R7MMNfKRppumOqYtkT0xlcWSWyyXGd1eZckzIjFLJgGDKUCimaQzP91DV9LdB0zTSUMaGprI7mVJyFCcIwkgYRwJaKCsCsyiZe58SSna+IznVaCSQh7zz6SjZdV2YpqlhrFYrhIGLJPYQRz6i0HtJJ9OJISl6aYW9F8qeUCwrhel5DGUKgB4yZdv8A2P9S4Z7oUXWDM227ddNofxCLPGEjCNlWdZ4y+ghtVMKzd9stgIcIIm+xKMEYZSoFWzG4rxNiWZFKpVrYAyl64eRIUOgXM7iar0W4BBNncjhSm8QPfy3+v4nZbHElVAotxWwe/8zNvSHiZIyxyZXC6rXzZiKm3UOVfKAou5wjMax6vV+P0bJNJuyKWm32ylbyi7ldvzPjoynP4c0K+Qe+zI6vqgLcNL9Lf4CikFtOBWeu1cAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.11069418386491%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAChElEQVQ4y11UiY6iQBD1/79ssxN1x2NwAEcOuUFAdBQQ39YrBrNZkkqLdr96R7WzzWaD9/d3ZFmGKIrQti2GYcCj7/F4PLSG4Yle3r+/v3Xld23Xa93bDrd7+6pZEAQIwxBcDcPA3rZg7j5hmQbs3W/Ylon1ainNQgG8oes6bVjWJ1TnGterNNHGgzToMDufz7jdbojjGB8fHwiOR7jOHr7vwHMdOM4BpvEG52DjcrkqQz6OY8MwP+F6HvKiQPPzmwLe73cFXIn0g+PC27/B+5oL6xinU4GyrMF9ZMdDZHgRtgS6Xq/6W13XKl8lH4UVVzJ0HAeFbMzzTCpHVVWoylKAT8Lw8mLoGhZc+4BM9hJIbJaGwnCxWGA+n4tEXz0kCAEJwHUqAjMwspSzSI/CPs3VN4b0fI7BzZIk0cMMZrvdatoTCD/TCsrhZlpDQD5R7MMNfKRppumOqYtkT0xlcWSWyyXGd1eZckzIjFLJgGDKUCimaQzP91DV9LdB0zTSUMaGprI7mVJyFCcIwkgYRwJaKCsCsyiZe58SSna+IznVaCSQh7zz6SjZdV2YpqlhrFYrhIGLJPYQRz6i0HtJJ9OJISl6aYW9F8qeUCwrhel5DGUKgB4yZdv8A2P9S4Z7oUXWDM227ddNofxCLPGEjCNlWdZ4y+ghtVMKzd9stgIcIIm+xKMEYZSoFWzG4rxNiWZFKpVrYAyl64eRIUOgXM7iar0W4BBNncjhSm8QPfy3+v4nZbHElVAotxWwe/8zNvSHiZIyxyZXC6rXzZiKm3UOVfKAou5wjMax6vV+P0bJNJuyKWm32ylbyi7ldvzPjoynP4c0K+Qe+zI6vqgLcNL9Lf4CikFtOBWeu1cAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;product dictionary in classroom&quot;
-        title=&quot;&quot;
-        src=&quot;/static/0059d268ead6e49587faadd199809283/4973e/classroom-dictionary.png&quot;
-        srcset=&quot;/static/0059d268ead6e49587faadd199809283/d50ba/classroom-dictionary.png 182w,
-/static/0059d268ead6e49587faadd199809283/5c7f6/classroom-dictionary.png 364w,
-/static/0059d268ead6e49587faadd199809283/4973e/classroom-dictionary.png 728w,
-/static/0059d268ead6e49587faadd199809283/be5df/classroom-dictionary.png 1092w,
-/static/0059d268ead6e49587faadd199809283/29a7f/classroom-dictionary.png 1456w,
-/static/0059d268ead6e49587faadd199809283/8c8a4/classroom-dictionary.png 2132w&quot;
+        title=&quot;product dictionary in classroom&quot;
+        src=&quot;/static/0059d268ead6e49587faadd199809283/cecac/classroom-dictionary.png&quot;
+        srcset=&quot;/static/0059d268ead6e49587faadd199809283/a51ee/classroom-dictionary.png 182w,
+/static/0059d268ead6e49587faadd199809283/e45a9/classroom-dictionary.png 364w,
+/static/0059d268ead6e49587faadd199809283/cecac/classroom-dictionary.png 728w,
+/static/0059d268ead6e49587faadd199809283/2cffa/classroom-dictionary.png 1092w,
+/static/0059d268ead6e49587faadd199809283/3ceac/classroom-dictionary.png 1456w,
+/static/0059d268ead6e49587faadd199809283/8170e/classroom-dictionary.png 2132w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;The beginning of our Product Dictionary&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;We gathered common terms that we would use to describe actions inside of our product. For example, do you “send” a student’s answer, or do you “submit” a students answer? Aligning our language conventions kept our products in sync, and made the experience less confusing for users.&lt;/p&gt;
 &lt;h2&gt;2. Improved Questions &amp;#x26; Slides on iOS&lt;/h2&gt;
 &lt;p&gt;I worked on 3-4 different prototypes to help solve some of these issues. To generate ideas, I planned a sketching session with the mobile development team, and a separate session with the design team. I presented some of the problems we identified, we looked at how slides and questions work inside of the app currently. After sketching, I gathered these ideas to put together initial prototypes using Invision to create video clips I could start to send to colleagues on Slack to help start prioritization discussions.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/2bfef/slides-ideation.png&quot;
+    href=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/05883/slides-ideation.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 84.61538461538461%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACwUlEQVQ4y1VU2W4bMQz0/7+1fUmPX2ne0xZwkgJ1gLpxkzS142MvabU6dzrk2kkqQJBEUeRwSGpWyoiYMlLOKKXAh8BzgsgzZZmygbKcC2TImngveqI/jqOuIUSVz+RBPyQa5Oozqi7oubEZPmaEIcC2jncBxvb6yPQOHfdNa9AZq45r7sXJTAzVXU8lPqQhHwvi0bgLBc4nxCgIBmx2ezztD9gdKgVQNR3W20l2qFsUop2lVNC2FtZ5uMEjENUQJNRRH8kKjFiuBzp21BtUV+6EGtsTjLXwjEDCnxVBYxwNReVCKGht0HAwZj5OSsPNg8PjtsGeSDo70OCobw5VjT0Rx5gmhEKy6eiBlzwr6SHhech2b2VHR+Sr6Qx6ohQ9z0QIh4JQopsQMqSBcAfN0pTJ5fIWZx8+4uz9J7x5+w6fz89VLhGUIwUyZa9ZHl/2alASEdKo3InNqm7w9dscF1+uMJ9fYvX7bjIoIXDcbgI59f/JspadGiyaCIF/mhOKCcdpyANNBKkx5LXroyKS0PMxQbLORNF7D0seembMOUc+gpZLw3KSvdyfCt8NA1caT1G5a9tWZ13X6kxDls3rKbITSkU6QtG8HnLdsjoaJrTrxLBRh4pQkGmbKQp2xzE5GjQNjZTFdKThaFi4k2YwPaPj7K2jrEwcDgzjNQDhqKXXUdqS3VIZFrALKpNR2amLrDEaatM0qKpKAc2mT2Aq6KnZi2bbuqhJ6FzGtk3KoWeBCsJtE2G99HmEI8ruaFiTIkaQ+XNwRu/gmYTM30cKuSTK5PeJ5Tl8wn6uwZcxajRah8LX9wePixuD61+1/i77NmC+cri8tVj+MYr2sc7UcZwWu24qkeUm8m3E6mn6VNRgZE/ebDIW9x6rbVRvTZ9xdRew+JuxM0XRrtuCxWPEj/tB70Xv5zrg+j6w0CNpmgz+AwiSKEa1AfMCAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 84.61538461538461%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACwUlEQVQ4y1VU2W4bMQz0/7+1fUmPX2ne0xZwkgJ1gLpxkzS142MvabU6dzrk2kkqQJBEUeRwSGpWyoiYMlLOKKXAh8BzgsgzZZmygbKcC2TImngveqI/jqOuIUSVz+RBPyQa5Oozqi7oubEZPmaEIcC2jncBxvb6yPQOHfdNa9AZq45r7sXJTAzVXU8lPqQhHwvi0bgLBc4nxCgIBmx2ezztD9gdKgVQNR3W20l2qFsUop2lVNC2FtZ5uMEjENUQJNRRH8kKjFiuBzp21BtUV+6EGtsTjLXwjEDCnxVBYxwNReVCKGht0HAwZj5OSsPNg8PjtsGeSDo70OCobw5VjT0Rx5gmhEKy6eiBlzwr6SHhech2b2VHR+Sr6Qx6ohQ9z0QIh4JQopsQMqSBcAfN0pTJ5fIWZx8+4uz9J7x5+w6fz89VLhGUIwUyZa9ZHl/2alASEdKo3InNqm7w9dscF1+uMJ9fYvX7bjIoIXDcbgI59f/JspadGiyaCIF/mhOKCcdpyANNBKkx5LXroyKS0PMxQbLORNF7D0seembMOUc+gpZLw3KSvdyfCt8NA1caT1G5a9tWZ13X6kxDls3rKbITSkU6QtG8HnLdsjoaJrTrxLBRh4pQkGmbKQp2xzE5GjQNjZTFdKThaFi4k2YwPaPj7K2jrEwcDgzjNQDhqKXXUdqS3VIZFrALKpNR2amLrDEaatM0qKpKAc2mT2Aq6KnZi2bbuqhJ6FzGtk3KoWeBCsJtE2G99HmEI8ruaFiTIkaQ+XNwRu/gmYTM30cKuSTK5PeJ5Tl8wn6uwZcxajRah8LX9wePixuD61+1/i77NmC+cri8tVj+MYr2sc7UcZwWu24qkeUm8m3E6mn6VNRgZE/ebDIW9x6rbVRvTZ9xdRew+JuxM0XRrtuCxWPEj/tB70Xv5zrg+j6w0CNpmgz+AwiSKEa1AfMCAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;ideation for slides&quot;
-        title=&quot;&quot;
-        src=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/4973e/slides-ideation.png&quot;
-        srcset=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/d50ba/slides-ideation.png 182w,
-/static/2d8b100b3c024d10c529a85fbf88b070/5c7f6/slides-ideation.png 364w,
-/static/2d8b100b3c024d10c529a85fbf88b070/4973e/slides-ideation.png 728w,
-/static/2d8b100b3c024d10c529a85fbf88b070/be5df/slides-ideation.png 1092w,
-/static/2d8b100b3c024d10c529a85fbf88b070/29a7f/slides-ideation.png 1456w,
-/static/2d8b100b3c024d10c529a85fbf88b070/48856/slides-ideation.png 2184w,
-/static/2d8b100b3c024d10c529a85fbf88b070/2bfef/slides-ideation.png 2808w&quot;
+        title=&quot;ideation for slides&quot;
+        src=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/cecac/slides-ideation.png&quot;
+        srcset=&quot;/static/2d8b100b3c024d10c529a85fbf88b070/a51ee/slides-ideation.png 182w,
+/static/2d8b100b3c024d10c529a85fbf88b070/e45a9/slides-ideation.png 364w,
+/static/2d8b100b3c024d10c529a85fbf88b070/cecac/slides-ideation.png 728w,
+/static/2d8b100b3c024d10c529a85fbf88b070/2cffa/slides-ideation.png 1092w,
+/static/2d8b100b3c024d10c529a85fbf88b070/3ceac/slides-ideation.png 1456w,
+/static/2d8b100b3c024d10c529a85fbf88b070/05883/slides-ideation.png 2808w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;This is a small sample of some of the UI iterations we explored&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Sometimes you need to dream big and look at the ideal situation, even if it won’t be fully implemented. This can help expand the realm of possibility, and help get better compromises that put greater focus on the user. If you think small, ideas can sometimes get squeezed and scoped down into nonexistence, and in the end the user suffers.&lt;/p&gt;
 &lt;h3&gt;What We Built&lt;/h3&gt;
 &lt;p&gt;After discussing, prioritizing, and thinking pragmatically about what we could build, we settled upon a design that was still user focused. We prioritized improving the &lt;strong&gt;questions experience&lt;/strong&gt;, since it’s the primary task students need to accomplish. The ideas we looked at around optimizing the slides experience were great, but viewing slides is a secondary task, and is used less on mobile due to the screen size.&lt;/p&gt;
-&lt;p&gt;&lt;div&gt;
-          &lt;div
-            class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
-          &gt;
-            &lt;div class=&quot;embedVideo-container&quot;&gt;
-            &lt;iframe src=&quot;https://player.vimeo.com/video/321020847&quot; class=&quot;embedVideo-iframe&quot; allowfullscreen style=&quot;
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-          &quot;&gt;&lt;/iframe&gt;
-        &lt;/div&gt;
-      &lt;style&gt;
-        .embedVideo-iframe {
-          border: 0
-        }
-      &lt;/style&gt;
-          &lt;/div&gt;
-          &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe src=&quot;https://player.vimeo.com/video/321020847&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;A walkthrough of the questions UI flow&lt;/em&gt; &lt;a href=&quot;https://overflow.io/s/78N8WQ/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;View the Flow made in Overflow&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A piece was still missing. We couldn’t just forget about slides. After all, 50% of the professors that use Classroom present slides in Top Hat. Though, we didn’t have the resources to rebuild how slides worked, so we found a simple compromise to reuse the existing slide carousel functionality. I believe that this compromise actually made the design simpler and clearer to understand for users, and still keeps questions at the forefront.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 728px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/73eda/slides-final.png&quot;
+    href=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/302a4/slides-final.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 728px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 72.87037037037038%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAACR0lEQVQ4y21U227TQBC11JemUlFSNS/pY3nlUijvwE/R/wB+C4RAtKIkLYRSBdLEXnvXu7bXhzPr2klaVhl7PDN79sxlE7kKyAtPqWDLGoYG7UQHNB8iEiN2kSbWU/e3Nh/2SYy8I1GUdsEhqywJYkzQlUqRGYvL6TWeH7+gHOPo6BkePX4S9KfUX756jcmPX6jREItyMokzi9PxFGfjn1jESXAWpRxQB+AvZ2NEURSk1+vh4OCg+97e7tF/HuICoCnqJi2mHCdklGkkusCNKuB9w/rz6QpwZ2cHo9EIW1tb4Xt39wEBv68AKZhezfD23XuMJxcELlFVVQhoAb9+u8RwOMT+/j729vbQ7/eDPhgMcHj4EKfnF6uUWUdMLqc4OXmDDx8/QecWBUHruqawAa5kSQrYPEdOWS5j1lYhTVPkrHWaZUhZN2miq9gUTVSbkxF/cZqhXQ0gu24rKFMi1QbJmn99aVt1nY5y1lCxKUs2Yx2oFSu1JUM1T3B1/Qe5dV05xO9IKFsHlKYYmTetoMhAghrg5nTHbsdsUppq1tbfO1RsG4DaSZ08StbNmLw7OQDfMpSuG5NxClSY0xY0MOV7k6Frbsnd2rUbGoYlPJnIgUVZbjL0/j+Azm+cuq63Kd9dHUNf30/ZsrDiaAJ9l5akL4CSsgC0Met+YajvA1aY82ZoS/ocj9l8gZIpzhdxuEUyNhlH629S0F7h92zO1CssebNUZjb+ICJRZMONctxgCSyy0kOHCbZIG1tjd5jLmyJ23QHW+Af6zEbDDjxjgQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.87037037037038%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAACR0lEQVQ4y21U227TQBC11JemUlFSNS/pY3nlUijvwE/R/wB+C4RAtKIkLYRSBdLEXnvXu7bXhzPr2klaVhl7PDN79sxlE7kKyAtPqWDLGoYG7UQHNB8iEiN2kSbWU/e3Nh/2SYy8I1GUdsEhqywJYkzQlUqRGYvL6TWeH7+gHOPo6BkePX4S9KfUX756jcmPX6jREItyMokzi9PxFGfjn1jESXAWpRxQB+AvZ2NEURSk1+vh4OCg+97e7tF/HuICoCnqJi2mHCdklGkkusCNKuB9w/rz6QpwZ2cHo9EIW1tb4Xt39wEBv68AKZhezfD23XuMJxcELlFVVQhoAb9+u8RwOMT+/j729vbQ7/eDPhgMcHj4EKfnF6uUWUdMLqc4OXmDDx8/QecWBUHruqawAa5kSQrYPEdOWS5j1lYhTVPkrHWaZUhZN2miq9gUTVSbkxF/cZqhXQ0gu24rKFMi1QbJmn99aVt1nY5y1lCxKUs2Yx2oFSu1JUM1T3B1/Qe5dV05xO9IKFsHlKYYmTetoMhAghrg5nTHbsdsUppq1tbfO1RsG4DaSZ08StbNmLw7OQDfMpSuG5NxClSY0xY0MOV7k6Frbsnd2rUbGoYlPJnIgUVZbjL0/j+Azm+cuq63Kd9dHUNf30/ZsrDiaAJ9l5akL4CSsgC0Met+YajvA1aY82ZoS/ocj9l8gZIpzhdxuEUyNhlH629S0F7h92zO1CssebNUZjb+ICJRZMONctxgCSyy0kOHCbZIG1tjd5jLmyJ23QHW+Af6zEbDDjxjgQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Final implementation of slides&quot;
-        title=&quot;&quot;
-        src=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/4973e/slides-final.png&quot;
-        srcset=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/d50ba/slides-final.png 182w,
-/static/07daadfcf2aff81cfec295c58e3f8f0c/5c7f6/slides-final.png 364w,
-/static/07daadfcf2aff81cfec295c58e3f8f0c/4973e/slides-final.png 728w,
-/static/07daadfcf2aff81cfec295c58e3f8f0c/73eda/slides-final.png 1080w&quot;
+        title=&quot;Final implementation of slides&quot;
+        src=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/cecac/slides-final.png&quot;
+        srcset=&quot;/static/07daadfcf2aff81cfec295c58e3f8f0c/a51ee/slides-final.png 182w,
+/static/07daadfcf2aff81cfec295c58e3f8f0c/e45a9/slides-final.png 364w,
+/static/07daadfcf2aff81cfec295c58e3f8f0c/cecac/slides-final.png 728w,
+/static/07daadfcf2aff81cfec295c58e3f8f0c/302a4/slides-final.png 1080w&quot;
         sizes=&quot;(max-width: 728px) 100vw, 728px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    
+    &lt;/span&gt;
 &lt;em&gt;Caption: Our implementation using the existing slides carousel&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;User Testing &amp;#x26; Roll Out&lt;/h2&gt;
 &lt;p&gt;Another advantage to having access to classrooms, was that we could mitigate product risk by testing new features in classrooms. After building, we loaded a build of the improved classroom experience onto our QA test devices, and brought them to a classroom.&lt;/p&gt;
 &lt;p&gt;We took videos of students using our app live in a real classroom. This helped us to scoop up some bugs and interaction design issues, allowing us to be more confident to roll it out. From a qualitative standpoint, the design was a success.&lt;/p&gt;
 &lt;p&gt;To date, we have released it to 100% of users, and it has landed successfully, without any major issues. As the semester progresses, we’re learning more and will have more measurable data.&lt;/p&gt;
-&lt;p&gt;This is one piece of the retention puzzle. There were other parts of the product that we improved, as well as worked on other people focused strategies to improve retention. Though our current retention rate on Classroom is much higher, it’s hard to attribute it to only one action!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio Site]]></title><description><![CDATA[How I Designed This Designing a portfolio isn’t rocket science. It’s a basic website that has a few pages worth of content. Regardless of…]]></description><link>http://www.tylerbenning.com//personal-projects/tylerbenning-website/</link><guid isPermaLink="false">http://www.tylerbenning.com//personal-projects/tylerbenning-website/</guid><pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;How I Designed This&lt;/h2&gt;
+&lt;p&gt;This is one piece of the retention puzzle. There were other parts of the product that we improved, as well as worked on other people focused strategies to improve retention. Though our current retention rate on Classroom is much higher, it’s hard to attribute it to only one action!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio Site]]></title><description><![CDATA[How I Designed This Designing a portfolio isn’t rocket science. It’s a basic website that has a few pages worth of content. Regardless of…]]></description><link>http://www.tylerbenning.com/personal-projects/tylerbenning-website/</link><guid isPermaLink="false">http://www.tylerbenning.com/personal-projects/tylerbenning-website/</guid><pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;How I Designed This&lt;/h2&gt;
 &lt;p&gt;Designing a portfolio isn’t rocket science. It’s a basic website that has a few pages worth of content. Regardless of its simplicity, I still approached this project the same way I approach most design projects. Figure out who the users are and what they want to accomplish.&lt;/p&gt;
 &lt;p&gt;Based on the conversations I’d had around my past portfolios (v1 v2), I figured that most users were:&lt;/p&gt;
 &lt;ul&gt;
@@ -714,7 +618,7 @@ _ &lt;a href=&quot;http://www.laurengreenway.com/&quot;&gt;Lauren Codes 🌛&lt;
 &lt;p&gt;As for my writing tools, I write everything using Bear. I found it a few months back, and now I write all my notes on Bear. There’s a handy feature where you can copy everything as markdown, so I just copy and paste everything from Bear to my markdown files. Sure, there are more elegant CMS’, but I don’t mind updating my markdown files manually and pushing them to Github pages.&lt;/p&gt;
 &lt;h2&gt;SOS: Send Help&lt;/h2&gt;
 &lt;p&gt;It’s been a wild ride getting this thing going, if you’re curious about the source code for this site, check the project out on Github. I always appreciate feedback on how to improve the site and refactor my code.&lt;/p&gt;
-&lt;p&gt;Better yet, fork it and use it for your own portfolio or blog project!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Launching an Open Source Brand]]></title><description><![CDATA[My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and…]]></description><link>http://www.tylerbenning.com//personal-projects/all-contributors/</link><guid isPermaLink="false">http://www.tylerbenning.com//personal-projects/all-contributors/</guid><pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and communities. He’s the guy that pops up at designer’s desks to ask for logos, UI mocks flag and coffee mug designs for sometimes-neat-ideas he’s stewing over. This wasn’t the first time Jake has asked me for a favour, and likely won’t be the last.&lt;/p&gt;
+&lt;p&gt;Better yet, fork it and use it for your own portfolio or blog project!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Launching an Open Source Brand]]></title><description><![CDATA[My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and…]]></description><link>http://www.tylerbenning.com/personal-projects/all-contributors/</link><guid isPermaLink="false">http://www.tylerbenning.com/personal-projects/all-contributors/</guid><pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My friend from work Jake has pioneered the open source initiative at work, and has been getting more involved in different projects and communities. He’s the guy that pops up at designer’s desks to ask for logos, UI mocks flag and coffee mug designs for sometimes-neat-ideas he’s stewing over. This wasn’t the first time Jake has asked me for a favour, and likely won’t be the last.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Jake:&lt;/strong&gt; Hey Tyler, wanna do a logo for hell cool project? Check it out!
 &lt;a href=&quot;https://github.com/all-contributors&quot;&gt;All Contributors · GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tyler:&lt;/strong&gt; Hmm, yeah I’d be down. I’ll sketch a couple ideas and wrap something up tomorrow?&lt;/p&gt;
