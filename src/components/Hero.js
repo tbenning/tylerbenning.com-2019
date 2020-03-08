@@ -11,6 +11,7 @@ const HeroContainer = styled.div`
   padding: 60px 0 20px 0;
   display: flex;
   justify-content: flex-start;
+  margin-bottom: 40px;
   @media (max-width: ${deviceSize.smallMedium}) {
     flex-direction: column;
     flex-wrap: nowrap;

@@ -26,7 +26,7 @@ class BlogIndex extends React.Component {
         />
         <Tabs>
           <div label="About Work"> 
-          <p>Product design is what I do at work everyday at <a href="http://www.togetherplatform.com" target="_blank" rel="noopener">Together</a>. </p>
+          <p>Product design is what I do at work at <a href="http://www.togetherplatform.com" target="_blank" rel="noopener">Together</a>. </p>
           <p>Sometimes that means fixing lots of small obvious problems that improve quality. Other times
           it means starting big ambitious projects from scratch. On some
           occasions, it means talking through problems and designing my way out
