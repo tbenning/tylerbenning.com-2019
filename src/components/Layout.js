@@ -9,7 +9,7 @@ import MobileNav from './MobileNav'
 import Footer from './Footer'
 
 const Topstrip = styled.div`
-  height: 20px;
+  height: 16px;
   width: 100%;
   background-color: #07243e;
   position: fixed;
