@@ -3,6 +3,7 @@ import Layout from '../components/Layout'
 import ProjectItem from '../components/ProjectItem'
 import placeholder from '../assets/placeholder.png'
 import styled from 'styled-components'
+import { graphql } from 'gatsby'
 
 const ItemContainer = styled.div``
 

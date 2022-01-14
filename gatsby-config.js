@@ -7,12 +7,12 @@ module.exports = {
     author: `Tyler Benning`,
     description: `The portfolio and stories of Tyler Benning `,
     keywords: `ux design, ui, ux/ui, product, product design`,
-    siteUrl: `http://www.tylerbenning.com/`,
+    siteUrl: `https://tbenning.github.io/tylerbenning.com-2019/`,
     social: {
       twitter: `tylerbenning_`,
     },
   },
-  pathPrefix: '/',
+  pathPrefix: '/tylerbenning.com-2019/',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -62,7 +62,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -77,26 +76,6 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    {
-      //What a mess it took to get this going. I quit on google tags, this works fine instead.
-      // https://github.com/gatsbyjs/gatsby/issues/3896
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GATSBY_GA_ID,
-        //trackingId: process.env.GATSBY_GA_ID,
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // Setting this parameter is optional
-        anonymize: true,
-        // Setting this parameter is also optional
-        respectDNT: true,
-        // Avoids sending pageview hits from custom paths
-        exclude: ['/preview/**'],
-        sampleRate: 5,
-        siteSpeedSampleRate: 10,
-        cookieDomain: 'tylerbenning.com',
-      },
-    },
     {
       resolve: `gatsby-plugin-styled-components`,
       options: {

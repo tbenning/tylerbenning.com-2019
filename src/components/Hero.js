@@ -7,6 +7,7 @@ import heroTop from '../assets/hero-2@2x.jpg'
 import { HeroButton } from './HeroButton.js'
 
 const HeroContainer = styled.div`
+  max-width: 1200px;
   margin: 0 auto;
   padding: 60px 0 20px 0;
   display: flex;
