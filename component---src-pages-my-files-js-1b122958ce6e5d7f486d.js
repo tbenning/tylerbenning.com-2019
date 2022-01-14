@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"9Gez":function(e,n,o){"use strict";o.r(n);var a=o("q1tI"),t=o.n(a),l=o("7oih");n.default=function(e){var n=e.data;return console.log(n),t.a.createElement(l.a,{location:"/my-files"},t.a.createElement("div",null,"Hello World"))}}}]);
+//# sourceMappingURL=component---src-pages-my-files-js-1b122958ce6e5d7f486d.js.map

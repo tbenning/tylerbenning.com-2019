@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktyler_bennning_portfolio=self.webpackChunktyler_bennning_portfolio||[]).push([[276],{3882:function(e,n,l){l.r(n);var t=l(7294),o=l(740);n.default=function(e){var n=e.data;return console.log(n),t.createElement(o.Z,{location:"/my-files"},t.createElement("div",null,"Hello World"))}}}]);
+//# sourceMappingURL=component---src-pages-my-files-js-e9aa572c2db60235fb52.js.map

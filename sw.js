@@ -27,36 +27,46 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-f2ae1fad71e5bd824677.js"
+    "url": "webpack-runtime-ef5b717372df6d75c84d.js"
   },
   {
-    "url": "commons-6eb520ecdeb3ee43fc72.js"
+    "url": "framework-6e010146ae8684dd37d8.js"
   },
   {
-    "url": "app-058789ed9312bfc25db2.js"
-  },
-  {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-2fb560e943ea9fad2129.js"
+    "url": "app-4c1af2e623a65fc43610.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "6e14cec2ffd5663bfa55f7d7e98534db"
+    "revision": "d8e365020423a2b619e337bae201a317"
+  },
+  {
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-e6ece616a6ad35509a4d.js"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "f2c002077289a7e1ac538802bc7f5314"
+  },
+  {
+    "url": "page-data/app-data.json",
+    "revision": "173e3c74a3d44dd959bcb8dd07c4fbb5"
+  },
+  {
+    "url": "polyfill-7b5ac22c499c9e5bb8ea.js"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "b02e9972c6738375456cb508246505d0"
+    "revision": "7122a0e0c9f1608385102ef8d3db4822"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerRoute(/(\.js$|\.css$|static\/)/, new workbox.strategies.CacheFirst(), 'GET');
-workbox.routing.registerRoute(/^https?:.*\page-data\/.*\/page-data\.json/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
-workbox.routing.registerRoute(/^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
+workbox.routing.registerRoute(/^https?:.*\/page-data\/.*\.json/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
+workbox.routing.registerRoute(/^https?:.*\.(png|jpg|jpeg|webp|avif|svg|gif|tiff|js|woff|woff2|json|css)$/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
 workbox.routing.registerRoute(/^https?:\/\/fonts\.googleapis\.com\/css/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
 
 /* global importScripts, workbox, idbKeyval */
-
-importScripts(`idb-keyval-iife.min.js`)
+importScripts(`idb-keyval-3.2.0-iife.min.js`)
 
 const { NavigationRoute } = workbox.routing
 
@@ -71,6 +81,24 @@ const MessageAPI = {
 
   clearPathResources: event => {
     event.waitUntil(idbKeyval.clear())
+
+    // We detected compilation hash mismatch
+    // we should clear runtime cache as data
+    // files might be out of sync and we should
+    // do fresh fetches for them
+    event.waitUntil(
+      caches.keys().then(function (keyList) {
+        return Promise.all(
+          keyList.map(function (key) {
+            if (key && key.includes(`runtime`)) {
+              return caches.delete(key)
+            }
+
+            return Promise.resolve()
+          })
+        )
+      })
+    )
   },
 
   enableOfflineShell: () => {
@@ -132,12 +160,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^`), ``)
+  pathname = pathname.replace(new RegExp(`^/tylerbenning.com-2019`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-058789ed9312bfc25db2.js`))) {
+  if (!resources || !(await caches.match(`/tylerbenning.com-2019/app-4c1af2e623a65fc43610.js`))) {
     return await fetch(event.request)
   }
 
@@ -150,7 +178,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/tylerbenning.com-2019/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
